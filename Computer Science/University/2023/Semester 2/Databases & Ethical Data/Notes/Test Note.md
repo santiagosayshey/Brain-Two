@@ -1,0 +1,3 @@
+Practical note:
+
+![[Hello World!]]

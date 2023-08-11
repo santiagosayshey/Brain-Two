@@ -1,0 +1,236 @@
+{
+  "main": {
+    "id": "6ba6c2afe5ee287c",
+    "type": "split",
+    "children": [
+      {
+        "id": "ae172113718c3342",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e66964271281d53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/University/2023/Semester 2/Computer Systems/Notes/2.2 Memory.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5b2a9e9edca5980a",
+    "type": "split",
+    "children": [
+      {
+        "id": "66d14ed263dee9ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a5ef5a2ad01c17da",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2a41a5839ebda340",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "REST",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f4b89fc17059c6d3",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "6dfe69681323522d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 420.5069465637207
+  },
+  "right": {
+    "id": "aa62b20f309fcaf1",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d5f78a51cf97245",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "19efc8441adc23c5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Computer Science/University/2023/Semester 2/Computer Systems/Notes/2.2 Memory.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8092ad0ff8de6a7d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Computer Science/University/2023/Semester 2/Computer Systems/Notes/2.2 Memory.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f836d11631eeda32",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "de4eada996507f92",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "fbaf847a76ea587a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b45eb44ca1d12868",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Computer Science/University/2023/Semester 2/Computer Systems/Notes/2.2 Memory.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 364.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "publish:Publish changes...": true,
+      "markdown-importer:Open format converter": true,
+      "audio-recorder:Start/stop recording": false,
+      "workspaces:Manage workspace layouts": true,
+      "switcher:Open quick switcher": true,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": true,
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": true,
+      "random-note:Open random note": true,
+      "zk-prefixer:Create new unique note": true
+    }
+  },
+  "active": "a5ef5a2ad01c17da",
+  "lastOpenFiles": [
+    "New Text Document.txt",
+    "New folder",
+    "Computer Science/University/2023/Semester 2/Computer Systems/Notes/2.1 Boolean Arithmetic.md",
+    "Computer Science/University/2023/Semester 2/Computer Systems/Notes/3.1 Machine Language.md",
+    "Computer Science/University/2023/Semester 2/Computer Systems/Notes/4.1 Computer Architecture.md",
+    "Computer Science/External/React/Notes/1.2 Javascript Fundamentals.md",
+    "Computer Science/External/React/Notes/1.1 Setting Up React.md",
+    "Computer Science/External/React/Exercises/1.1 React Demo.md",
+    "Computer Science/University/2023/Semester 2/Computer Systems/Notes/2.2 Memory.md",
+    "Computer Science/Computer Science.md",
+    "Computer Science/External/React/Notes/JavaScript Fundamentals",
+    "Computer Science/External/React/Notes/React Notes",
+    "Computer Science/External/React/Notes/Untitled.md",
+    "Computer Science/External/Images/menu.png",
+    "Computer Science/External/React/Exercises",
+    "Computer Science/External/React/Exercises.md",
+    "Computer Science/External/Images/Pasted image 20230807163544.png",
+    "Computer Science/External/Images/Pasted image 20230807143308.png",
+    "Workshop 2 - Preparation { Samuel Chau }.pdf",
+    "Computer Science/External/React/Notes",
+    "Computer Science/University/2023/Semester 1/Web and Database Computing/Notes/11.2 Securing a Web Application.md",
+    "Computer Science/External/React",
+    "Computer Science/University/2023/Semester 1/Web and Database Computing/Notes/10.2 Combining Tables and Queries.md",
+    "Computer Science/University/2023/Semester 1/Web and Database Computing/Notes/10.1 Schema Implementation & SQL Constraints.md",
+    "Computer Science/University/2023/Semester 1/Web and Database Computing/Notes/9.2 Server Libraries & Interfaces.md",
+    "Computer Science/University/2023/Semester 1/Web and Database Computing/Notes/8.4 Cookies and Sessions.md",
+    "Computer Science/University/2023/Semester 1/Web and Database Computing/Notes/8.2 Advanced HTTP Requests.md",
+    "Computer Science/University/2023/Semester 1/Web and Database Computing/Exam/Task 2.md",
+    "Computer Science/University/2023/Semester 2/Computer Systems/Notes/1.1 Boolean Logic.md",
+    "Computer Science/University/2023/Semester 2/Computer Systems/Notes/1.2 Logic Gates.md",
+    "Computer Science/University/2023/Semester 2/Databases & Ethical Data/Notes/4.1 Normalisation.md",
+    "Computer Science/University/2023/Semester 2/Databases & Ethical Data/Notes/3.3 NoSQL.md",
+    "Computer Science/University/2023/Semester 2/Databases & Ethical Data/Workshops/Workshop 2 - Preparation { Samuel Chau }.md",
+    "Computer Science/University/2023/Semester 1/Web and Database Computing/Notes/5.2 Relational Database Schemas.md",
+    "Computer Science/External/Images/Pasted image 20230807163404.png",
+    "Computer Science/External/Images/Pasted image 20230807163224.png",
+    "Computer Science/External/Images/Pasted image 20230807145212.png",
+    "Computer Science/External/Images/Pasted image 20230807145033.png",
+    "Computer Science/External/Images/Pasted image 20230807144832.png",
+    "Computer Science/External/Images/Pasted image 20230807144455.png",
+    "Computer Science/External/Images/Pasted image 20230807144240.png",
+    "Computer Science/University/2023/Semester 1/Systems Programming/Notes/10.1 Asynchronous IO.md",
+    "Computer Science/University/2023/Semester 1/Systems Programming/Notes/11.1 Sockets.md",
+    "Personal Site",
+    "Computer Science/University/2023/Semester 2/Problem Solving and Software Development/Notes",
+    "Completed Courses/Systems Programming/Workshops",
+    "Databases & Ethical Data/Canvas.canvas",
+    "Completed Courses/Web and Database Computing/Untitled.canvas",
+    "Computer Science/University/2023/Semester 2/Databases & Ethical Data/Canvas.canvas",
+    "Computer Science/University/2023/Semester 1/Web and Database Computing/Untitled.canvas",
+    "Systems Programming/Quizzes/Untitled.canvas",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Uni/2023/Web and Database Computing/Notes/Untitled.canvas"
+  ]
+}
