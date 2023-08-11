@@ -19,22 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "e13c53dd39c69b71",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/React/Notes/1.2 Javascript Fundamentals.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
