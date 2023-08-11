@@ -44,8 +44,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -119,6 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Computer Science/Computer Systems/Notes/4.1 Computer Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,6 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Computer Science/Computer Systems/Notes/4.1 Computer Architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,8 +159,17 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "db45eddcc2ddb3a1",
+            "type": "leaf",
+            "state": {
+              "type": "pieces-snippet-list",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "fbaf847a76ea587a",
@@ -170,7 +180,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Computer Science/Computer Systems/Notes/4.1 Computer Architecture.md"
+              }
             }
           }
         ]
@@ -196,7 +208,7 @@
       "pieces-for-developers:Pieces For Developers": false
     }
   },
-  "active": "19efc8441adc23c5",
+  "active": "4e66964271281d53",
   "lastOpenFiles": [
     "piecesdb.json",
     "Computer Science/Computer Systems/Notes/4.1 Computer Architecture.md",
