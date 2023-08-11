@@ -92,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 420.5069465637207
+    "width": 420.5069465637207,
+    "collapsed": true
   },
   "right": {
     "id": "aa62b20f309fcaf1",
@@ -183,11 +184,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 682.5
+    "width": 358.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,7 +209,7 @@
       "pieces-for-developers:Pieces For Developers": false
     }
   },
-  "active": "e13c53dd39c69b71",
+  "active": "b45eb44ca1d12868",
   "lastOpenFiles": [
     "Computer Science/Computer Systems/Notes/3.1 Machine Language.md",
     "Computer Science/Systems Programming/Notes/2.1 Bash Basics.md",
