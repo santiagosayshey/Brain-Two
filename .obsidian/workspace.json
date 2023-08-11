@@ -31,9 +31,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "eae802cafbd23847",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -147,8 +159,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "fbaf847a76ea587a",
@@ -185,7 +196,7 @@
       "pieces-for-developers:Pieces For Developers": false
     }
   },
-  "active": "73c0cd3d5971b73f",
+  "active": "19efc8441adc23c5",
   "lastOpenFiles": [
     "piecesdb.json",
     "Computer Science/Computer Systems/Notes/4.1 Computer Architecture.md",
