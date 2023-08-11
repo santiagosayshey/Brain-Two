@@ -130,14 +130,6 @@
             }
           },
           {
-            "id": "db45eddcc2ddb3a1",
-            "type": "leaf",
-            "state": {
-              "type": "pieces-snippet-list",
-              "state": {}
-            }
-          },
-          {
             "id": "b45eb44ca1d12868",
             "type": "leaf",
             "state": {
@@ -154,7 +146,21 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
+      },
+      {
+        "id": "79787aed8b968054",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db45eddcc2ddb3a1",
+            "type": "leaf",
+            "state": {
+              "type": "pieces-snippet-list",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
