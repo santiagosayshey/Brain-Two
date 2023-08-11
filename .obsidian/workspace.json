@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/University/2023/Semester 2/Computer Systems/Notes/4.1 Computer Architecture.md",
+                "file": "Computer Science/Computer Systems/Notes/4.1 Computer Architecture.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/University/2023/Semester 2/Computer Systems/Notes/4.1 Computer Architecture.md",
+                "file": "Computer Science/Computer Systems/Notes/4.1 Computer Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/University/2023/Semester 2/Computer Systems/Notes/4.1 Computer Architecture.md",
+                "file": "Computer Science/Computer Systems/Notes/4.1 Computer Architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/University/2023/Semester 2/Computer Systems/Notes/4.1 Computer Architecture.md"
+                "file": "Computer Science/Computer Systems/Notes/4.1 Computer Architecture.md"
               }
             }
           }
@@ -176,14 +176,14 @@
       "zk-prefixer:Create new unique note": true
     }
   },
-  "active": "4e66964271281d53",
+  "active": "a5ef5a2ad01c17da",
   "lastOpenFiles": [
-    "Computer Science/University/2023/Semester 2/Computer Systems/Notes/2.2 Memory.md",
+    "Computer Science/Computer Systems/Notes/2.2 Memory.md",
     "New Text Document.txt",
     "New folder",
-    "Computer Science/University/2023/Semester 2/Computer Systems/Notes/2.1 Boolean Arithmetic.md",
-    "Computer Science/University/2023/Semester 2/Computer Systems/Notes/3.1 Machine Language.md",
-    "Computer Science/University/2023/Semester 2/Computer Systems/Notes/4.1 Computer Architecture.md",
+    "Computer Science/Computer Systems/Notes/2.1 Boolean Arithmetic.md",
+    "Computer Science/Computer Systems/Notes/3.1 Machine Language.md",
+    "Computer Science/Computer Systems/Notes/4.1 Computer Architecture.md",
     "Computer Science/External/React/Notes/1.2 Javascript Fundamentals.md",
     "Computer Science/External/React/Notes/1.1 Setting Up React.md",
     "Computer Science/External/React/Exercises/1.1 React Demo.md",
@@ -206,11 +206,11 @@
     "Computer Science/University/2023/Semester 1/Web and Database Computing/Notes/8.4 Cookies and Sessions.md",
     "Computer Science/University/2023/Semester 1/Web and Database Computing/Notes/8.2 Advanced HTTP Requests.md",
     "Computer Science/University/2023/Semester 1/Web and Database Computing/Exam/Task 2.md",
-    "Computer Science/University/2023/Semester 2/Computer Systems/Notes/1.1 Boolean Logic.md",
-    "Computer Science/University/2023/Semester 2/Computer Systems/Notes/1.2 Logic Gates.md",
-    "Computer Science/University/2023/Semester 2/Databases & Ethical Data/Notes/4.1 Normalisation.md",
-    "Computer Science/University/2023/Semester 2/Databases & Ethical Data/Notes/3.3 NoSQL.md",
-    "Computer Science/University/2023/Semester 2/Databases & Ethical Data/Workshops/Workshop 2 - Preparation { Samuel Chau }.md",
+    "Computer Science/Computer Systems/Notes/1.1 Boolean Logic.md",
+    "Computer Science/Computer Systems/Notes/1.2 Logic Gates.md",
+    "Computer Science/Databases & Ethical Data/Notes/4.1 Normalisation.md",
+    "Computer Science/Databases & Ethical Data/Notes/3.3 NoSQL.md",
+    "Computer Science/Databases & Ethical Data/Workshops/Workshop 2 - Preparation { Samuel Chau }.md",
     "Computer Science/University/2023/Semester 1/Web and Database Computing/Notes/5.2 Relational Database Schemas.md",
     "Computer Science/External/Images/Pasted image 20230807163404.png",
     "Computer Science/External/Images/Pasted image 20230807163224.png",
@@ -222,7 +222,7 @@
     "Computer Science/University/2023/Semester 1/Systems Programming/Notes/10.1 Asynchronous IO.md",
     "Computer Science/University/2023/Semester 1/Systems Programming/Notes/11.1 Sockets.md",
     "Personal Site",
-    "Computer Science/University/2023/Semester 2/Problem Solving and Software Development/Notes",
+    "Computer Science/Problem Solving and Software Development/Notes",
     "Databases & Ethical Data/Canvas.canvas",
     "Completed Courses/Web and Database Computing/Untitled.canvas",
     "Computer Science/University/2023/Semester 2/Databases & Ethical Data/Canvas.canvas",
