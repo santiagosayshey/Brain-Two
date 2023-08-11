@@ -1,6 +1,5 @@
 [
   "obsidian-pandoc",
   "execute-code",
-  "obsidian-git",
-  "copilot"
+  "obsidian-git"
 ]
