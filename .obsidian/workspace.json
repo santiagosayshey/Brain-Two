@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Computer Systems/Notes/3.1 Machine Language.md",
+                "file": "Computer Science/Computer Systems/Notes/4.1 Computer Architecture.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/React/Notes/1.2 Javascript Fundamentals.md",
+                "file": "Computer Science/Computer Systems/Notes/4.1 Computer Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/React/Notes/1.2 Javascript Fundamentals.md",
+                "file": "Computer Science/Computer Systems/Notes/4.1 Computer Architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/React/Notes/1.2 Javascript Fundamentals.md"
+                "file": "Computer Science/Computer Systems/Notes/4.1 Computer Architecture.md"
               }
             }
           }
@@ -195,9 +195,10 @@
       "pieces-for-developers:Pieces For Developers": false
     }
   },
-  "active": "b45eb44ca1d12868",
+  "active": "689e0578bc35552d",
   "lastOpenFiles": [
     "Computer Science/Computer Systems/Notes/3.1 Machine Language.md",
+    "Computer Science/React/Notes/1.2 Javascript Fundamentals.md",
     "Computer Science/Systems Programming/Notes/2.1 Bash Basics.md",
     "Computer Science/Web and Database Computing/Untitled.md",
     "Computer Science/Computer Systems/Notes/4.1 Computer Architecture.md",
@@ -211,7 +212,6 @@
     "New Text Document.txt",
     "New folder",
     "Computer Science/Computer Systems/Notes/2.1 Boolean Arithmetic.md",
-    "Computer Science/React/Notes/1.2 Javascript Fundamentals.md",
     "Computer Science/React/Notes/1.1 Setting Up React.md",
     "Computer Science/React/Exercises/1.1 React Demo.md",
     "Computer Science/External/React/Notes/JavaScript Fundamentals",
