@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/University/2023/Semester 2/Computer Systems/Notes/2.2 Memory.md",
+                "file": "Computer Science/University/2023/Semester 2/Computer Systems/Notes/4.1 Computer Architecture.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/University/2023/Semester 2/Computer Systems/Notes/2.2 Memory.md",
+                "file": "Computer Science/University/2023/Semester 2/Computer Systems/Notes/4.1 Computer Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/University/2023/Semester 2/Computer Systems/Notes/2.2 Memory.md",
+                "file": "Computer Science/University/2023/Semester 2/Computer Systems/Notes/4.1 Computer Architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/University/2023/Semester 2/Computer Systems/Notes/2.2 Memory.md"
+                "file": "Computer Science/University/2023/Semester 2/Computer Systems/Notes/4.1 Computer Architecture.md"
               }
             }
           }
@@ -176,8 +176,9 @@
       "zk-prefixer:Create new unique note": true
     }
   },
-  "active": "a5ef5a2ad01c17da",
+  "active": "4e66964271281d53",
   "lastOpenFiles": [
+    "Computer Science/University/2023/Semester 2/Computer Systems/Notes/2.2 Memory.md",
     "New Text Document.txt",
     "New folder",
     "Computer Science/University/2023/Semester 2/Computer Systems/Notes/2.1 Boolean Arithmetic.md",
@@ -186,7 +187,6 @@
     "Computer Science/External/React/Notes/1.2 Javascript Fundamentals.md",
     "Computer Science/External/React/Notes/1.1 Setting Up React.md",
     "Computer Science/External/React/Exercises/1.1 React Demo.md",
-    "Computer Science/University/2023/Semester 2/Computer Systems/Notes/2.2 Memory.md",
     "Computer Science/Computer Science.md",
     "Computer Science/External/React/Notes/JavaScript Fundamentals",
     "Computer Science/External/React/Notes/React Notes",
@@ -223,7 +223,6 @@
     "Computer Science/University/2023/Semester 1/Systems Programming/Notes/11.1 Sockets.md",
     "Personal Site",
     "Computer Science/University/2023/Semester 2/Problem Solving and Software Development/Notes",
-    "Completed Courses/Systems Programming/Workshops",
     "Databases & Ethical Data/Canvas.canvas",
     "Completed Courses/Web and Database Computing/Untitled.canvas",
     "Computer Science/University/2023/Semester 2/Databases & Ethical Data/Canvas.canvas",
