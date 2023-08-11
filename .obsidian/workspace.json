@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "3fe8c99279a1b9e1",
+        "id": "005f7f212ce414fc",
         "type": "tabs",
         "children": [
           {
-            "id": "aa88fefb7a0b9afa",
+            "id": "689e0578bc35552d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Computer Systems/Notes/3.1 Machine Language.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Computer Science/Computer Systems/Notes/3.1 Machine Language.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Computer Science/Computer Systems/Notes/3.1 Machine Language.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,14 +137,6 @@
             }
           },
           {
-            "id": "b45eb44ca1d12868",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {}
-            }
-          },
-          {
             "id": "a9ecd4403c36c592",
             "type": "leaf",
             "state": {
@@ -146,7 +145,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       },
       {
         "id": "79787aed8b968054",
@@ -159,8 +158,19 @@
               "type": "pieces-snippet-list",
               "state": {}
             }
+          },
+          {
+            "id": "b45eb44ca1d12868",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Computer Science/Computer Systems/Notes/3.1 Machine Language.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -183,14 +193,15 @@
       "pieces-for-developers:Pieces For Developers": false
     }
   },
-  "active": "a9ecd4403c36c592",
+  "active": "689e0578bc35552d",
   "lastOpenFiles": [
+    "Computer Science/Computer Systems/Notes/4.1 Computer Architecture.md",
+    "Computer Science/Web and Database Computing/Notes/3.1 JavaScript Fundamentals.md",
     "Computer Science/Web and Database Computing/Notes/9.3 Database Integeration in Web Applications.md",
     "Computer Science/Computer Systems/Notes/3.1 Machine Language.md",
     "Computer Science/Databases & Ethical Data/Notes/4.1 Normalisation.md",
     "Computer Science/Web and Database Computing/Notes/1.1 Intro to HTML.md",
     "Computer Science/Computer Science.md",
-    "Computer Science/Computer Systems/Notes/4.1 Computer Architecture.md",
     "piecesdb.json",
     "Computer Science/Computer Systems/Notes/2.2 Memory.md",
     "New Text Document.txt",
@@ -229,7 +240,6 @@
     "Computer Science/Images/Pasted image 20230807144832.png",
     "Computer Science/Images/Pasted image 20230807144455.png",
     "Computer Science/Images/Pasted image 20230807144240.png",
-    "Computer Science/Systems Programming/Notes/10.1 Asynchronous IO.md",
     "Personal Site",
     "Databases & Ethical Data/Canvas.canvas",
     "Completed Courses/Web and Database Computing/Untitled.canvas",
