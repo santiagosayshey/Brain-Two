@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2ab5b1301fb06929",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Computer Systems/Notes/1.2 Logic Gates.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Computer Systems/Notes/2.1 Boolean Arithmetic.md",
+                "file": "Computer Science/Computer Systems/Notes/1.2 Logic Gates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Computer Systems/Notes/2.1 Boolean Arithmetic.md",
+                "file": "Computer Science/Computer Systems/Notes/1.2 Logic Gates.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Computer Systems/Notes/2.1 Boolean Arithmetic.md"
+                "file": "Computer Science/Computer Systems/Notes/1.2 Logic Gates.md"
               }
             }
           }
@@ -193,8 +207,9 @@
       "zk-prefixer:Create new unique note": true
     }
   },
-  "active": "79ba6a18552685d3",
+  "active": "2ab5b1301fb06929",
   "lastOpenFiles": [
+    "Computer Science/Computer Systems/Notes/2.1 Boolean Arithmetic.md",
     "Computer Science/Computer Systems/Notes/2.2 Memory.md",
     "Computer Science/Computer Systems/Notes/4.1 Computer Architecture.md",
     "Computer Science/Computer Systems/Practicals/ALU-nostat.tst",
@@ -203,7 +218,6 @@
     "Computer Science/Computer Systems/Practicals/ALU.hdl",
     "Computer Science/Computer Systems/Practicals/ALU.cmp",
     "Computer Science/Computer Systems/Notes/3.1 Machine Language.md",
-    "Computer Science/Computer Systems/Notes/2.1 Boolean Arithmetic.md",
     "Computer Science/Computer Systems/Practicals/Inc16.out",
     "Computer Science/Computer Systems/Practicals/Not.hdl",
     "Computer Science/Computer Systems/Practicals/Or.hdl",
