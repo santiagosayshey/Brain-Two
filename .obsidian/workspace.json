@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Computer Systems/Notes/4.1 Computer Architecture.md",
+                "file": "Computer Science/Computer Systems/Notes/2.1 Boolean Arithmetic.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Computer Systems/Notes/4.1 Computer Architecture.md",
+                "file": "Computer Science/Computer Systems/Notes/2.1 Boolean Arithmetic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Computer Systems/Notes/4.1 Computer Architecture.md",
+                "file": "Computer Science/Computer Systems/Notes/2.1 Boolean Arithmetic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Computer Systems/Notes/4.1 Computer Architecture.md"
+                "file": "Computer Science/Computer Systems/Notes/2.1 Boolean Arithmetic.md"
               }
             }
           }
@@ -195,21 +195,20 @@
   },
   "active": "79ba6a18552685d3",
   "lastOpenFiles": [
+    "Computer Science/Computer Systems/Notes/2.2 Memory.md",
+    "Computer Science/Computer Systems/Notes/4.1 Computer Architecture.md",
     "Computer Science/Computer Systems/Practicals/ALU-nostat.tst",
     "Computer Science/Computer Systems/Practicals/ALU-nostat.cmp",
     "Computer Science/Computer Systems/Practicals/ALU.tst",
     "Computer Science/Computer Systems/Practicals/ALU.hdl",
     "Computer Science/Computer Systems/Practicals/ALU.cmp",
     "Computer Science/Computer Systems/Notes/3.1 Machine Language.md",
-    "Computer Science/Computer Systems/Notes/2.2 Memory.md",
     "Computer Science/Computer Systems/Notes/2.1 Boolean Arithmetic.md",
     "Computer Science/Computer Systems/Practicals/Inc16.out",
     "Computer Science/Computer Systems/Practicals/Not.hdl",
     "Computer Science/Computer Systems/Practicals/Or.hdl",
     "Computer Science/Computer Systems/Practicals/Or.htl",
     "Computer Science/Computer Systems/Practicals/Inc16.hdl",
-    "Computer Science/Computer Systems/Practicals/Inc16.cmp",
-    "Computer Science/Computer Systems/Notes/4.1 Computer Architecture.md",
     "Computer Science/React/Notes/1.6 Props.md",
     "Computer Science/React/Notes/1.5 CSS.md",
     "Computer Science/React/Notes/1.4 JSX.md",
