@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/React/Notes/1.6 Props.md",
+                "file": "Computer Science/Computer Systems/Notes/4.1 Computer Architecture.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 420.5069465637207,
-    "collapsed": true
+    "width": 420.5069465637207
   },
   "right": {
     "id": "aa62b20f309fcaf1",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/React/Notes/1.6 Props.md",
+                "file": "Computer Science/Computer Systems/Notes/4.1 Computer Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/React/Notes/1.6 Props.md",
+                "file": "Computer Science/Computer Systems/Notes/4.1 Computer Architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/React/Notes/1.6 Props.md"
+                "file": "Computer Science/Computer Systems/Notes/4.1 Computer Architecture.md"
               }
             }
           }
@@ -196,8 +195,9 @@
   },
   "active": "79ba6a18552685d3",
   "lastOpenFiles": [
-    "Computer Science/React/Notes/1.5 CSS.md",
+    "Computer Science/Computer Systems/Notes/3.1 Machine Language.md",
     "Computer Science/React/Notes/1.6 Props.md",
+    "Computer Science/React/Notes/1.5 CSS.md",
     "Computer Science/React/Notes/1.4 JSX.md",
     "Pasted image 20230813010848.png",
     "Pasted image 20230813010831.png",
@@ -212,7 +212,6 @@
     "Pasted image 20230813001004.png",
     "Computer Science/React/Notes/1.1 Setting Up React.md",
     "Computer Science/React/Notes/1.2 Javascript Fundamentals.md",
-    "Computer Science/Computer Systems/Notes/3.1 Machine Language.md",
     "Computer Science/Computer Systems/Notes/4.1 Computer Architecture.md",
     "Computer Science/Systems Programming/Notes/2.1 Bash Basics.md",
     "Computer Science/Web and Database Computing/Untitled.md",
