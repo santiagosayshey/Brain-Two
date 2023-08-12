@@ -189,8 +189,7 @@
       "templates:Insert template": true,
       "command-palette:Open command palette": true,
       "random-note:Open random note": true,
-      "zk-prefixer:Create new unique note": true,
-      "pieces-for-developers:Pieces For Developers": false
+      "zk-prefixer:Create new unique note": true
     }
   },
   "active": "204f2f86bac92b29",
