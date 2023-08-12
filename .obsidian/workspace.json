@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/React/Notes/1.5 CSS.md",
+                "file": "Computer Science/React/Notes/1.6 Props.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 420.5069465637207
+    "width": 420.5069465637207,
+    "collapsed": true
   },
   "right": {
     "id": "aa62b20f309fcaf1",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/React/Notes/1.5 CSS.md",
+                "file": "Computer Science/React/Notes/1.6 Props.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/React/Notes/1.5 CSS.md",
+                "file": "Computer Science/React/Notes/1.6 Props.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/React/Notes/1.5 CSS.md"
+                "file": "Computer Science/React/Notes/1.6 Props.md"
               }
             }
           }
@@ -195,8 +196,8 @@
   },
   "active": "79ba6a18552685d3",
   "lastOpenFiles": [
-    "Computer Science/React/Notes/1.6 Props.md",
     "Computer Science/React/Notes/1.5 CSS.md",
+    "Computer Science/React/Notes/1.6 Props.md",
     "Computer Science/React/Notes/1.4 JSX.md",
     "Pasted image 20230813010848.png",
     "Pasted image 20230813010831.png",
