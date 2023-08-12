@@ -209,6 +209,7 @@
   },
   "active": "2ab5b1301fb06929",
   "lastOpenFiles": [
+    "Computer Science/Computer Systems/Practicals/DMux.hdl",
     "Computer Science/Computer Systems/Practicals/ALU-nostat.out",
     "Computer Science/Computer Systems/Practicals/generate.py",
     "Computer Science/Computer Systems/Practicals/DMux16.hdl",
@@ -224,7 +225,6 @@
     "Computer Science/Computer Systems/Practicals/ALU.hdl",
     "Computer Science/Computer Systems/Practicals/ALU.cmp",
     "Computer Science/Computer Systems/Notes/3.1 Machine Language.md",
-    "Computer Science/Computer Systems/Practicals/Inc16.out",
     "Computer Science/React/Notes/1.6 Props.md",
     "Computer Science/React/Notes/1.5 CSS.md",
     "Computer Science/React/Notes/1.4 JSX.md",
