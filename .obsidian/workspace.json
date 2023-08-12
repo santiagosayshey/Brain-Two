@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Computer Systems/Notes/2.1 Boolean Arithmetic.md",
+                "file": "Computer Science/Computer Systems/Notes/4.1 Computer Architecture.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Computer Systems/Notes/2.1 Boolean Arithmetic.md",
+                "file": "Computer Science/Computer Systems/Notes/4.1 Computer Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Computer Systems/Notes/2.1 Boolean Arithmetic.md",
+                "file": "Computer Science/Computer Systems/Notes/4.1 Computer Architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Computer Systems/Notes/2.1 Boolean Arithmetic.md"
+                "file": "Computer Science/Computer Systems/Notes/4.1 Computer Architecture.md"
               }
             }
           }
@@ -193,8 +193,11 @@
       "zk-prefixer:Create new unique note": true
     }
   },
-  "active": "a5ef5a2ad01c17da",
+  "active": "79ba6a18552685d3",
   "lastOpenFiles": [
+    "Computer Science/Computer Systems/Notes/3.1 Machine Language.md",
+    "Computer Science/Computer Systems/Notes/2.2 Memory.md",
+    "Computer Science/Computer Systems/Notes/2.1 Boolean Arithmetic.md",
     "Computer Science/Computer Systems/Practicals/Inc16.out",
     "Computer Science/Computer Systems/Practicals/Not.hdl",
     "Computer Science/Computer Systems/Practicals/Or.hdl",
@@ -205,8 +208,6 @@
     "Computer Science/Computer Systems/Practicals/HalfAdder.cmp",
     "Computer Science/Computer Systems/Practicals/FullAdder.tst",
     "Computer Science/Computer Systems/Practicals/FullAdder.hdl",
-    "Computer Science/Computer Systems/Practicals/FullAdder.cmp",
-    "Computer Science/Computer Systems/Notes/3.1 Machine Language.md",
     "Computer Science/Computer Systems/Notes/4.1 Computer Architecture.md",
     "Computer Science/React/Notes/1.6 Props.md",
     "Computer Science/React/Notes/1.5 CSS.md",
@@ -231,8 +232,6 @@
     "Computer Science/Databases & Ethical Data/Notes/4.1 Normalisation.md",
     "Computer Science/Web and Database Computing/Notes/1.1 Intro to HTML.md",
     "Computer Science/Computer Science.md",
-    "Computer Science/Computer Systems/Notes/2.2 Memory.md",
-    "Computer Science/Computer Systems/Notes/2.1 Boolean Arithmetic.md",
     "Computer Science/React/Exercises/1.1 React Demo.md",
     "Computer Science/External/React/Notes/Untitled.md",
     "Computer Science/External/React/Exercises.md",
