@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/React/Notes/1.2 Javascript Fundamentals.md",
+                "file": "Computer Science/React/Notes/1.3 Components.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/React/Notes/1.2 Javascript Fundamentals.md",
+                "file": "Computer Science/React/Notes/1.3 Components.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/React/Notes/1.2 Javascript Fundamentals.md",
+                "file": "Computer Science/React/Notes/1.3 Components.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/React/Notes/1.2 Javascript Fundamentals.md"
+                "file": "Computer Science/React/Notes/1.3 Components.md"
               }
             }
           }
@@ -194,8 +194,9 @@
   },
   "active": "204f2f86bac92b29",
   "lastOpenFiles": [
-    "Computer Science/React/Notes/1.1 Setting Up React.md",
     "Computer Science/React/Notes/1.2 Javascript Fundamentals.md",
+    "Computer Science/React/Notes/1.3 Components.md",
+    "Computer Science/React/Notes/1.1 Setting Up React.md",
     "Computer Science/Computer Systems/Notes/3.1 Machine Language.md",
     "Computer Science/Computer Systems/Notes/4.1 Computer Architecture.md",
     "Computer Science/Systems Programming/Notes/2.1 Bash Basics.md",
@@ -231,7 +232,6 @@
     "Computer Science/Web and Database Computing/Exam/Task 2.md",
     "Computer Science/Computer Systems/Notes/1.1 Boolean Logic.md",
     "Computer Science/Computer Systems/Notes/1.2 Logic Gates.md",
-    "Computer Science/Databases & Ethical Data/Notes/3.3 NoSQL.md",
     "Computer Science/Images/Pasted image 20230807163404.png",
     "Computer Science/Images/Pasted image 20230807163224.png",
     "Computer Science/Images/Pasted image 20230807145212.png",
