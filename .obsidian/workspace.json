@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "76258b9ac5824d3c",
+        "id": "2eaa3a842936c126",
         "type": "tabs",
         "children": [
           {
-            "id": "4f8046afae074c33",
+            "id": "ceb74ea6b1405ec4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Electives/Intro to Forensic Sciences/Notes/1.1 Decomposition.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -94,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electives/Intro to Forensic Sciences/Notes/1.1 Decomposition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electives/Intro to Forensic Sciences/Notes/1.1 Decomposition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,9 +157,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Electives/Intro to Forensic Sciences/Notes/1.1 Decomposition.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -193,11 +184,12 @@
       "zk-prefixer:Create new unique note": true
     }
   },
-  "active": "4f8046afae074c33",
+  "active": "ceb74ea6b1405ec4",
   "lastOpenFiles": [
-    "Electives/Intro to Forensic Sciences/IFS Timetable 2023 -Semester 2.pdf",
-    "Electives/Intro to Forensic Sciences/Notes/1.1 Decomposition.md",
     "Electives/Intro to Forensic Sciences/Readings/Fundamentals of Forensic Science.pdf",
+    "Electives/Intro to Forensic Sciences/Readings/Atlas of Forensic Pathology.pdf",
+    "Electives/Intro to Forensic Sciences/Notes/1.1 Decomposition.md",
+    "Electives/Intro to Forensic Sciences/IFS Timetable 2023 -Semester 2.pdf",
     "Electives/Intro to Forensic Sciences/Readings",
     "Computer Science/React/Notes/1.6 Dynamic Rendering.md",
     "Electives/Intro to Forensic Sciences/Notes",
@@ -228,7 +220,6 @@
     "Computer Science/Computer Systems/Practicals/ALU.out",
     "Computer Science/Computer Systems/Practicals/And16.hdl",
     "Computer Science/Computer Systems/Practicals/Mux16.hdl",
-    "Computer Science/Computer Systems/Practicals/DMux.hdl",
     "Computer Science/Computer Systems/Notes/2.2 Memory.md",
     "Computer Science/Computer Systems/Notes/4.1 Computer Architecture.md",
     "Computer Science/Computer Systems/Notes/3.1 Machine Language.md",
