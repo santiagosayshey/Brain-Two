@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/React/Exercises/1.2 Profile Card.md",
+                "file": "Computer Science/React/Notes/1.4 JSX.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/React/Exercises/1.2 Profile Card.md",
+                "file": "Computer Science/React/Notes/1.4 JSX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/React/Exercises/1.2 Profile Card.md",
+                "file": "Computer Science/React/Notes/1.4 JSX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/React/Exercises/1.2 Profile Card.md"
+                "file": "Computer Science/React/Notes/1.4 JSX.md"
               }
             }
           }
@@ -195,8 +195,8 @@
   },
   "active": "26d2f4ea6e659ece",
   "lastOpenFiles": [
-    "Computer Science/React/Exercises/1.1 React Demo.md",
     "Computer Science/React/Exercises/1.2 Profile Card.md",
+    "Computer Science/React/Exercises/1.1 React Demo.md",
     "Computer Science/React/Notes/1.6 Props.md",
     "Computer Science/Computer Science.md",
     "Personal Site/Ideas.md",
