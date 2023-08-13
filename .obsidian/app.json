@@ -35,5 +35,6 @@
   "strictLineBreaks": true,
   "showFrontmatter": false,
   "showLineNumber": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "Computer Science/Images"
 }
