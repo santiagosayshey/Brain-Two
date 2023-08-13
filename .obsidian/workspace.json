@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/React/Notes/1.2 Javascript Fundamentals.md",
+                "file": "Computer Science/React/Notes/1.1 Setting Up React.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/React/Notes/1.2 Javascript Fundamentals.md",
+                "file": "Computer Science/React/Notes/1.1 Setting Up React.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/React/Notes/1.2 Javascript Fundamentals.md",
+                "file": "Computer Science/React/Notes/1.1 Setting Up React.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/React/Notes/1.2 Javascript Fundamentals.md"
+                "file": "Computer Science/React/Notes/1.1 Setting Up React.md"
               }
             }
           }
@@ -195,6 +195,7 @@
   },
   "active": "26d2f4ea6e659ece",
   "lastOpenFiles": [
+    "Computer Science/React/Notes/1.2 Javascript Fundamentals.md",
     "Computer Science/React/Notes/1.3 Components.md",
     "Computer Science/React/Notes/1.4 JSX.md",
     "Computer Science/React/Notes/1.5 CSS.md",
@@ -225,7 +226,6 @@
     "Computer Science/Images/Pasted image 20230813010310.png",
     "Computer Science/Images/Pasted image 20230813001923.png",
     "Computer Science/React/Notes/1.1 Setting Up React.md",
-    "Computer Science/React/Notes/1.2 Javascript Fundamentals.md",
     "Computer Science/Systems Programming/Notes/2.1 Bash Basics.md",
     "Computer Science/Web and Database Computing/Untitled.md",
     "Computer Science/Web and Database Computing/Notes/3.1 JavaScript Fundamentals.md",
