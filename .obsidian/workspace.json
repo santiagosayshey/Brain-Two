@@ -13,7 +13,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Electives/Intro to Forensic Sciences/Fundamentals of Forensic Science.pdf"
+                "file": "Electives/Intro to Forensic Sciences/Readings/Fundamentals of Forensic Science.pdf"
               }
             }
           }
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electives/Intro to Forensic Sciences/Fundamentals of Forensic Science.pdf",
+                "file": "Electives/Intro to Forensic Sciences/Readings/Fundamentals of Forensic Science.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electives/Intro to Forensic Sciences/Fundamentals of Forensic Science.pdf",
+                "file": "Electives/Intro to Forensic Sciences/Readings/Fundamentals of Forensic Science.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electives/Intro to Forensic Sciences/Fundamentals of Forensic Science.pdf"
+                "file": "Electives/Intro to Forensic Sciences/Readings/Fundamentals of Forensic Science.pdf"
               }
             }
           }
@@ -192,8 +192,9 @@
   },
   "active": "a5ef5a2ad01c17da",
   "lastOpenFiles": [
+    "Electives/Intro to Forensic Sciences/Readings",
     "Electives/Intro to Forensic Sciences/IFS Timetable 2023 -Semester 2.pdf",
-    "Electives/Intro to Forensic Sciences/Fundamentals of Forensic Science.pdf",
+    "Electives/Intro to Forensic Sciences/Readings/Fundamentals of Forensic Science.pdf",
     "Computer Science/React/Notes/1.6 Dynamic Rendering.md",
     "Electives/Intro to Forensic Sciences/Notes",
     "Electives/Intro to Forensic Sciences",
@@ -225,7 +226,6 @@
     "Computer Science/Computer Systems/Practicals/Mux16.hdl",
     "Computer Science/Computer Systems/Practicals/DMux.hdl",
     "Computer Science/Computer Systems/Practicals/ALU-nostat.out",
-    "Computer Science/Computer Systems/Practicals/generate.py",
     "Computer Science/Computer Systems/Notes/2.2 Memory.md",
     "Computer Science/Computer Systems/Notes/4.1 Computer Architecture.md",
     "Computer Science/Computer Systems/Notes/3.1 Machine Language.md",
