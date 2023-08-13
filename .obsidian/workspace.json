@@ -11,9 +11,12 @@
             "id": "4f8046afae074c33",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Electives/Intro to Forensic Sciences/IFS Timetable 2023 -Semester 2.pdf"
+                "file": "Electives/Intro to Forensic Sciences/Notes/1.1 Decomposition.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -91,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electives/Intro to Forensic Sciences/IFS Timetable 2023 -Semester 2.pdf",
+                "file": "Electives/Intro to Forensic Sciences/Notes/1.1 Decomposition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electives/Intro to Forensic Sciences/IFS Timetable 2023 -Semester 2.pdf",
+                "file": "Electives/Intro to Forensic Sciences/Notes/1.1 Decomposition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electives/Intro to Forensic Sciences/IFS Timetable 2023 -Semester 2.pdf"
+                "file": "Electives/Intro to Forensic Sciences/Notes/1.1 Decomposition.md"
               }
             }
           }
@@ -192,9 +195,10 @@
   },
   "active": "4f8046afae074c33",
   "lastOpenFiles": [
+    "Electives/Intro to Forensic Sciences/IFS Timetable 2023 -Semester 2.pdf",
+    "Electives/Intro to Forensic Sciences/Notes/1.1 Decomposition.md",
     "Electives/Intro to Forensic Sciences/Readings/Fundamentals of Forensic Science.pdf",
     "Electives/Intro to Forensic Sciences/Readings",
-    "Electives/Intro to Forensic Sciences/IFS Timetable 2023 -Semester 2.pdf",
     "Computer Science/React/Notes/1.6 Dynamic Rendering.md",
     "Electives/Intro to Forensic Sciences/Notes",
     "Electives/Intro to Forensic Sciences",
@@ -225,7 +229,6 @@
     "Computer Science/Computer Systems/Practicals/And16.hdl",
     "Computer Science/Computer Systems/Practicals/Mux16.hdl",
     "Computer Science/Computer Systems/Practicals/DMux.hdl",
-    "Computer Science/Computer Systems/Practicals/ALU-nostat.out",
     "Computer Science/Computer Systems/Notes/2.2 Memory.md",
     "Computer Science/Computer Systems/Notes/4.1 Computer Architecture.md",
     "Computer Science/Computer Systems/Notes/3.1 Machine Language.md",
@@ -237,7 +240,6 @@
     "Computer Science/Web and Database Computing/Untitled.md",
     "Computer Science/Web and Database Computing/Notes/3.1 JavaScript Fundamentals.md",
     "Computer Science/Web and Database Computing/Notes/9.3 Database Integeration in Web Applications.md",
-    "Computer Science/Databases & Ethical Data/Notes/4.1 Normalisation.md",
     "Databases & Ethical Data/Canvas.canvas",
     "Completed Courses/Web and Database Computing/Untitled.canvas",
     "Computer Science/University/2023/Semester 2/Databases & Ethical Data/Canvas.canvas",
