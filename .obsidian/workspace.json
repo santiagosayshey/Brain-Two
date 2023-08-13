@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/React/Notes/1.6 Dynamic Rendering.md",
+                "file": "Computer Science/React/Notes/1.1 Setting Up React.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/React/Notes/1.6 Dynamic Rendering.md",
+                "file": "Computer Science/React/Notes/1.1 Setting Up React.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/React/Notes/1.6 Dynamic Rendering.md",
+                "file": "Computer Science/React/Notes/1.1 Setting Up React.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/React/Notes/1.6 Dynamic Rendering.md"
+                "file": "Computer Science/React/Notes/1.1 Setting Up React.md"
               }
             }
           }
@@ -195,12 +195,14 @@
   },
   "active": "d7f1e77804009be2",
   "lastOpenFiles": [
-    "Computer Science/React/Notes/1.3 Components.md",
-    "Computer Science/React/Notes/1.4 JSX.md",
+    "Computer Science/React/Notes/1.7 Section Summary.md",
+    "Computer Science/Images/Pasted image 20230814053939.png",
     "Computer Science/React/Notes/1.6 Dynamic Rendering.md",
     "Computer Science/React/Notes/1.5 Props.md",
-    "Computer Science/React/Notes/1.2 Javascript Fundamentals.md",
+    "Computer Science/React/Notes/1.4 JSX.md",
+    "Computer Science/React/Notes/1.3 Components.md",
     "Computer Science/React/Notes/1.1 Setting Up React.md",
+    "Computer Science/React/Notes/1.2 Javascript Fundamentals.md",
     "Computer Science/React/Notes/1.9 Conditional Rendering.md",
     "Computer Science/React/Notes/1.8 Rendering Lists.md",
     "Computer Science/React/Notes/1.4 Imperative vs Declarative.md",
@@ -233,14 +235,11 @@
     "Computer Science/Images/Pasted image 20230813010831.png",
     "Computer Science/Images/Pasted image 20230813010644.png",
     "Computer Science/Images/Pasted image 20230813010313.png",
-    "Computer Science/Images/Pasted image 20230813010310.png",
     "Computer Science/Systems Programming/Notes/2.1 Bash Basics.md",
     "Computer Science/Web and Database Computing/Untitled.md",
     "Computer Science/Web and Database Computing/Notes/3.1 JavaScript Fundamentals.md",
     "Computer Science/Web and Database Computing/Notes/9.3 Database Integeration in Web Applications.md",
     "Computer Science/Databases & Ethical Data/Notes/4.1 Normalisation.md",
-    "Computer Science/Web and Database Computing/Notes/1.1 Intro to HTML.md",
-    "Computer Science/External/React/Notes/Untitled.md",
     "Databases & Ethical Data/Canvas.canvas",
     "Completed Courses/Web and Database Computing/Untitled.canvas",
     "Computer Science/University/2023/Semester 2/Databases & Ethical Data/Canvas.canvas",
