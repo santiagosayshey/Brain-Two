@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/React/Notes/1.4 JSX.md",
+                "file": "Computer Science/React/Notes/1.5 Props.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -26,15 +26,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/React/Notes/1.5 Props.md",
+                "file": "Computer Science/React/Notes/1.6 Conditional Rendering.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -207,9 +206,10 @@
       "zk-prefixer:Create new unique note": true
     }
   },
-  "active": "d7f1e77804009be2",
+  "active": "26d2f4ea6e659ece",
   "lastOpenFiles": [
     "Computer Science/React/Notes/1.4 JSX.md",
+    "Computer Science/React/Notes/1.6 Conditional Rendering.md",
     "Computer Science/React/Notes/1.5 Props.md",
     "Computer Science/React/Notes/1.3 Components.md",
     "Computer Science/React/Notes/1.2 Javascript Fundamentals.md",
@@ -254,7 +254,6 @@
     "Computer Science/Databases & Ethical Data/Notes/4.1 Normalisation.md",
     "Computer Science/Web and Database Computing/Notes/1.1 Intro to HTML.md",
     "Computer Science/External/React/Notes/Untitled.md",
-    "Computer Science/External/React/Exercises.md",
     "Databases & Ethical Data/Canvas.canvas",
     "Completed Courses/Web and Database Computing/Untitled.canvas",
     "Computer Science/University/2023/Semester 2/Databases & Ethical Data/Canvas.canvas",
