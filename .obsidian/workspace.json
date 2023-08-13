@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/React/Notes/1.2 Javascript Fundamentals.md",
+                "file": "Computer Science/React/Notes/1.8 Rendering Lists.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/React/Notes/1.2 Javascript Fundamentals.md",
+                "file": "Computer Science/React/Notes/1.8 Rendering Lists.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/React/Notes/1.2 Javascript Fundamentals.md",
+                "file": "Computer Science/React/Notes/1.8 Rendering Lists.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/React/Notes/1.2 Javascript Fundamentals.md"
+                "file": "Computer Science/React/Notes/1.8 Rendering Lists.md"
               }
             }
           }
@@ -209,6 +209,7 @@
   },
   "active": "d7f1e77804009be2",
   "lastOpenFiles": [
+    "Computer Science/React/Notes/1.2 Javascript Fundamentals.md",
     "Computer Science/React/Notes/1.8 Rendering Lists.md",
     "Computer Science/React/Notes/1.7 JSX.md",
     "Computer Science/Images/Pasted image 20230814031412.png",
@@ -219,7 +220,6 @@
     "Computer Science/Computer Science.md",
     "Personal Site/Ideas.md",
     "Computer Science/React/Notes/1.1 Setting Up React.md",
-    "Computer Science/React/Notes/1.2 Javascript Fundamentals.md",
     "Computer Science/React/Notes/1.3 Components.md",
     "Computer Science/React/Notes/1.5 CSS.md",
     "Computer Science/Images/Pasted image 20230814013750.png",
