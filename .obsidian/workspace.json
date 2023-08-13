@@ -26,14 +26,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/React/Notes/1.6 Conditional Rendering.md",
+                "file": "Computer Science/React/Notes/1.6 Dynamic Rendering.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/React/Notes/1.5 Props.md",
+                "file": "Computer Science/React/Notes/1.6 Dynamic Rendering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/React/Notes/1.5 Props.md",
+                "file": "Computer Science/React/Notes/1.6 Dynamic Rendering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/React/Notes/1.5 Props.md"
+                "file": "Computer Science/React/Notes/1.6 Dynamic Rendering.md"
               }
             }
           }
@@ -206,11 +207,11 @@
       "zk-prefixer:Create new unique note": true
     }
   },
-  "active": "26d2f4ea6e659ece",
+  "active": "a5ef5a2ad01c17da",
   "lastOpenFiles": [
-    "Computer Science/React/Notes/1.4 JSX.md",
-    "Computer Science/React/Notes/1.6 Conditional Rendering.md",
     "Computer Science/React/Notes/1.5 Props.md",
+    "Computer Science/React/Notes/1.4 JSX.md",
+    "Computer Science/React/Notes/1.6 Dynamic Rendering.md",
     "Computer Science/React/Notes/1.3 Components.md",
     "Computer Science/React/Notes/1.2 Javascript Fundamentals.md",
     "Computer Science/React/Notes/1.1 Setting Up React.md",
