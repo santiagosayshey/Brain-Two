@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/React/Notes/1.6 Props.md",
+                "file": "Computer Science/React/Notes/1.2 Javascript Fundamentals.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/React/Notes/1.6 Props.md",
+                "file": "Computer Science/React/Notes/1.2 Javascript Fundamentals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/React/Notes/1.6 Props.md",
+                "file": "Computer Science/React/Notes/1.2 Javascript Fundamentals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/React/Notes/1.6 Props.md"
+                "file": "Computer Science/React/Notes/1.2 Javascript Fundamentals.md"
               }
             }
           }
@@ -195,10 +195,13 @@
   },
   "active": "26d2f4ea6e659ece",
   "lastOpenFiles": [
+    "Computer Science/React/Notes/1.3 Components.md",
+    "Computer Science/React/Notes/1.4 JSX.md",
+    "Computer Science/React/Notes/1.5 CSS.md",
+    "Computer Science/React/Notes/1.6 Props.md",
     "Computer Science/Images/Pasted image 20230814013750.png",
     "Computer Science/Images/Pasted image 20230814013719.png",
     "Computer Science/Images/Pasted image 20230814013425.png",
-    "Computer Science/React/Notes/1.5 CSS.md",
     "Computer Science/Images/Pasted image 20230813000851.png",
     "Computer Science/Computer Systems/Notes/1.2 Logic Gates.md",
     "Computer Science/Computer Systems/Notes/2.1 Boolean Arithmetic.md",
@@ -215,16 +218,12 @@
     "Computer Science/Computer Systems/Notes/4.1 Computer Architecture.md",
     "Computer Science/Computer Systems/Practicals/ALU-nostat.tst",
     "Computer Science/Computer Systems/Notes/3.1 Machine Language.md",
-    "Computer Science/React/Notes/1.6 Props.md",
-    "Computer Science/React/Notes/1.4 JSX.md",
     "Computer Science/Images/Pasted image 20230813010848.png",
     "Computer Science/Images/Pasted image 20230813010831.png",
     "Computer Science/Images/Pasted image 20230813010644.png",
     "Computer Science/Images/Pasted image 20230813010313.png",
     "Computer Science/Images/Pasted image 20230813010310.png",
-    "Computer Science/React/Notes/1.3 Components.md",
     "Computer Science/Images/Pasted image 20230813001923.png",
-    "Computer Science/Images/Pasted image 20230813001853.png",
     "Computer Science/React/Notes/1.1 Setting Up React.md",
     "Computer Science/React/Notes/1.2 Javascript Fundamentals.md",
     "Computer Science/Systems Programming/Notes/2.1 Bash Basics.md",
