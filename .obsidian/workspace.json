@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Web and Database Computing/Notes/5.3 Structured Query Langauge.md",
+                "file": "Computer Science/Databases & Ethical Data/Notes/2.2 Entropy.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -74,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Web and Database Computing/Notes/5.3 Structured Query Langauge.md",
+                "file": "Computer Science/Databases & Ethical Data/Notes/2.2 Entropy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Web and Database Computing/Notes/5.3 Structured Query Langauge.md",
+                "file": "Computer Science/Databases & Ethical Data/Notes/2.2 Entropy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Web and Database Computing/Notes/5.3 Structured Query Langauge.md"
+                "file": "Computer Science/Databases & Ethical Data/Notes/2.2 Entropy.md"
               }
             }
           }
@@ -195,6 +194,7 @@
   },
   "active": "076f8fa49e0f0d10",
   "lastOpenFiles": [
+    "Computer Science/Web and Database Computing/Notes/5.3 Structured Query Langauge.md",
     "Computer Science/Databases & Ethical Data/Notes/3.2 SQL.md",
     "Computer Science/Databases & Ethical Data/Notes/4.1 Normalisation.md",
     "Computer Science/Databases & Ethical Data/Notes/5.3 Indexing.md",
@@ -237,7 +237,6 @@
     "Computer Science/React/Notes/1.4 Imperative vs Declarative.md",
     "Computer Science/React/Notes/1.5 CSS.md",
     "Computer Science/React/Exercises/1.2 Profile Card.md",
-    "Computer Science/React/Exercises/1.1 React Demo.md",
     "Computer Science/Computer Systems/Practicals/ALU.out",
     "Computer Science/Computer Systems/Practicals/And16.hdl",
     "Computer Science/Computer Systems/Practicals/Mux16.hdl",
