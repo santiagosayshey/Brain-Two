@@ -94,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Databases & Ethical Data/Notes/5.1 Memory Mapping.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Databases & Ethical Data/Notes/5.1 Memory Mapping.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,9 +162,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Computer Science/Databases & Ethical Data/Notes/5.1 Memory Mapping.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -174,8 +170,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 358.5,
-    "collapsed": true
+    "width": 358.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,10 +188,10 @@
       "zk-prefixer:Create new unique note": true
     }
   },
-  "active": "bef3c30a3d384727",
+  "active": "b45eb44ca1d12868",
   "lastOpenFiles": [
-    "Computer Science/Databases & Ethical Data/Notes/4.1 Normalisation.md",
     "Computer Science/Databases & Ethical Data/Notes/5.1 Memory Mapping.md",
+    "Computer Science/Databases & Ethical Data/Notes/4.1 Normalisation.md",
     "Computer Science/React/Notes/1.8 Next.js.md",
     "Pasted image 20230814080347.png",
     "Electives/Intro to Forensic Sciences/Notes/1.1 Intro to Forensic Sciences.md",
