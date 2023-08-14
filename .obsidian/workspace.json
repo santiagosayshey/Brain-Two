@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Databases & Ethical Data/Notes/5.2 Primary File Organisation.md",
+                "file": "Computer Science/Databases & Ethical Data/Notes/5.3 Indexing.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Databases & Ethical Data/Notes/5.2 Primary File Organisation.md",
+                "file": "Computer Science/Databases & Ethical Data/Notes/5.3 Indexing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Databases & Ethical Data/Notes/5.2 Primary File Organisation.md",
+                "file": "Computer Science/Databases & Ethical Data/Notes/5.3 Indexing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Databases & Ethical Data/Notes/5.2 Primary File Organisation.md"
+                "file": "Computer Science/Databases & Ethical Data/Notes/5.3 Indexing.md"
               }
             }
           }
@@ -207,9 +207,9 @@
   },
   "active": "bef3c30a3d384727",
   "lastOpenFiles": [
+    "Computer Science/Databases & Ethical Data/Notes/5.2 Primary File Organisation.md",
     "Computer Science/Images/Pasted image 20230815063128.png",
     "Computer Science/Databases & Ethical Data/Notes/5.3 Indexing.md",
-    "Computer Science/Databases & Ethical Data/Notes/5.2 Primary File Organisation.md",
     "Computer Science/Images/Pasted image 20230815061849.png",
     "Computer Science/Databases & Ethical Data/Notes/5.1 Memory Mapping.md",
     "Computer Science/Databases & Ethical Data/Notes/4.1 Normalisation.md",
@@ -228,7 +228,6 @@
     "Pasted image 20230814081758.png",
     "Pasted image 20230814081715.png",
     "Pasted image 20230814081546.png",
-    "Pasted image 20230814081505.png",
     "Electives/Intro to Forensic Sciences/Readings/Fundamentals of Forensic Science.pdf",
     "Electives/Intro to Forensic Sciences/Readings/Atlas of Forensic Pathology.pdf",
     "Electives/Intro to Forensic Sciences/Notes/1.1 Decomposition.md",
