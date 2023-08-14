@@ -11,8 +11,13 @@
             "id": "ceb74ea6b1405ec4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/React/Notes/1.8 Next.js.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Computer Science/React/Notes/1.8 Next.js.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Computer Science/React/Notes/1.8 Next.js.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +164,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Computer Science/React/Notes/1.8 Next.js.md"
+              }
             }
           }
         ],
@@ -184,8 +193,10 @@
       "zk-prefixer:Create new unique note": true
     }
   },
-  "active": "a5ef5a2ad01c17da",
+  "active": "ceb74ea6b1405ec4",
   "lastOpenFiles": [
+    "Pasted image 20230814080347.png",
+    "Computer Science/React/Notes/1.8 Next.js.md",
     "Electives/Intro to Forensic Sciences/Notes/1.1 Intro to Forensic Sciences.md",
     "Electives/Intro to Forensic Sciences/Notes/1.1 Intro to Pathology.md",
     "Electives/Intro to Forensic Sciences/Notes/Untitled.md",
@@ -199,7 +210,6 @@
     "Pasted image 20230814081546.png",
     "Pasted image 20230814081505.png",
     "Pasted image 20230814080705.png",
-    "Pasted image 20230814080347.png",
     "Electives/Intro to Forensic Sciences/Readings/Fundamentals of Forensic Science.pdf",
     "Electives/Intro to Forensic Sciences/Readings/Atlas of Forensic Pathology.pdf",
     "Electives/Intro to Forensic Sciences/Notes/1.1 Decomposition.md",
@@ -230,8 +240,6 @@
     "Computer Science/Computer Systems/Practicals/Mux16.hdl",
     "Computer Science/Computer Systems/Notes/2.2 Memory.md",
     "Computer Science/Computer Systems/Notes/4.1 Computer Architecture.md",
-    "Computer Science/Computer Systems/Notes/3.1 Machine Language.md",
-    "Computer Science/Systems Programming/Notes/2.1 Bash Basics.md",
     "Databases & Ethical Data/Canvas.canvas",
     "Completed Courses/Web and Database Computing/Untitled.canvas",
     "Computer Science/University/2023/Semester 2/Databases & Ethical Data/Canvas.canvas",
