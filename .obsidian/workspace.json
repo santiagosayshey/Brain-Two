@@ -19,22 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "d8fd7a1d1345dc2c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Databases & Ethical Data/Notes/5.2 Primary File Organisation.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Databases & Ethical Data/Notes/5.2 Primary File Organisation.md",
+                "file": "Computer Science/Databases & Ethical Data/Notes/5.3 Indexing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Databases & Ethical Data/Notes/5.2 Primary File Organisation.md",
+                "file": "Computer Science/Databases & Ethical Data/Notes/5.3 Indexing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Databases & Ethical Data/Notes/5.2 Primary File Organisation.md"
+                "file": "Computer Science/Databases & Ethical Data/Notes/5.3 Indexing.md"
               }
             }
           }
@@ -206,10 +192,10 @@
       "zk-prefixer:Create new unique note": true
     }
   },
-  "active": "d8fd7a1d1345dc2c",
+  "active": "076f8fa49e0f0d10",
   "lastOpenFiles": [
-    "Computer Science/Databases & Ethical Data/Notes/5.3 Indexing.md",
     "Computer Science/Databases & Ethical Data/Notes/5.2 Primary File Organisation.md",
+    "Computer Science/Databases & Ethical Data/Notes/5.3 Indexing.md",
     "Computer Science/Images/Pasted image 20230815063128.png",
     "Computer Science/Images/Pasted image 20230815061849.png",
     "Computer Science/Databases & Ethical Data/Notes/5.1 Memory Mapping.md",
