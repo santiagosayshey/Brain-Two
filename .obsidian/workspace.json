@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Databases & Ethical Data/Notes/5.1 Memory Mapping.md",
+                "file": "Computer Science/Databases & Ethical Data/Notes/Untitled.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Databases & Ethical Data/Notes/5.1 Memory Mapping.md",
+                "file": "Computer Science/Databases & Ethical Data/Notes/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Databases & Ethical Data/Notes/5.1 Memory Mapping.md",
+                "file": "Computer Science/Databases & Ethical Data/Notes/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Databases & Ethical Data/Notes/5.1 Memory Mapping.md"
+                "file": "Computer Science/Databases & Ethical Data/Notes/Untitled.md"
               }
             }
           }
@@ -192,10 +192,11 @@
       "zk-prefixer:Create new unique note": true
     }
   },
-  "active": "a5ef5a2ad01c17da",
+  "active": "bef3c30a3d384727",
   "lastOpenFiles": [
-    "Computer Science/Databases & Ethical Data/Notes/4.1 Normalisation.md",
     "Computer Science/Databases & Ethical Data/Notes/5.1 Memory Mapping.md",
+    "Computer Science/Databases & Ethical Data/Notes/Untitled.md",
+    "Computer Science/Databases & Ethical Data/Notes/4.1 Normalisation.md",
     "Computer Science/Databases & Ethical Data/Workshops/Workshop 2 - Preparation { Samuel Chau }.md",
     "Computer Science/Databases & Ethical Data/Workshops/Workshop 1 - Preparation { Samuel Chau - Semester 2, 2023 }.md",
     "Computer Science/React/Notes/1.8 Next.js.md",
@@ -236,7 +237,6 @@
     "Computer Science/React/Exercises/1.1 React Demo.md",
     "Computer Science/Computer Science.md",
     "Personal Site/Ideas.md",
-    "Computer Science/Computer Systems/Notes/1.2 Logic Gates.md",
     "Computer Science/Computer Systems/Practicals/ALU.out",
     "Computer Science/Computer Systems/Practicals/And16.hdl",
     "Computer Science/Computer Systems/Practicals/Mux16.hdl",
