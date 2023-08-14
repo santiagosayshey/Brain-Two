@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2eaa3a842936c126",
+        "id": "91f1b1f9c919ee7d",
         "type": "tabs",
         "children": [
           {
-            "id": "ceb74ea6b1405ec4",
+            "id": "bef3c30a3d384727",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/React/Notes/1.8 Next.js.md",
+                "file": "Computer Science/Databases & Ethical Data/Notes/4.1 Normalisation.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/React/Notes/1.8 Next.js.md",
+                "file": "Computer Science/Databases & Ethical Data/Notes/4.1 Normalisation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/React/Notes/1.8 Next.js.md",
+                "file": "Computer Science/Databases & Ethical Data/Notes/4.1 Normalisation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/React/Notes/1.8 Next.js.md"
+                "file": "Computer Science/Databases & Ethical Data/Notes/4.1 Normalisation.md"
               }
             }
           }
@@ -193,10 +193,11 @@
       "zk-prefixer:Create new unique note": true
     }
   },
-  "active": "ceb74ea6b1405ec4",
+  "active": "bef3c30a3d384727",
   "lastOpenFiles": [
-    "Pasted image 20230814080347.png",
+    "Computer Science/Databases & Ethical Data/Notes/5.1 Memory Mapping.md",
     "Computer Science/React/Notes/1.8 Next.js.md",
+    "Pasted image 20230814080347.png",
     "Electives/Intro to Forensic Sciences/Notes/1.1 Intro to Forensic Sciences.md",
     "Electives/Intro to Forensic Sciences/Notes/1.1 Intro to Pathology.md",
     "Electives/Intro to Forensic Sciences/Notes/Untitled.md",
