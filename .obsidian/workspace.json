@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 420.5069465637207
+    "width": 494.50418853759766
   },
   "right": {
     "id": "aa62b20f309fcaf1",
@@ -192,12 +192,12 @@
       "zk-prefixer:Create new unique note": true
     }
   },
-  "active": "bef3c30a3d384727",
+  "active": "a5ef5a2ad01c17da",
   "lastOpenFiles": [
+    "Computer Science/Databases & Ethical Data/Notes/4.1 Normalisation.md",
+    "Computer Science/Databases & Ethical Data/Notes/5.1 Memory Mapping.md",
     "Computer Science/Databases & Ethical Data/Workshops/Workshop 2 - Preparation { Samuel Chau }.md",
     "Computer Science/Databases & Ethical Data/Workshops/Workshop 1 - Preparation { Samuel Chau - Semester 2, 2023 }.md",
-    "Computer Science/Databases & Ethical Data/Notes/5.1 Memory Mapping.md",
-    "Computer Science/Databases & Ethical Data/Notes/4.1 Normalisation.md",
     "Computer Science/React/Notes/1.8 Next.js.md",
     "Pasted image 20230814080347.png",
     "Electives/Intro to Forensic Sciences/Notes/1.1 Intro to Forensic Sciences.md",
