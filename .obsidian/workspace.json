@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/React/Exercises/1.2 Profile Card.md",
+                "file": "Computer Science/Computer Systems/Notes/5.1 Assembler.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 494.50418853759766
+    "width": 494.50418853759766,
+    "collapsed": true
   },
   "right": {
     "id": "aa62b20f309fcaf1",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/React/Exercises/1.2 Profile Card.md",
+                "file": "Computer Science/Computer Systems/Notes/5.1 Assembler.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/React/Exercises/1.2 Profile Card.md",
+                "file": "Computer Science/Computer Systems/Notes/5.1 Assembler.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/React/Exercises/1.2 Profile Card.md"
+                "file": "Computer Science/Computer Systems/Notes/5.1 Assembler.md"
               }
             }
           }
@@ -195,6 +196,8 @@
   },
   "active": "076f8fa49e0f0d10",
   "lastOpenFiles": [
+    "Computer Science/React/Exercises/1.2 Profile Card.md",
+    "Computer Science/Computer Systems/Notes/5.1 Assembler.md",
     "Pasted image 20230815121257.png",
     "Computer Science/React/Notes/1.6 Dynamic Rendering.md",
     "Computer Science/React/Notes/1.5 Props.md",
@@ -223,7 +226,6 @@
     "Pasted image 20230814081840.png",
     "Pasted image 20230814081758.png",
     "Pasted image 20230814081715.png",
-    "Pasted image 20230814081546.png",
     "Electives/Intro to Forensic Sciences/Readings/Fundamentals of Forensic Science.pdf",
     "Electives/Intro to Forensic Sciences/Readings/Atlas of Forensic Pathology.pdf",
     "Electives/Intro to Forensic Sciences/Notes/1.1 Decomposition.md",
@@ -237,7 +239,6 @@
     "Computer Science/React/Notes/1.2 Javascript Fundamentals.md",
     "Computer Science/React/Notes/1.1 Setting Up React.md",
     "Computer Science/React/Notes/1.9 Conditional Rendering.md",
-    "Computer Science/React/Notes/1.8 Rendering Lists.md",
     "Computer Science/Computer Systems/Practicals/ALU.out",
     "Computer Science/Computer Systems/Practicals/And16.hdl",
     "Computer Science/Computer Systems/Practicals/Mux16.hdl",
