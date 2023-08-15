@@ -19,6 +19,14 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "173474bafc49c052",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ]
       }
@@ -78,8 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 494.50418853759766,
-    "collapsed": true
+    "width": 494.50418853759766
   },
   "right": {
     "id": "aa62b20f309fcaf1",
