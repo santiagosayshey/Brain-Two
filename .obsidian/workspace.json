@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Computer Systems/Notes/5.1 Assemblers.md",
+                "file": "Computer Science/Git/1.1 Git Basics.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -112,8 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 494.50418853759766,
-    "collapsed": true
+    "width": 494.50418853759766
   },
   "right": {
     "id": "aa62b20f309fcaf1",
@@ -129,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Computer Systems/Notes/5.1 Assemblers.md",
+                "file": "Computer Science/Git/1.1 Git Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Computer Systems/Notes/5.1 Assemblers.md",
+                "file": "Computer Science/Git/1.1 Git Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Computer Systems/Notes/5.1 Assemblers.md"
+                "file": "Computer Science/Git/1.1 Git Basics.md"
               }
             }
           }
@@ -230,8 +229,8 @@
   },
   "active": "076f8fa49e0f0d10",
   "lastOpenFiles": [
-    "Computer Science/Computer Systems/Notes/4.1 Computer Architecture.md",
     "Computer Science/Computer Systems/Notes/5.1 Assemblers.md",
+    "Computer Science/Computer Systems/Notes/4.1 Computer Architecture.md",
     "Computer Science/Computer Systems/Notes/3.1 Machine Language.md",
     "Computer Science/React/Exercises/1.2 Profile Card.md",
     "Pasted image 20230815121257.png",
