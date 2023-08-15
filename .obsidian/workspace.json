@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Computer Systems/Notes/4.1 Computer Architecture.md",
+                "file": "Computer Science/React/Notes/1.6 Dynamic Rendering.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Computer Systems/Notes/4.1 Computer Architecture.md",
+                "file": "Computer Science/React/Notes/1.6 Dynamic Rendering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Computer Systems/Notes/4.1 Computer Architecture.md",
+                "file": "Computer Science/React/Notes/1.6 Dynamic Rendering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Computer Systems/Notes/4.1 Computer Architecture.md"
+                "file": "Computer Science/React/Notes/1.6 Dynamic Rendering.md"
               }
             }
           }
@@ -194,6 +194,11 @@
   },
   "active": "076f8fa49e0f0d10",
   "lastOpenFiles": [
+    "Computer Science/React/Notes/1.5 Props.md",
+    "Computer Science/React/Notes/1.6 Dynamic Rendering.md",
+    "Computer Science/React/Notes/1.7 Section Summary.md",
+    "Computer Science/React/Notes/1.8 Next.js.md",
+    "Computer Science/Computer Systems/Notes/4.1 Computer Architecture.md",
     "Computer Science/Databases & Ethical Data/Notes/2.2 Entropy.md",
     "Computer Science/Web and Database Computing/Notes/5.3 Structured Query Langauge.md",
     "Computer Science/Databases & Ethical Data/Notes/3.2 SQL.md",
@@ -205,7 +210,6 @@
     "Computer Science/Databases & Ethical Data/Notes/5.1 Memory Mapping.md",
     "Computer Science/Databases & Ethical Data/Workshops/Workshop 2 - Preparation { Samuel Chau }.md",
     "Computer Science/Databases & Ethical Data/Workshops/Workshop 1 - Preparation { Samuel Chau - Semester 2, 2023 }.md",
-    "Computer Science/React/Notes/1.8 Next.js.md",
     "Pasted image 20230814080347.png",
     "Electives/Intro to Forensic Sciences/Notes/1.1 Intro to Forensic Sciences.md",
     "Electives/Intro to Forensic Sciences/Notes/1.1 Intro to Pathology.md",
@@ -223,20 +227,16 @@
     "Electives/Intro to Forensic Sciences/Notes/1.1 Decomposition.md",
     "Electives/Intro to Forensic Sciences/IFS Timetable 2023 -Semester 2.pdf",
     "Electives/Intro to Forensic Sciences/Readings",
-    "Computer Science/React/Notes/1.6 Dynamic Rendering.md",
     "Electives/Intro to Forensic Sciences/Notes",
     "Electives/Intro to Forensic Sciences",
     "Electives",
-    "Computer Science/React/Notes/1.7 Section Summary.md",
     "Computer Science/React/Notes/1.4 JSX.md",
     "Computer Science/React/Notes/1.3 Components.md",
     "Computer Science/React/Notes/1.2 Javascript Fundamentals.md",
     "Computer Science/React/Notes/1.1 Setting Up React.md",
-    "Computer Science/React/Notes/1.5 Props.md",
     "Computer Science/React/Notes/1.9 Conditional Rendering.md",
     "Computer Science/React/Notes/1.8 Rendering Lists.md",
     "Computer Science/React/Notes/1.4 Imperative vs Declarative.md",
-    "Computer Science/React/Notes/1.5 CSS.md",
     "Computer Science/Computer Systems/Practicals/ALU.out",
     "Computer Science/Computer Systems/Practicals/And16.hdl",
     "Computer Science/Computer Systems/Practicals/Mux16.hdl",
