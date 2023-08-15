@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Computer Systems/Notes/3.1 Machine Language.md",
+                "file": "Computer Science/Computer Systems/Notes/5.1 Assemblers.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Computer Systems/Notes/3.1 Machine Language.md",
+                "file": "Computer Science/Computer Systems/Notes/5.1 Assemblers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Computer Systems/Notes/3.1 Machine Language.md",
+                "file": "Computer Science/Computer Systems/Notes/5.1 Assemblers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Computer Systems/Notes/3.1 Machine Language.md"
+                "file": "Computer Science/Computer Systems/Notes/5.1 Assemblers.md"
               }
             }
           }
@@ -215,10 +215,10 @@
       "zk-prefixer:Create new unique note": true
     }
   },
-  "active": "a5ef5a2ad01c17da",
+  "active": "076f8fa49e0f0d10",
   "lastOpenFiles": [
-    "Computer Science/Computer Systems/Notes/5.1 Assemblers.md",
     "Computer Science/Computer Systems/Notes/3.1 Machine Language.md",
+    "Computer Science/Computer Systems/Notes/5.1 Assemblers.md",
     "Computer Science/React/Exercises/1.2 Profile Card.md",
     "Pasted image 20230815121257.png",
     "Computer Science/React/Notes/1.6 Dynamic Rendering.md",
