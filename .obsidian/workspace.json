@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/React/Notes/1.6 Dynamic Rendering.md",
+                "file": "Computer Science/React/Exercises/1.2 Profile Card.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/React/Notes/1.6 Dynamic Rendering.md",
+                "file": "Computer Science/React/Exercises/1.2 Profile Card.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/React/Notes/1.6 Dynamic Rendering.md",
+                "file": "Computer Science/React/Exercises/1.2 Profile Card.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/React/Notes/1.6 Dynamic Rendering.md"
+                "file": "Computer Science/React/Exercises/1.2 Profile Card.md"
               }
             }
           }
@@ -194,8 +194,8 @@
   },
   "active": "076f8fa49e0f0d10",
   "lastOpenFiles": [
-    "Computer Science/React/Notes/1.5 Props.md",
     "Computer Science/React/Notes/1.6 Dynamic Rendering.md",
+    "Computer Science/React/Notes/1.5 Props.md",
     "Computer Science/React/Notes/1.7 Section Summary.md",
     "Computer Science/React/Notes/1.8 Next.js.md",
     "Computer Science/Computer Systems/Notes/4.1 Computer Architecture.md",
