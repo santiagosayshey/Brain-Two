@@ -54,8 +54,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Computer Systems/Notes/4.1 Computer Architecture.md",
+                "file": "Computer Science/Computer Systems/Notes/5.1 Assemblers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Computer Systems/Notes/4.1 Computer Architecture.md",
+                "file": "Computer Science/Computer Systems/Notes/5.1 Assemblers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Computer Systems/Notes/4.1 Computer Architecture.md"
+                "file": "Computer Science/Computer Systems/Notes/5.1 Assemblers.md"
               }
             }
           }
@@ -229,11 +228,11 @@
       "zk-prefixer:Create new unique note": true
     }
   },
-  "active": "d25c18b7d21eb9cb",
+  "active": "076f8fa49e0f0d10",
   "lastOpenFiles": [
+    "Computer Science/Computer Systems/Notes/4.1 Computer Architecture.md",
     "Computer Science/Computer Systems/Notes/5.1 Assemblers.md",
     "Computer Science/Computer Systems/Notes/3.1 Machine Language.md",
-    "Computer Science/Computer Systems/Notes/4.1 Computer Architecture.md",
     "Computer Science/React/Exercises/1.2 Profile Card.md",
     "Pasted image 20230815121257.png",
     "Computer Science/React/Notes/1.6 Dynamic Rendering.md",
