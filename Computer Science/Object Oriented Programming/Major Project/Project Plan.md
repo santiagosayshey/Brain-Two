@@ -59,4 +59,4 @@ In the case that the player beats all the levels, this means they have beaten th
 
 ## UML Class Diagram
 
-![](https://lh4.googleusercontent.com/CmTVod9sMI42MQ6PqZN2gtl8G1TtBJTfeAnDX_SHPHpb0TKe-60grEebrB90QHTZgsXBLzBVr4acqRWdZ3aCQReEnG9R6AZJHJJ7FryY-2INOZLModkIqjtYBCMb1PGPGKo2TY7zQPkALX_0ZHuvpQM)
+![[UML Class Diagram.drawio.png]]
