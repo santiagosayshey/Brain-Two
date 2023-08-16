@@ -19,8 +19,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c3a0e940a1c4b58c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +107,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/React/Notes/1.2 Javascript Fundamentals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +123,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/React/Notes/1.2 Javascript Fundamentals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,9 +175,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Computer Science/React/Notes/1.2 Javascript Fundamentals.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -192,7 +201,7 @@
       "pieces-for-developers:Pieces For Developers": false
     }
   },
-  "active": "a5ef5a2ad01c17da",
+  "active": "c3a0e940a1c4b58c",
   "lastOpenFiles": [
     "Computer Science/React/Notes/1.2 Javascript Fundamentals.md",
     "Images/Pasted image 20230815121257.png",
