@@ -28,11 +28,15 @@ def update_extensions(input_dir, output_dir, language_stats):
         '.terminal': '.sh',
         '.hdl': '.v',
         '.java': '.js',
+        '.CSS': '.css',
         '.javascript': '.js',
         '.json': '.js',
+        '.JSON': '.js',
         '.python': '.py',
         '.mysql': '.sql',
-        '.pseudocode': '.cpp'
+        '.SQL': '.sql',
+        '.pseudocode': '.cpp',
+        '.HTML': '.html'
     }
 
     for filename in os.listdir(input_dir):
