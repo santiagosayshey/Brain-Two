@@ -1,11 +1,6 @@
-connection.query(query, function(err, rows, fields) {
-
- connection.release(); // release connection
- 
- if (err) {
-	 res.sendStatus(500);
-	 return;
- }
- 
- res.json(rows); //send response
-});
+class Bird {
+    function fly() {// Flying logic }
+}
+class Penguin extends Bird {
+    function fly() { // Penguins cannot fly - LSP violation}
+}

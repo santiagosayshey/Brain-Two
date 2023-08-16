@@ -1,7 +1,1 @@
-new Vue({
-
-el: "#app",
-data: {
- message: 'text'
-}
-});
+element.style.color = "red";

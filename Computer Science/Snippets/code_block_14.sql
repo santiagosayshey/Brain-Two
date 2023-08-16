@@ -1,3 +1,2 @@
-SELECT * FROM Customers
-	LIMIT 50, 10; 
-/* this will start from the 50th result and show the next 10 results */
+DELETE FROM tableName
+	WHERE column1 > 1200 AND (column2 = 'hello' OR column3 IS NOT NULL);

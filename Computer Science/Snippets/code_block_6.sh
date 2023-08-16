@@ -1,5 +1,9 @@
-./marks_merge marks1.csv marks2.csv
-number, prac_mark, exam_mark
-a1000001,20,-
-a1000003,-,70
-a1000030,21,90
+1= -f  
+2= wombat.txt  
+3= some  
+4= more  
+5= words  
+6=  
+7=  
+8=  
+9=

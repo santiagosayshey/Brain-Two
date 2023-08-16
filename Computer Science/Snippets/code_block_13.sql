@@ -1,2 +1,2 @@
-SELECT * FROM Customers
-ORDER BY Country ASC, CustomerName DESC;
+DELETE FROM tableName
+	WHERE columnName IS NULL;

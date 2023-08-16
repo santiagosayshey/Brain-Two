@@ -1,4 +1,11 @@
-CREATE PROCEDURE procedure_name @Param1 data_type, @Param2 data_type ...
-AS
-	sql_statement
-GO;
+/* Add a column */
+ALTER TABLE tablename 
+	ADD columnname1 datatype constraint; 
+	
+/* Change a column */ 
+ALTER TABLE tablename 
+	ALTER columnname1 newdatatype newconstraint; 
+	
+/* Delete a column */ 
+ALTER TABLE tablename 
+	DROP columnname1;

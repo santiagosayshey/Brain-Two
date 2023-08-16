@@ -1,1 +1,1 @@
-SELECT DISTINCT Country, City FROM Customers;
+SELECT * FROM tableName WHERE column1 IS NULL;

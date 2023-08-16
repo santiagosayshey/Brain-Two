@@ -1,2 +1,3 @@
-SELECT * FROM Customers
-	ORDER BY Country;
+UPDATE tableName
+	SET columnName = value
+	WHERE columnName > 5;

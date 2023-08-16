@@ -1,1 +1,2 @@
-EXEC procedure_name;
+DROP DATABASE databasename;
+DROP TABLE table_name

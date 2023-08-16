@@ -1,1 +1,1 @@
-SELECT DISTINCT Country From Customers;
+SELECT column1, column2 FROM tableName;

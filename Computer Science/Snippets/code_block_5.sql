@@ -1,4 +1,5 @@
-CREATE PROCEDURE procedure_name
-AS
-	sql_statement
-GO;
+CREATE TABLE tablename ( 
+columnname1 datatype constraint, 
+columnname2 datatype constraint, 
+columnname3 datatype constraint, 
+.... );

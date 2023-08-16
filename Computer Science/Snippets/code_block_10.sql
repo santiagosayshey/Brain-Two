@@ -1,3 +1,2 @@
-CREATE VIEW view_name
-AS
-	select_statement;
+UPDATE tableName
+	SET columnName = value;

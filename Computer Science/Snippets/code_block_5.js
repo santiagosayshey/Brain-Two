@@ -1,13 +1,9 @@
- var username = req.query.username; // if username was a field in the request URL
- var query = "SELECT date,contents FROM posts WHERE author = ?";
- 
- connection.query(query, [username], function(err, rows, fields) {
-	 connection.release(); // release connection
-	 
-	 if (err) {
-		 res.sendStatus(500);
-		 return;
-	 }
-	 res.json(rows); //send response
- });
-
+class Notification {
+    function sendNotification(type, message) {
+        if (type == "email") {
+            // Send email notification
+        } else if (type == "sms") {
+            // Send SMS notification
+        } // Requires modification for a new notification method
+    }
+}

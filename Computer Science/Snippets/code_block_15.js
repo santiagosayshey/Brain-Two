@@ -1,6 +1,1 @@
-new Vue({
- el: "#app",
- data: {
- checkedNames: []
- }
-});
+var newElement = document.createElement("P");

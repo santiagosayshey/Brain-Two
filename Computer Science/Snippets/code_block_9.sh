@@ -1,6 +1,3 @@
-gcc -o simple_thread simple_thread.c -lpthread
-./simple_thread
-
-# Hello from Thread 1
-# Hello from Thread 2
-# Both threads have completed.
+array=( A B C D E F G )
+echo ${array[0]}   # This will print: A
+echo ${array[2]}   # This will print: C

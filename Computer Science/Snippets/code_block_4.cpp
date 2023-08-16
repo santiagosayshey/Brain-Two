@@ -1,15 +1,11 @@
-Initialize: 
-StackNewestOnTop
-StackOldestOnTop 
+class Student {
+    // ... (same as previous example)
+};
 
-Function enqueue(element):                                                 // O(1)
-    Push the new element onto StackNewestOnTop
+int main() {
+    Student a1[10];  // array of 10 students
+    Student* a2[10]; // a pointer to an uninitialized array
+    Student* a3 = new Student[10]; // pointer to an array of 10 students
 
-Function dequeue():                                                        // O(n)
-    If StackOldestOnTop is empty: {
-         While StackNewestOnTop is not empty: {
-			Pop an element from StackNewestOnTop
-            Push this element onto StackOldestOnTop
-        }   
-    }
-    Pop and return the top element from StackOldestOnTop
+    return 0;
+}
