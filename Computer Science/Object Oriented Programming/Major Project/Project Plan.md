@@ -61,11 +61,47 @@ In the case that the player beats all the levels, this means they have beaten th
 
 ![[UML Class Diagram.drawio 1.png]]
 
+## Functions
+
+The previous UML diagram has provided a concise foundation that will be heavily utilised in the development of this project. While important in showcasing the grand picture, it still leaves vital information out regarding how any of it actually works. This section aims to explain how the important ideas of this project are encapsulated in code.
+### Game Loop and State Pattern
+
+The most important coding idea of this project is the ‘game loop’. The game loop is the overall flow control for the entire game program. It's a loop because the game keeps doing a series of actions repeatedly until the user quits. In this particular game, we define the game loop as a while loop that iterates as long as the window is open. In the game object, this behaviour is called the run function.
+
+The second most important coding idea of this project is the ‘state pattern’. The state pattern is a behavioural design pattern that allows an object, in this case, the game; to change its behaviour based on its state. We assign a current state to the game, and allow that state to control the while loop. We achieve this by creating a ‘state’ interface that is declared within the game instance and controls the update and render functions in the game loop. We use polymorphism within the derived state classes to override the parent update and render functions and therefore allow the game to dynamically update and render based on its current state. The game instance is also able to update its own current state. We also allow the current state to change itself by passing the current game instance into the new state. The game state is passing itself to the next game. An issue of circular dependency arises with this however, and so the state interface must forward declare the game class instead of including it.
+
+```cpp
+Game::Game(int width, int height)
+{
+    player = new Player;
+    this->window = new sf::RenderWindow(sf::VideoMode(width,height),"Test");
+    this->currentState = new PickState(this, player);
+}
+
+
+void Game::run()
+{
+    while (window->isOpen())
+    {
+        this->currentState->update(window);
+        this->currentState->render(window);
+    }
+}
+
+
+void Game::setState(State* newState)
+{
+    currentState = newState;
+}
+```
+
+
 ## Time Plan
 
 Now that the general core idea of the project has been identified and some proof of concept coding has been completed, it is vital that a proper time plan be created to ensure success in the development portion of this project. The table below provides our general outline for the planning, development, and delivery of the project. As stages are being planned pre-emptively, they are susceptible to change and we may not strictly adhere to it.
 
 ![](https://lh5.googleusercontent.com/ZBHzOv5W2jpMY7MiUNt-M86DTvmD4dx3cKcLWTapTXd4-r5ISJrdSM3G9-RTEhhQGXIq9NKqnEjz9xQb7j_zHivcWzo1haOB2330jq5nIuHmYr31w4ohR94vSCg0OMl1JUn2C4FqqOWMvv1o1ECQhBg)
+
 
 ## Unit Testing and Debugging
 
