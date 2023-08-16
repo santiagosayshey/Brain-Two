@@ -53,7 +53,8 @@ def update_extensions(input_dir, output_dir, language_stats):
             else:
                 shutil.move(filepath, new_filepath)
                 # Update the language statistics after filtering
-                language_stats[new_ext[1:]] += 1
+                if new_ext != '.txt':
+                    language_stats[new_ext[1:]] += 1
         except Exception as e:
             print(f'Error renaming file {filename}: {e}')
 
