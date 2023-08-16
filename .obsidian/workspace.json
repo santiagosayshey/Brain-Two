@@ -4,16 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "7f1d0fa9433e555d",
+        "id": "603e728a9177cda7",
         "type": "tabs",
         "children": [
           {
-            "id": "5e4579e9e4454f1b",
+            "id": "203db5c444523296",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Images/Pasted image 20230815121257.png"
+                "file": "Computer Science/React/Notes/1.2 Javascript Fundamentals.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -91,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Images/Pasted image 20230815121257.png",
+                "file": "Computer Science/React/Notes/1.2 Javascript Fundamentals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Images/Pasted image 20230815121257.png",
+                "file": "Computer Science/React/Notes/1.2 Javascript Fundamentals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Images/Pasted image 20230815121257.png"
+                "file": "Computer Science/React/Notes/1.2 Javascript Fundamentals.md"
               }
             }
           }
@@ -189,8 +192,9 @@
       "zk-prefixer:Create new unique note": true
     }
   },
-  "active": "a5ef5a2ad01c17da",
+  "active": "203db5c444523296",
   "lastOpenFiles": [
+    "Images/Pasted image 20230815121257.png",
     "Computer Science/Computer Systems/Computer Systems.md",
     "Computer Science/Computer Systems/Exercises/1.2.a.md",
     "Computer Science/Computer Systems/Exercises/1.2.b.md",
@@ -214,7 +218,6 @@
     "Computer Science/Computer Systems/Notes/4.1 Computer Architecture.md",
     "Computer Science/Computer Systems/Notes/3.1 Machine Language.md",
     "Computer Science/React/Exercises/1.2 Profile Card.md",
-    "Images/Pasted image 20230815121257.png",
     "Computer Science/React/Notes/1.6 Dynamic Rendering.md",
     "Computer Science/React/Notes/1.5 Props.md",
     "Computer Science/React/Notes/1.7 Section Summary.md",
@@ -222,7 +225,6 @@
     "Computer Science/Databases & Ethical Data/Notes/2.2 Entropy.md",
     "Computer Science/Web and Database Computing/Notes/5.3 Structured Query Langauge.md",
     "Computer Science/Databases & Ethical Data/Notes/3.2 SQL.md",
-    "Computer Science/Databases & Ethical Data/Notes/4.1 Normalisation.md",
     "Images/Pasted image 20230815063128.png",
     "Images/Pasted image 20230815061849.png",
     "Pasted image 20230814080347.png",
