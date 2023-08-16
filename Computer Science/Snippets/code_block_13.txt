@@ -1,3 +1,0 @@
-
-- Or event attributes can be used to call parts of our scripts
-

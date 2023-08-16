@@ -1,0 +1,6 @@
+{ 
+	"myarray": [ 
+		{ "name":"Max", "age":24 }, 
+		{ "name":"Ji", "age":23 } ], 
+	"count": 2 }
+}

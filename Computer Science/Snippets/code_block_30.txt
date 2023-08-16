@@ -1,4 +1,0 @@
-
-#### Input
--   `scanf` function is used for input, also utilizing placeholders similar to `printf`.
-

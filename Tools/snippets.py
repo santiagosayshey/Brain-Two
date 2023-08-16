@@ -28,15 +28,11 @@ def update_extensions(input_dir, output_dir, language_stats):
         '.terminal': '.sh',
         '.hdl': '.v',
         '.java': '.js',
-        '.CSS': '.css',
         '.javascript': '.js',
         '.json': '.js',
-        '.JSON': '.js',
         '.python': '.py',
         '.mysql': '.sql',
-        '.SQL': '.sql',
-        '.pseudocode': '.cpp',
-        '.HTML': '.html'
+        '.pseudocode': '.cpp'
     }
 
     for filename in os.listdir(input_dir):
@@ -80,6 +76,15 @@ def process_markdown_files(root_dir, temp_dir, output_dir):
     print(f"  Temporary Directory: {temp_dir}")
     print(f"  Output Directory: {output_dir}")
 
+def remove_txt_files(dir_path):
+    print("Removing .txt files...")
+    
+    for filename in os.listdir(dir_path):
+        if filename.endswith('.txt'):
+            filepath = os.path.join(dir_path, filename)
+            os.remove(filepath)
+            print(f'Removed: {filename}')
+
 def print_language_statistics(language_stats):
     total_snippets = sum(language_stats.values())
     if total_snippets == 0:
@@ -112,6 +117,8 @@ if __name__ == "__main__":
     
     print("Cleaning up temporary files...")
     shutil.rmtree(temp_directory)
+
+    remove_txt_files(output_directory)
 
     print("Process completed successfully.")
     
