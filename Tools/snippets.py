@@ -22,11 +22,13 @@ def update_extensions(input_dir, output_dir):
     ext_mapping = {
         '.bash': '.sh',
         '.console': '.sh',
+        '.terminal': '.sh',
         '.hdl': '.v',
         '.java': '.js',
         '.javascript': '.js',
+        '.json': '.js',
         '.python': '.py',
-        '.sql': '.sql',
+        '.mysql': '.sql',
         '.pseudocode': '.cpp'
     }
 
