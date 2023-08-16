@@ -51,14 +51,15 @@ def save_code_blocks_to_files(src_dir, dest_dir):
                     with open(output_path, 'w', encoding='utf8') as out_file:
                         out_file.write(code.strip())
 
+# Specify the source directory containing your Markdown files
+src_directory = 'Z:\Brain 2.0'
 
-# Example usage
-if __name__ == "__main__":
-    root_directory = r'Z:\Brain 2.0' # specify the root directory containing your markdown files here
-    output_directory = r'Z:\Brain 2.0\Computer Science\Snippets' # specify the directory where you want to save the code snippets
-    
-    # Create the output directory if it does not exist
-    if not os.path.exists(output_directory):
-        os.makedirs(output_directory)
-        
-    process_markdown_files(root_directory, output_directory)
+# Specify the destination directory where the code snippets will be saved
+dest_directory = 'Z:\Brain 2.0\Computer Science\Snippets'
+
+# Create the destination directory if it doesn't exist
+if not os.path.exists(dest_directory):
+    os.makedirs(dest_directory)
+
+# Run the function to save code blocks to files
+save_code_blocks_to_files(src_directory, dest_directory)
