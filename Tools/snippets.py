@@ -42,6 +42,7 @@ def update_extensions(input_dir, output_dir):
     input_dir (str): Source directory containing the files.
     output_dir (str): Destination directory to save the updated files.
     """
+    print("Updating file extensions...")
     ext_mapping = {
         '.bash': '.sh',
         '.console': '.sh',
@@ -65,6 +66,7 @@ def process_markdown_files(root_dir, temp_dir, output_dir):
     temp_dir (str): Temporary directory to save the extracted code blocks.
     output_dir (str): Directory where the final code snippets will be saved.
     """
+    print("Analyzing the vault...")
     for root, _, files in os.walk(root_dir):
         for file in files:
             if file.endswith('.md'):
