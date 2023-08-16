@@ -94,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Computer Science/React/Exercises/1.2 Profile Card.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Computer Science/React/Exercises/1.2 Profile Card.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +156,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Computer Science/React/Exercises/1.2 Profile Card.md"
+              }
             }
           }
         ]
@@ -180,7 +184,7 @@
       "pieces-for-developers:Pieces For Developers": false
     }
   },
-  "active": "de4eada996507f92",
+  "active": "eaaea4be3aee8eae",
   "lastOpenFiles": [
     "Computer Science/React/Exercises/1.2 Profile Card.md",
     "Computer Science/React/Notes/1.8 Next.js.md",
