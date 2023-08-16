@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Object Oriented Programming/Notes/1.6 Polymorphism.md",
-                "mode": "source",
+                "file": "Computer Science/Object Oriented Programming/Notes/1.3 Intro to OOP.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Object Oriented Programming/Notes/1.6 Polymorphism.md",
+                "file": "Computer Science/Object Oriented Programming/Notes/1.3 Intro to OOP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Object Oriented Programming/Notes/1.6 Polymorphism.md",
+                "file": "Computer Science/Object Oriented Programming/Notes/1.3 Intro to OOP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Object Oriented Programming/Notes/1.6 Polymorphism.md"
+                "file": "Computer Science/Object Oriented Programming/Notes/1.3 Intro to OOP.md"
               }
             }
           }
@@ -194,9 +194,9 @@
   },
   "active": "5e4579e9e4454f1b",
   "lastOpenFiles": [
+    "Computer Science/Object Oriented Programming/Notes/1.4 Classes and Objects.md",
     "Computer Science/Object Oriented Programming/Notes/1.5 Inheritance.md",
     "Computer Science/Object Oriented Programming/Notes/1.6 Polymorphism.md",
-    "Computer Science/Object Oriented Programming/Notes/1.4 Classes and Objects.md",
     "Computer Science/Object Oriented Programming/Notes/1.3 Intro to OOP.md",
     "Computer Science/Git/1.1 Git Basics.md",
     "Computer Science/Computer Systems/Notes/5.1 Assemblers.md",
