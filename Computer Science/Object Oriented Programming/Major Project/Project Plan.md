@@ -94,8 +94,119 @@ void Game::setState(State* newState)
     currentState = newState;
 }
 ```
+### Update()
 
+Event manager, state updating. Update any drawables currently in the frame. Check for button clicks, mouse presses and key clicks. Event manager is needed so that events occur once in the game.
 
+```c++
+void PlayState::update(sf::RenderWindow* window)
+{
+    wiz->update(window);
+    wizhealth->update(window);
+    while (window->pollEvent(event))
+    {
+        // "close requested" event: we close the window
+        switch (event.type) {
+            case sf::Event::Closed: {
+                window->close();
+                break;
+            }
+            case sf::Event::MouseButtonReleased: {
+                if (attack->checkCollision(window)) {
+                    player->attack(enemy);
+                    break;
+                }
+                if (attackP->checkCollision(window)) {
+                    enemy->attack(player);
+                    break;
+                }
+            }
+            case sf::Event::KeyReleased: {
+                    break;
+            }
+        }
+    }
+}
+```
+
+### Render()
+
+Clear the previous frame, render the updated drawables and display them.
+
+```c++
+    window   ->clear(sf::Color::White);
+    wiz->draw(window);
+    wizhealth->draw(window);
+    attack->draw(window);
+    attackP->draw(window);
+    enemy->draw(window);
+    player->draw(window);
+    healthShadow->draw(window);
+    health->draw(window);
+    window   ->display();
+```
+
+## Drawables
+
+Now that we can adequately control the flow of the game, we can begin populating each stage. This is achieved using ‘drawables’. Drawables are things that appear on the screen during gameplay. They are capable of drawing and updating themselves as well as checking if they are colliding with another drawable. In more advanced cases, they are also capable of animating themselves.
+
+### Sprite Class
+
+```c++
+Sprite::Sprite(std::string texture, int x, int y, int size, int scale)
+{
+    this->size = size;
+    this->texture = new sf::Texture;
+    this->texture->loadFromFile(texture);
+    this->texture->setRepeated(true);
+    sprite = new sf::Sprite;
+    sprite->setTexture(*(this->texture));
+    sprite->setTextureRect(sf::IntRect(0, 0, size, size));
+    sprite->setScale(scale, scale);
+    sprite->setOrigin(size / 2, size / 2);
+    sprite->setPosition(x, y);
+    currentFrame = 0;
+    numFrames = 7;
+    row = 0;
+}
+
+```
+
+### checkCollision()
+
+Return a boolean of whether the bounds of a drawable contains the bounds of another drawable. Can also be configured to work with the mouse bounds for button presses.
+
+```c++
+bool Button::checkCollision(sf::RenderWindow* window)
+{
+    // ... (method implementation here)
+}
+```
+
+### updateAnimation()
+
+Pass the current row and number of frames so that the animation function can switch to that.
+
+```c++
+void Sprite::updateAnimation(int numFrames, int row)
+{
+    // ... (method implementation here)
+}
+```
+
+### animation()
+
+When a behaviour prompts a drawable to animate itself, the current state’s event manager will tell the drawable to update its sprite’s texture rectangle. A texture rectangle is a defined rectangle located within a sprite sheet. These rectangles can be categorised as ‘frames’ of an animation and can therefore be iterated through to simulate movement. The type of animation being played is dependent on the number of frames in an animation and its row location in the sprite sheet. This row is iterated in real time, specifically every 0.1 seconds to detach the speed of the movement from the frame rate. This is important because we want some behaviours to work as fast as possible but others to work in a set time, as is the case for animation. Animation is called every update, regardless of if it is updated or not and always defaults to playing an ‘idle’ animation.
+
+```c++
+bool Sprite::animation(bool repeat)
+{
+    // ... (method implementation here)
+}
+```
+```
+
+This Markdown formatting organizes your notes into sections and subsections, with code blocks clearly delineated and separate from the explanatory text.
 ## Time Plan
 
 Now that the general core idea of the project has been identified and some proof of concept coding has been completed, it is vital that a proper time plan be created to ensure success in the development portion of this project. The table below provides our general outline for the planning, development, and delivery of the project. As stages are being planned pre-emptively, they are susceptible to change and we may not strictly adhere to it.
