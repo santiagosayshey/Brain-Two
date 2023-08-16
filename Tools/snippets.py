@@ -3,17 +3,7 @@ import re
 import shutil
 from collections import defaultdict
 
-
 def extract_code_blocks(filepath):
-    """
-    Extract code blocks from a markdown file.
-    
-    Args:
-        filepath (str): Path to the markdown file.
-        
-    Returns:
-        list: A list of tuples, where each tuple contains the (language, code) pair for each code block.
-    """
     with open(filepath, 'r', encoding='utf-8') as f:
         content = f.read()
         
@@ -21,13 +11,6 @@ def extract_code_blocks(filepath):
     return pattern.findall(content)
 
 def save_code_blocks_to_files(code_blocks, output_dir):
-    """
-    Save each code block to a separate file with the proper extension in the specified directory.
-    
-    Args:
-        code_blocks (list): List of code blocks extracted from markdown files.
-        output_dir (str): Directory where the extracted code snippets will be saved.
-    """
     for idx, (language, code) in enumerate(code_blocks):
         ext = language if language else 'txt'
         filename = f'code_block_{idx + 1}.{ext}'
@@ -35,18 +18,8 @@ def save_code_blocks_to_files(code_blocks, output_dir):
         
         with open(output_path, 'w', encoding='utf-8') as f:
             f.write(code)
-            
-        # Keep track of the language statistics
-        language_stats[language] += 1
 
-def update_extensions(input_dir, output_dir):
-    """
-    Update the extensions of code files based on a predefined mapping.
-    
-    Args:
-        input_dir (str): The directory from which files will be moved and renamed.
-        output_dir (str): The directory where the renamed files will be moved to.
-    """
+def update_extensions(input_dir, output_dir, language_stats):
     print("Updating file extensions...")
     
     ext_mapping = {
@@ -55,11 +28,15 @@ def update_extensions(input_dir, output_dir):
         '.terminal': '.sh',
         '.hdl': '.v',
         '.java': '.js',
+        '.CSS': '.css',
         '.javascript': '.js',
         '.json': '.js',
+        '.JSON': '.js',
         '.python': '.py',
         '.mysql': '.sql',
-        '.pseudocode': '.cpp'
+        '.SQL': '.sql',
+        '.pseudocode': '.cpp',
+        '.HTML': '.html'
     }
 
     for filename in os.listdir(input_dir):
@@ -75,18 +52,12 @@ def update_extensions(input_dir, output_dir):
                 print(f'File {new_filename} already exists in the destination directory.')
             else:
                 shutil.move(filepath, new_filepath)
+                # Update the language statistics after filtering
+                language_stats[new_ext[1:]] += 1
         except Exception as e:
             print(f'Error renaming file {filename}: {e}')
 
 def process_markdown_files(root_dir, temp_dir, output_dir):
-    """
-    Process all markdown files in a directory and its subdirectories.
-    
-    Args:
-        root_dir (str): The root directory containing markdown files.
-        temp_dir (str): Temporary directory for saving extracted code snippets.
-        output_dir (str): Final directory where the renamed code snippets will be saved.
-    """
     print("Analyzing the vault...")
     
     total_files = 0
@@ -100,7 +71,7 @@ def process_markdown_files(root_dir, temp_dir, output_dir):
                 code_blocks = extract_code_blocks(filepath)
                 total_snippets += len(code_blocks)
                 save_code_blocks_to_files(code_blocks, temp_dir)
-
+                
     print(f"Processed {total_files} markdown files.")
     print(f"Found {total_snippets} code snippets.")
     
@@ -109,10 +80,7 @@ def process_markdown_files(root_dir, temp_dir, output_dir):
     print(f"  Temporary Directory: {temp_dir}")
     print(f"  Output Directory: {output_dir}")
 
-def print_language_statistics():
-    """
-    Print the statistics of code snippets by programming language.
-    """
+def print_language_statistics(language_stats):
     total_snippets = sum(language_stats.values())
     if total_snippets == 0:
         print("No code snippets found.")
@@ -140,11 +108,11 @@ if __name__ == "__main__":
     print("Starting to process markdown files...")
     
     process_markdown_files(root_directory, temp_directory, output_directory)
-    update_extensions(temp_directory, output_directory)
-
+    update_extensions(temp_directory, output_directory, language_stats)
+    
     print("Cleaning up temporary files...")
     shutil.rmtree(temp_directory)
 
     print("Process completed successfully.")
     
-    print_language_statistics()
+    print_language_statistics(language_stats)

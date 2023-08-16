@@ -1,0 +1,5 @@
+
+#### Free
+-   Deallocates or frees memory.
+-   Use to avoid memory leaks when you're done with a dynamically allocated memory block.
+

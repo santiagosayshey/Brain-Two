@@ -1,0 +1,4 @@
+
+#### File I/O
+-   Various functions (fopen, fgets, fputs, fclose, etc.) are used for file operations like opening, reading, writing, and closing files.
+

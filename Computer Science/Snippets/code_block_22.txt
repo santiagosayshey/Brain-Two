@@ -1,0 +1,7 @@
+
+
+### Casting
+-   Useful for converting data from one type to another in C++.
+-   Can be dangerous due to potential loss of information or unexpected behavior, especially when dealing with large numbers or negative values.
+-   Use when you need to convert data between compatible types.
+

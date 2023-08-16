@@ -1,0 +1,24 @@
+
+In the above example, a program executes a command, forks into a child and parent process, the child executes another program using execvp, and the parent waits for the child to finish.
+
+
+## Redirection
+-  Redirection changes data's source or destination in a command. For instance, `ls > temp.txt` sends `ls` command's output to 'temp.txt'
+
+### Streams and File Descriptors
+
+-   Unix-like systems typically define three default streams: standard input (stdin), standard output (stdout), and standard error (stderr). These are associated with the file descriptors 0, 1, and 2 respectively.
+-   A file descriptor is essentially an identifier for a file. It is a way for a process to keep track of all the files it is interacting with.
+-   Redirection is essentially telling a process to change its association from a default file descriptor (like stdout) to a different file or stream.
+
+### Redirection in C
+
+The provided C code demonstrates redirection in a C program. The process involves:
+
+1.  Reading from the standard input and printing it out.
+2.  Closing the standard input stream.
+3.  Opening a file in read-only mode as a replacement for standard input (it also checks if the file opening was successful).
+4.  Reading from the file (instead of standard input) and printing the result to the screen.
+
+The `dup2` function is used to duplicate file descriptors. It takes two parameters: the file descriptor to be duplicated and the file descriptor to be overwritten.
+
