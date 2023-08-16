@@ -1,0 +1,12 @@
+>%%
+>*%%PREFIX%%XT</a><a id="highlight">TEXT</a>%%HIGHLIGHT%% ==<p class="highlight">TEXT</p>== %%POSTFIX%%<p id="highlight">TEXT</p>}#prof*
+>%%LINK%%[[#^qisiodjqi5g|show annotation]]
+>%%COMMENT%%
+>Targeted by the .highlight selector as it selects all elements with that class. 
+>%%TAGS%%
+>
+^qisiodjqi5g
+
+
+>%%
+>

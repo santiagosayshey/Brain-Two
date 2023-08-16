@@ -1,0 +1,12 @@
+
+### Function Calling
+
+#### The Stack
+-   During function calls, local variables are stored in a 'stack frame' within the 'stack'.
+
+#### Persistence
+-   Upon returning to the parent function, specific variables persist. Ways to retain others: file I/O, return value, altering pointers/references, static variables, dynamic memory.
+
+#### The Heap
+-   Dynamic memory allocation allows variables to exist beyond their local scope. Beware of memory leaks, when allocated memory can't be freed because there are no pointers to it.
+

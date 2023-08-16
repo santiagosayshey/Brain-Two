@@ -1,0 +1,3 @@
+a=$(ls)
+echo $?
+echo $?

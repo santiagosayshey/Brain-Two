@@ -1,0 +1,8 @@
+
+## C I/O
+
+### Functions
+#### Arguments
+-   Functions take copied arguments (pass by copy), but they can also operate on the original variables via pointers (pass by pointer).
+-   Changes inside a function do not affect original variables unless pass by pointer is used.
+

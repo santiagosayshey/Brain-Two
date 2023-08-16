@@ -1,0 +1,9 @@
+
+
+### Memory Allocation
+- C uses `malloc`, `calloc`, `realloc`, and `free` instead of `new` and `delete` in C++.
+
+#### Malloc
+-   Allocates a specified amount of memory.
+-   Use when you need to dynamically allocate memory.
+

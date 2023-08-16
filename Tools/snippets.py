@@ -32,8 +32,8 @@ def process_markdown_files(root_dir, output_dir):
 
 # Example usage
 if __name__ == "__main__":
-    root_directory = r'C:\path\to\your\markdown_files' # specify the root directory containing your markdown files here
-    output_directory = r'C:\Computer Science\Snippets' # specify the directory where you want to save the code snippets
+    root_directory = r'Z:\Brain 2.0' # specify the root directory containing your markdown files here
+    output_directory = r'Z:\Brain 2.0\Computer Science\Snippets' # specify the directory where you want to save the code snippets
     
     # Create the output directory if it does not exist
     if not os.path.exists(output_directory):
