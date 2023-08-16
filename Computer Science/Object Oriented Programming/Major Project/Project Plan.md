@@ -59,4 +59,10 @@ In the case that the player beats all the levels, this means they have beaten th
 
 ## UML Class Diagram
 
-![[UML Class Diagram.drawio.png]]
+![[UML Class Diagram.drawio 1.png]]
+
+## Time Plan
+
+Now that the general core idea of the project has been identified and some proof of concept coding has been completed, it is vital that a proper time plan be created to ensure success in the development portion of this project. The table below provides our general outline for the planning, development, and delivery of the project. As stages are being planned pre-emptively, they are susceptible to change and we may not strictly adhere to it.
+
+![](https://lh5.googleusercontent.com/ZBHzOv5W2jpMY7MiUNt-M86DTvmD4dx3cKcLWTapTXd4-r5ISJrdSM3G9-RTEhhQGXIq9NKqnEjz9xQb7j_zHivcWzo1haOB2330jq5nIuHmYr31w4ohR94vSCg0OMl1JUn2C4FqqOWMvv1o1ECQhBg)
