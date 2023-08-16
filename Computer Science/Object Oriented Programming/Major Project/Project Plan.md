@@ -98,7 +98,7 @@ void Game::setState(State* newState)
 
 Event manager, state updating. Update any drawables currently in the frame. Check for button clicks, mouse presses and key clicks. Event manager is needed so that events occur once in the game.
 
-```c++
+```cpp
 void PlayState::update(sf::RenderWindow* window)
 {
     wiz->update(window);
@@ -133,7 +133,7 @@ void PlayState::update(sf::RenderWindow* window)
 
 Clear the previous frame, render the updated drawables and display them.
 
-```c++
+```cpp
     window   ->clear(sf::Color::White);
     wiz->draw(window);
     wizhealth->draw(window);
@@ -152,7 +152,7 @@ Now that we can adequately control the flow of the game, we can begin populating
 
 ### Sprite Class
 
-```c++
+```cpp
 Sprite::Sprite(std::string texture, int x, int y, int size, int scale)
 {
     this->size = size;
@@ -175,7 +175,7 @@ Sprite::Sprite(std::string texture, int x, int y, int size, int scale)
 
 Return a boolean of whether the bounds of a drawable contains the bounds of another drawable. Can also be configured to work with the mouse bounds for button presses.
 
-```c++
+```cpp
 bool Button::checkCollision(sf::RenderWindow* window)
 {
     sf::Vector2f mouse = window->mapPixelToCoords(sf::Mouse::getPosition(*window));
@@ -188,7 +188,7 @@ bool Button::checkCollision(sf::RenderWindow* window)
 
 Pass the current row and number of frames so that the animation function can switch to that.
 
-```c++
+```cpp
 void Sprite::updateAnimation(int numFrames, int row)
 {
     currentFrame = 0;
@@ -200,10 +200,40 @@ void Sprite::updateAnimation(int numFrames, int row)
 
 When a behaviour prompts a drawable to animate itself, the current state’s event manager will tell the drawable to update its sprite’s texture rectangle. A texture rectangle is a defined rectangle located within a sprite sheet. These rectangles can be categorised as ‘frames’ of an animation and can therefore be iterated through to simulate movement. The type of animation being played is dependent on the number of frames in an animation and its row location in the sprite sheet. This row is iterated in real time, specifically every 0.1 seconds to detach the speed of the movement from the frame rate. This is important because we want some behaviours to work as fast as possible but others to work in a set time, as is the case for animation. Animation is called every update, regardless of if it is updated or not and always defaults to playing an ‘idle’ animation.
 
-```c++
+```cpp
 bool Sprite::animation(bool repeat)
 {
-    // ... (method implementation here)
+    if (clock.getElapsedTime().asSeconds() > 0.1f)
+   
+    {
+        clock.restart();
+        if (currentFrame != numFrames)
+        {
+            if (currentFrame > 8)
+            {
+                sprite->setTextureRect(sf::IntRect(size * currentFrame, size * row + size, size, size));
+                currentFrame++;
+            }
+            else
+            {
+                sprite->setTextureRect(sf::IntRect(size * currentFrame, size * row, size, size));
+                currentFrame++;
+            }
+        }
+        else
+        {
+            if (repeat == true)
+            {
+                // set current frame to 0 IF the animation needs to be repeated
+                currentFrame=0;
+            }
+            else
+                // if not repeated, play idle animation
+                updateAnimation(7, 0);
+                return true;
+        }
+    }
+    return false;
 }
 ```
 
