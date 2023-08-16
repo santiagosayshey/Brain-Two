@@ -14,13 +14,26 @@
               "type": "markdown",
               "state": {
                 "file": "Computer Science/React/Notes/1.2 Javascript Fundamentals.md",
-                "mode": "preview",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9b7ce276fea9a145",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +107,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/React/Notes/1.2 Javascript Fundamentals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +123,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/React/Notes/1.2 Javascript Fundamentals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,13 +175,10 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Computer Science/React/Notes/1.2 Javascript Fundamentals.md"
-              }
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -193,8 +201,9 @@
       "pieces-for-developers:Pieces For Developers": false
     }
   },
-  "active": "203db5c444523296",
+  "active": "9b7ce276fea9a145",
   "lastOpenFiles": [
+    "Computer Science/React/Notes/1.2 Javascript Fundamentals.md",
     "Images/Pasted image 20230815121257.png",
     "Computer Science/Computer Systems/Computer Systems.md",
     "Computer Science/Computer Systems/Exercises/1.2.a.md",
