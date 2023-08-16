@@ -1,8 +1,0 @@
-
-### File Descriptors and Exec Group of Functions
--   A child process is created using `fork()`.
--   In the child process, the stdout is closed and a new file is created using `create()`.
--   The `execlp()` function is then used to run the `ls` command. Since stdout has been closed and replaced by the new file, the output of the `ls` command goes to the new file.
--   In the parent process, it waits for the child process to finish.
-
-

@@ -1,9 +1,0 @@
-1= -f  
-2= wombat.txt  
-3= some  
-4= more  
-5= words  
-6=  
-7=  
-8=  
-9=

@@ -1,5 +1,0 @@
-
-#### Realloc
--   Reallocates previously allocated memory.
--   Use when you need to resize an allocated memory block.
-
