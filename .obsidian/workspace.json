@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Computer Science/React/Notes/1.2 Javascript Fundamentals.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Object-oriented-programming",
+                "query": "tag:#Asynchronous-programming",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -192,7 +193,7 @@
       "pieces-for-developers:Pieces For Developers": false
     }
   },
-  "active": "203db5c444523296",
+  "active": "2a41a5839ebda340",
   "lastOpenFiles": [
     "Computer Science/React/Notes/1.2 Javascript Fundamentals.md",
     "Images/Pasted image 20230815121257.png",
