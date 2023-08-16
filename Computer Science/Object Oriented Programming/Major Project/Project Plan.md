@@ -66,3 +66,27 @@ In the case that the player beats all the levels, this means they have beaten th
 Now that the general core idea of the project has been identified and some proof of concept coding has been completed, it is vital that a proper time plan be created to ensure success in the development portion of this project. The table below provides our general outline for the planning, development, and delivery of the project. As stages are being planned pre-emptively, they are susceptible to change and we may not strictly adhere to it.
 
 ![](https://lh5.googleusercontent.com/ZBHzOv5W2jpMY7MiUNt-M86DTvmD4dx3cKcLWTapTXd4-r5ISJrdSM3G9-RTEhhQGXIq9NKqnEjz9xQb7j_zHivcWzo1haOB2330jq5nIuHmYr31w4ohR94vSCg0OMl1JUn2C4FqqOWMvv1o1ECQhBg)
+
+## Unit Testing and Debugging
+
+To ensure that each component of the program works harmoniously, it is vital that they first work individually. This will be ensured through the  processes of unit testing and debugging, performed incrementally throughout development. 
+
+This will be achieved through the encapsulation of different objects and writing driver programs to assess their functionality. While writing programs, there are several processes to be done to make the process of debugging easier. These include: Commenting to explain functionality and writing  test cases and evaluating their output
+
+Such information will be compiled in a kanban board and include the following:
+
+- Brief summary of their functionality, such that other members could understand the purpose of individual functions or classes and assist in debugging
+- Different test cases that identify areas that encompass the possibility of significant problems and challenges
+- Expected output / actual output. Given that each of the individual group members will be assigned different parts of the program, unit testing can be conducted locally within a member’s personal computer before merging with the collaborative program. 
+
+Throughout the process of writing the program, numerous errors and issues may arise that extend the time required for completion. Therefore, the process of debugging is vital for prompt elimination of such errors and issues. By adhering to the structure stated in the process of testing; implementing comments, writing test cases, and evaluating expected outputs against actual outputs, problems identified through test cases can be traced to their sources much easier, thus making debugging much simpler. When sources of the bugs are identified, debugging can occur as such:
+
+1. Reproduce the bug
+2. Isolating the code in which errors are identified
+3. Capture snapshot of the program at its current state; when the bug appears (output all variable values and states of the program)
+4. Analyse the snapshot to find cause of the bug
+5. Fix the bug, and continue with test cases to ensure that no new bugs appear
+
+In order to take an iterative approach and make our development modular, we are also employing the use of a “Kanban” board that is connected to GitHub. This allows us to assign tasks to specific group members, and clearly display their progress (in the “Backlog”, “In Progress”, and “Completed”). This will help in the reduction of merge conflicts, as group members know the exact section they are supposed to be working on. A screenshot of the board is displayed below:
+
+![](https://lh5.googleusercontent.com/k9Mj5shQyJunyxvFHThs3O-LuqznD88RQNUZ9U4aI7KxMpqrZ90-cgMTmi79MaWx_exZKVZENZn08xv5-ULj072RtpgWg7qUJAJyp_Ab5Yz_wyWIl8ZmYI5HJNoBR1-yjYVIuRECj5yLQnNzO2cgLfc)
