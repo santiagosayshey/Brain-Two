@@ -1,6 +1,0 @@
-
-## Memory & Inodes
-
-### Arrays as Function Parameters
--   In C, to concatenate strings, `strcat(string1, string2)` is used. Example:
-

@@ -1,9 +1,0 @@
-
-### Static Functions
--   Static functions' scope is limited to the file they're in, enabling the use of the same function names in different files.
-
-### Input & Output
-
-#### Output
--   `printf` function is used for output, with placeholders (%d, %f, etc.) for variable values.
-

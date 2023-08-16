@@ -1,6 +1,0 @@
-
--   The `execvp` command is used to start a new process without waiting for the existing one to finish.
-
-### Forking
--   Forking is the process of duplicating a process. The fork function returns different values to the parent and child, allowing different tasks to be performed.
-

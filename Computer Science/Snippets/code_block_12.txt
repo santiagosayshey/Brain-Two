@@ -1,5 +1,0 @@
-
-## Event Attributes
-
-- Code can be run using event attribuites
-

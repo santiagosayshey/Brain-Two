@@ -1,5 +1,0 @@
-
-
-### String Functions
--   Strings in C are null-terminated character arrays. Common functions include `strcpy`, `strncpy`, `strdup`, and `strcat`.
-
