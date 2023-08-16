@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Computer Science/React/Notes/1.2 Javascript Fundamentals.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -189,7 +189,8 @@
       "templates:Insert template": true,
       "command-palette:Open command palette": true,
       "random-note:Open random note": true,
-      "zk-prefixer:Create new unique note": true
+      "zk-prefixer:Create new unique note": true,
+      "pieces-for-developers:Pieces For Developers": false
     }
   },
   "active": "203db5c444523296",
