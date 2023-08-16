@@ -1,1 +1,0 @@
-element.style.color = "red";

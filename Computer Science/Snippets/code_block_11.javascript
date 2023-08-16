@@ -1,1 +1,0 @@
-element.setAttribute('someAttribute', "Value");
