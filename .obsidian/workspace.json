@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Object Oriented Programming/Notes/1.9 Templates.md",
+                "file": "Computer Science/Object Oriented Programming/Notes/10.1 Static Members.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Object Oriented Programming/Notes/1.9 Templates.md",
+                "file": "Computer Science/Object Oriented Programming/Notes/10.1 Static Members.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Object Oriented Programming/Notes/1.9 Templates.md",
+                "file": "Computer Science/Object Oriented Programming/Notes/10.1 Static Members.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Object Oriented Programming/Notes/1.9 Templates.md"
+                "file": "Computer Science/Object Oriented Programming/Notes/10.1 Static Members.md"
               }
             }
           }
@@ -192,10 +192,11 @@
       "zk-prefixer:Create new unique note": true
     }
   },
-  "active": "5e4579e9e4454f1b",
+  "active": "a5ef5a2ad01c17da",
   "lastOpenFiles": [
-    "Computer Science/Object Oriented Programming/Notes/1.8 OOP Problem Solving.md",
     "Computer Science/Object Oriented Programming/Notes/1.9 Templates.md",
+    "Computer Science/Object Oriented Programming/Notes/10.1 Static Members.md",
+    "Computer Science/Object Oriented Programming/Notes/1.8 OOP Problem Solving.md",
     "Computer Science/Object Oriented Programming/Notes/1.7 Abstract Classes.md",
     "Computer Science/Object Oriented Programming/Notes/1.6 Polymorphism.md",
     "Computer Science/Object Oriented Programming/Notes/1.5 Inheritance.md",
@@ -223,7 +224,6 @@
     "Computer Science/Databases & Ethical Data/Workshops/Workshop 2 - Preparation { Samuel Chau }.md",
     "Computer Science/Databases & Ethical Data/Workshops/Workshop 1 - Preparation { Samuel Chau - Semester 2, 2023 }.md",
     "Pasted image 20230814080347.png",
-    "Electives/Intro to Forensic Sciences/Notes/1.1 Intro to Forensic Sciences.md",
     "Pasted image 20230814082309.png",
     "Pasted image 20230814082128.png",
     "Pasted image 20230814082044.png",
