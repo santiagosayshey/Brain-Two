@@ -1,6 +1,8 @@
 import os
 import re
 import shutil
+from collections import defaultdict
+
 
 def extract_code_blocks(filepath):
     """
@@ -33,6 +35,9 @@ def save_code_blocks_to_files(code_blocks, output_dir):
         
         with open(output_path, 'w', encoding='utf-8') as f:
             f.write(code)
+            
+        # Keep track of the language statistics
+        language_stats[language] += 1
 
 def update_extensions(input_dir, output_dir):
     """
@@ -98,16 +103,34 @@ def process_markdown_files(root_dir, temp_dir, output_dir):
 
     print(f"Processed {total_files} markdown files.")
     print(f"Found {total_snippets} code snippets.")
+    
     print("Details:")
     print(f"  Root Directory: {root_dir}")
     print(f"  Temporary Directory: {temp_dir}")
     print(f"  Output Directory: {output_dir}")
+
+def print_language_statistics():
+    """
+    Print the statistics of code snippets by programming language.
+    """
+    total_snippets = sum(language_stats.values())
+    if total_snippets == 0:
+        print("No code snippets found.")
+        return
+    
+    print("Language Statistics:")
+    for language, count in language_stats.items():
+        percentage = (count / total_snippets) * 100
+        print(f"  {language}: {count} snippets ({percentage:.2f}%)")
 
 # Example usage
 if __name__ == "__main__":
     root_directory = r'Z:\Brain 2.0'
     temp_directory = r'Z:\Brain 2.0\Computer Science\Snippets_Temp'
     output_directory = r'Z:\Brain 2.0\Computer Science\Snippets'
+
+    # Initialize a dictionary to store code snippet statistics by programming language
+    language_stats = defaultdict(int)
 
     if not os.path.exists(temp_directory):
         os.makedirs(temp_directory)
@@ -121,5 +144,7 @@ if __name__ == "__main__":
 
     print("Cleaning up temporary files...")
     shutil.rmtree(temp_directory)
-    
+
     print("Process completed successfully.")
+    
+    print_language_statistics()
