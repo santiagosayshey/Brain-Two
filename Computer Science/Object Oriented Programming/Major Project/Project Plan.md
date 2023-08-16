@@ -54,3 +54,9 @@ In the treasure state, the player’s current experience is increased such that 
 The mystery state randomly picks between the treasure state and the enemy encounter state. 
 
 In the case that the player beats all the levels, this means they have beaten the entire game, resulting in a game victory state. This state removes all previous states and displays text explaining to the player they have won. It will show stats such as run time, high score, etc. The game will then switch back to the menu state where the player can start a new game or quit.
+
+*Now that we have thoroughly identified any potential objects and their data members / behaviours, it is vital to create a UML class diagram which will not only contain this information, but also highlight any aggregation and hierarchical relationships.*
+
+## UML Class Diagram
+
+![](https://lh4.googleusercontent.com/CmTVod9sMI42MQ6PqZN2gtl8G1TtBJTfeAnDX_SHPHpb0TKe-60grEebrB90QHTZgsXBLzBVr4acqRWdZ3aCQReEnG9R6AZJHJJ7FryY-2INOZLModkIqjtYBCMb1PGPGKo2TY7zQPkALX_0ZHuvpQM)
