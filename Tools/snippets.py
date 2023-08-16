@@ -21,6 +21,34 @@ def save_code_blocks_to_files(code_blocks, output_dir):
         with open(output_path, 'w', encoding='utf-8') as f:
             f.write(code)
 
+def update_extensions(output_dir):
+    """Update the extensions of the files based on proper mappings."""
+    ext_mapping = {
+        '.bash': '.sh',
+        '.console': '.sh',
+        '.hdl': '.v',
+        '.java': '.js',
+        '.javascript': '.js',
+        '.python': '.py',
+        '.sql': '.sql',
+        '.pseudocode': '.cpp'
+    }
+    
+    for filename in os.listdir(output_dir):
+        filepath = os.path.join(output_dir, filename)
+        file_base, file_ext = os.path.splitext(filename)
+        
+        if file_ext in ext_mapping:
+            new_ext = ext_mapping[file_ext]
+            new_filename = file_base + new_ext
+            new_filepath = os.path.join(output_dir, new_filename)
+            
+            # Remove the existing file if it's there
+            if os.path.exists(new_filepath):
+                os.remove(new_filepath)
+                
+            os.rename(filepath, new_filepath)
+
 def process_markdown_files(root_dir, output_dir):
     """Process all markdown files in a directory and its subdirectories."""
     for root, _, files in os.walk(root_dir):
@@ -40,3 +68,6 @@ if __name__ == "__main__":
         os.makedirs(output_directory)
         
     process_markdown_files(root_directory, output_directory)
+    
+    # Update the file extensions after processing all markdown files
+    update_extensions(output_directory)

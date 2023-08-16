@@ -1,0 +1,14 @@
+>%%
+>*%%PREFIX%%6/take2 of 4 27/02/2023, 2:51 pm%%HIGHLIGHT%% ==<a class="highlight">TEXT</a>== %%POSTFIX%%<a id="highlight">TEXT</a><p cla*
+>%%LINK%%[[#^gf3eej49ntl|show annotation]]
+>%%COMMENT%%
+>This one is yellow as it has the most specific selector, choosing all a tags and highlight classes.
+>
+>Green would also work but is overwritten by the yellow selector
+>%%TAGS%%
+>
+^gf3eej49ntl
+
+
+>%%
+>

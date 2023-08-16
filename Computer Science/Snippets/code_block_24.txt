@@ -1,0 +1,6 @@
+
+#### Calloc
+-   Allocates memory and initializes it to zero.
+-   Slower than `malloc` as it needs to wipe the memory.
+-   Use when you need to allocate and initialize memory to zero.
+
