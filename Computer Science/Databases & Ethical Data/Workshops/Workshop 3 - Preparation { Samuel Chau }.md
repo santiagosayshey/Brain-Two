@@ -33,14 +33,13 @@ Often, we want to assign unique blocks to clustering indexes. This allows for ef
 ```
 
 ```
-Compared to a primary index, where every record is unique. 
+Compared to a primary index, where every record is unique. This leads to innefficient insertions / deletions where the entire index needs to be sorted after every operation. 
 
 -------------------------       -------------------------
 |  BookID: 1         |  ---->  | Book1 |
 -------------------------       -------------------------
 |  BookID: 2         |  ---->  | Book2 |
 ------------------------- 
-
 ```
 
 ## Question 4 
