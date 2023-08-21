@@ -9,9 +9,13 @@ def convert_obsidian_image_links(file_path, new_file_path):
     with open(file_path, 'r', encoding='utf-8') as file:
         content = file.read()
         
-        # Use regex to find the Obsidian image links and replace them.
-        # Assuming image files are in a directory named Images relative to the root of the vault.
-        content = re.sub(r'!\[\[(.*?)\]\]', r'![\1](../Images/\1)', content)
+        # Use regex to find the Obsidian image links, replace spaces with %20, 
+        # and then convert the link format.
+        def replace_link(match):
+            image_name = match.group(1).replace(' ', '%20')
+            return f'![{image_name}](/Images/{image_name})'
+        
+        content = re.sub(r'!\[\[(.*?)\]\]', replace_link, content)
         
     os.makedirs(os.path.dirname(new_file_path), exist_ok=True)
     
@@ -36,7 +40,7 @@ def main(vault_directory, github_directory):
                 convert_obsidian_image_links(file_path, new_file_path)
 
 if __name__ == "__main__":
-    # Change this to the path of your vault
-    VAULT_PATH = '../'
+    # Adjusting paths relative to the script's location in ./Tools/
+    VAULT_PATH = '../'  # Root of your vault
     GITHUB_PATH = '../Github'
     main(VAULT_PATH, GITHUB_PATH)
