@@ -12,6 +12,10 @@ Data consistency - On the opposite end, we might only want to grab data once and
 
 Sorted files have an advantage that "key order adjacent records will most likely be in the same block". Explain why this is the case and then what advantage this yields.
 
+```
+Data is written to drives sequentially. This means that one record is added after another in the order of the sorting key, and as a result, adjac
+```
+
 ## Question 3 
 
 A clustering index can use separate blocks for each cluster value, to improve performance for both the insertion and deletion of records. Explain, with diagrams if required, why this works and use a comparison with another index to indicate how it is more efficient.
