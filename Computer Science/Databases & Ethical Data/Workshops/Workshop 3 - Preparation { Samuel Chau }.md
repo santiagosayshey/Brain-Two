@@ -84,9 +84,6 @@ When a recipe is deleted, the system needs to remove its ID from every ingredien
 #### c) Updates:
 If an ingredient is added/removed from a recipe, the ingredient-based index needs to be updated accordingly, either by adding or removing the recipe ID from the associated ingredient lists.
 
-### 5. Index Maintenance:
-Given the frequent updates, it's essential to ensure that the indexes don't become too fragmented over time. Regular maintenance, like rebuilding or reorganizing indexes, might be required.
-
 ### 6. Index Storage and Retrieval:
 Given that the ingredient-based index could grow quite large, using efficient storage and retrieval structures like B-trees or hash indexes is essential. B-trees, in particular, are suitable for range queries and can remain balanced, ensuring search, insert, and delete operations run in logarithmic time.
 
