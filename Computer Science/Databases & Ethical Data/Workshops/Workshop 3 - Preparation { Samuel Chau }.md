@@ -23,7 +23,7 @@ This allows for efficient and reduced disc I/O. By keeping adjacent records in s
 A clustering index can use separate blocks for each cluster value, to improve performance for both the insertion and deletion of records. Explain, with diagrams if required, why this works and use a comparison with another index to indicate how it is more efficient.
 
 ```
-Often, we want to assign unique blocks to clustering indexes. This allows for efficient insertion and deletion. When we want to add a new record, it's placed in its appropritate block without rearrangement. With deletion, only its specific block needs adjustment. 
+Often, we want to assign unique blocks to clustering indexes. This allows for efficient insertion and deletion. When we want to add a new record, it's placed in its appropritate block without rearrangement. In the case that it is full, we only need to adjust surrounding blocks. With deletion, only its specific block needs adjustment. 
 
 -------------------------       -------------------------
 |  Genre: Mystery    |  ---->  | Book1 | Book2 | Book3 |
@@ -33,8 +33,14 @@ Often, we want to assign unique blocks to clustering indexes. This allows for ef
 ```
 
 ```
-
 Compared to a primary index, where every record is unique. 
+
+-------------------------       -------------------------
+|  BookID: 1         |  ---->  | Book1 |
+-------------------------       -------------------------
+|  BookID: 2         |  ---->  | Book2 |
+------------------------- 
+
 ```
 
 ## Question 4 
