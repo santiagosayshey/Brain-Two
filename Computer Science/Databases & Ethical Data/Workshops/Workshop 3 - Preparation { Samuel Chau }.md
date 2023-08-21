@@ -5,7 +5,7 @@ Why is the volatility of data an issue?
 ```
 Data storage - we might want to store the same field of data for multiple time periods, and with data that constantly changes, this becomes more of an issue, the more comprehensive we want to model this change in data.
 
-Data consistency 
+Data consistency - On the opposite end, we might only want to grab data once and never update it again. If the source is volatile, this single data point might be completely innac
 ```
 
 ## Question 2
