@@ -37,6 +37,6 @@ def main(vault_directory, github_directory):
 
 if __name__ == "__main__":
     # Change this to the path of your vault
-    VAULT_PATH = './'
-    GITHUB_PATH = './Github'
+    VAULT_PATH = '../'
+    GITHUB_PATH = '../Github'
     main(VAULT_PATH, GITHUB_PATH)
