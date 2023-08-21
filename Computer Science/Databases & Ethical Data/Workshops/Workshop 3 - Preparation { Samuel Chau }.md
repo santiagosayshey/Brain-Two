@@ -117,32 +117,19 @@ Have you found all of the matches?
 
 ```python
 import binascii
-import itertools
 import random
 import string
 
-def find_collision(start_string=None):
+def generate_random_string(length=8):
+    return ''.join(random.choice(string.ascii_lowercase) for _ in range(length))
+
+def find_collision():
     hash_table = {}
     iterations = 0
-    
-    # If a start string is provided, use it, otherwise start from a random string.
-    if start_string:
-        first_string = start_string
-    else:
-        first_string = ''.join(random.choice(string.ascii_lowercase) for _ in range(8))
 
-    # Start by hashing the given string.
-    hash_value = binascii.crc32(first_string.encode('utf-8'))
-    hash_table[hash_value] = first_string
-
-    # Use itertools to generate all possible combinations of 8-character strings.
-    for s in itertools.product(string.ascii_lowercase, repeat=8):
-        current_string = ''.join(s)
+    while True:
+        current_string = generate_random_string()
         iterations += 1
-        
-        # Skip the current iteration if the current string is the same as the start string.
-        if current_string == first_string:
-            continue
         
         hash_value = binascii.crc32(current_string.encode('utf-8'))
 
@@ -153,14 +140,38 @@ def find_collision(start_string=None):
         # Otherwise, store the current string and its hash value in the hash table.
         hash_table[hash_value] = current_string
 
-    return (iterations, None, None)
-
 print("Looking for matches")
 print("Running...")
 iterations, first_match, second_match = find_collision()
-if first_match and second_match:
-    print(f"Found two strings that match in {iterations} iterations.")
-    print(first_match, "and", second_match)
-else:
-    print("No matches found.")
+print(f"Found two strings that match in {iterations} iterations.")
+print(first_match, "and", second_match)
+```
+
+```shell
+PS Z:\echo360-1> python hash.py
+Looking for matches
+Running...
+Found two strings that match in 137920 iterations.
+ztzqmfad and qmeaigzp
+PS Z:\echo360-1> python hash.py
+Looking for matches
+Running...
+Found two strings that match in 89798 iterations.
+mgonnlfz and hxfhmfcb
+PS Z:\echo360-1> python hash.py
+Looking for matches
+Running...
+Found two strings that match in 62941 iterations.
+lbqpbrdp and bkuwynbe
+PS Z:\echo360-1> python hash.py
+Looking for matches
+Running...
+Found two strings that match in 51422 iterations.
+ieycnrhi and vgsaohwv
+PS Z:\echo360-1> python hash.py
+Looking for matches
+Running...
+Found two strings that match in 102700 iterations.
+pfhiqmed and zdbbyhae
+PS Z:\echo360-1> 
 ```
