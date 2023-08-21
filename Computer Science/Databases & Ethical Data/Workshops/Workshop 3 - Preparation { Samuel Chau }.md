@@ -2,6 +2,10 @@
 
 Why is the volatility of data an issue?
 
+```
+Data storage - we might want to store data 
+```
+
 ## Question 2
 
 Sorted files have an advantage that "key order adjacent records will most likely be in the same block". Explain why this is the case and then what advantage this yields.
