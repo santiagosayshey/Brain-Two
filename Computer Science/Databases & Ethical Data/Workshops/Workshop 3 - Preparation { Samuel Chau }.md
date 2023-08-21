@@ -60,7 +60,7 @@ Every recipe and cookbook should have a unique identifier (e.g., `recipeID` and 
 ### 3. Secondary Indexes:
 
 #### a) Ingredient-based Index:
-The most crucial index for this application will be ingredient-based since users will search recipes based on ingredients. This can be thought of as an inverted index where ingredients are the keys, and the associated values are lists of recipe IDs or cookbook IDs that contain that ingredient.
+The most crucial index for this application will be ingredient-based since users will search recipes based on ingredients.
 
 For instance:
 ```
@@ -72,9 +72,6 @@ When a user searches for "Salt," the system can quickly fetch all the recipes as
 
 #### b) Cookbook Name Index:
 Users might want to search for a specific cookbook. Having an index based on the cookbook name will facilitate this.
-
-#### c) Compound Index:
-This is useful if users want more specific queries, like finding recipes in a specific cookbook with a particular ingredient.
 
 ### 4. Impact on Index Over Time:
 
