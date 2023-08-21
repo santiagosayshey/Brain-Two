@@ -95,6 +95,7 @@ For the described application, a combination of primary and secondary indexes wi
 
 ## Question 6
 
+```
 We want to write software to find two 8 character strings that have the same CRC32 hash value. (CRC32 is a hash function that generates a much smaller range of values than MD5 - why am I using this?) 
 
 You may assume that:
@@ -114,6 +115,7 @@ Found two strings that match in 179,654 iterations.
 unearned and leiuwnsh 
 
 Have you found all of the matches?
+```
 
 ```python
 import binascii
@@ -153,25 +155,28 @@ Looking for matches
 Running...
 Found two strings that match in 137920 iterations.
 ztzqmfad and qmeaigzp
+
 PS Z:\echo360-1> python hash.py
 Looking for matches
 Running...
 Found two strings that match in 89798 iterations.
 mgonnlfz and hxfhmfcb
+
 PS Z:\echo360-1> python hash.py
 Looking for matches
 Running...
 Found two strings that match in 62941 iterations.
 lbqpbrdp and bkuwynbe
+
 PS Z:\echo360-1> python hash.py
 Looking for matches
 Running...
 Found two strings that match in 51422 iterations.
 ieycnrhi and vgsaohwv
+
 PS Z:\echo360-1> python hash.py
 Looking for matches
 Running...
 Found two strings that match in 102700 iterations.
 pfhiqmed and zdbbyhae
-PS Z:\echo360-1> 
 ```
