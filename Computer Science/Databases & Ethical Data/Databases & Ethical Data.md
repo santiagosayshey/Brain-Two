@@ -10,4 +10,4 @@ Databases have come a long way in the past decades and, rather than focusing pur
 [[2.2 Entropy]]
 [[2.3 Coding Theory]]
 
-[[Workshop 1 - Preparation { Samuel Chau - Semester 2, 2023 }|Workshop 1]]
+[[Workshop 1 - Preparation { Samuel Chau }|Workshop 1]]
