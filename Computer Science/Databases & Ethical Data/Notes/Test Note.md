@@ -1,3 +1,3 @@
 Practical note:
 
-![[Hello World!]]
+![[Computer Science/Databases & Ethical Data/Practicals/Hello World!]]

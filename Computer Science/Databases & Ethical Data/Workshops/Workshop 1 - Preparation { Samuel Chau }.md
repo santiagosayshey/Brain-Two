@@ -111,7 +111,7 @@ How much information is conveyed by each answer?
 
 Recall:
 
-![[Entropy]]
+![[Computer Science/Databases & Ethical Data/Definitions/Entropy]]
 
 Where, entropy is expressed as:
 $$  H(X) = - \sum_{i=1}^{n} P(x_i) \cdot \log_b P(x_i) $$

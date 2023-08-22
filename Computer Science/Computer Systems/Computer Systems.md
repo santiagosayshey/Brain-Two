@@ -9,13 +9,13 @@
 
 ## Week 1
 
-[[1.1 Boolean Logic]]
-[[1.2 Logic Gates]]
+[[Computer Science/Computer Systems/Notes/1.1 Boolean Logic]]
+[[Computer Science/Computer Systems/Notes/1.2 Logic Gates]]
 
 ## Week 2
 
-[[2.1 Boolean Arithmetic]]
-[[2.2 Memory]]
+[[Computer Science/Computer Systems/Notes/2.1 Boolean Arithmetic]]
+[[Computer Science/Computer Systems/Notes/2.2 Memory]]
 
 ## Week 3
-[[3.1 Machine Language]]
+[[Computer Science/Computer Systems/Notes/3.1 Machine Language]]

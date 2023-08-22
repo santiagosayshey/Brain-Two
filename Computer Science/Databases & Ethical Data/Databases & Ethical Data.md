@@ -2,12 +2,12 @@ Databases have come a long way in the past decades and, rather than focusing pur
 
 ## Week 1
 
-[[1.1 Basic Probability]]
-[[1.2 Basic Statistics]]
+[[Computer Science/Databases & Ethical Data/Notes/1.1 Basic Probability]]
+[[Computer Science/Databases & Ethical Data/Notes/1.2 Basic Statistics]]
 
 ## Week 2
-[[2.1 Information Theory]]
-[[2.2 Entropy]]
-[[2.3 Coding Theory]]
+[[Computer Science/Databases & Ethical Data/Notes/2.1 Information Theory]]
+[[Computer Science/Databases & Ethical Data/Notes/2.2 Entropy]]
+[[Computer Science/Databases & Ethical Data/Notes/2.3 Coding Theory]]
 
-[[Workshop 1 - Preparation { Samuel Chau }|Workshop 1]]
+[[Computer Science/Databases & Ethical Data/Workshops/Workshop 1 - Preparation { Samuel Chau }|Workshop 1]]

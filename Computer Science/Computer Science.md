@@ -13,7 +13,7 @@
 ### Semester 1
 
 ### Semester 2
-[[Computer Systems|Computer Systems]]
-[[Databases & Ethical Data|Databases & Ethical Data]]
+[[Computer Science/Computer Systems/Computer Systems|Computer Systems]]
+[[Computer Science/Databases & Ethical Data/Databases & Ethical Data|Databases & Ethical Data]]
 
 
