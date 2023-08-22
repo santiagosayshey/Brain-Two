@@ -1,6 +1,0 @@
-- Blog
-- Projects
-- Resume
-- Recent Media
-	- Plex, Last-FM integration
-	- Letterboxd integration
