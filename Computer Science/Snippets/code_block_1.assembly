@@ -1,0 +1,34 @@
+// Predefined symbols:
+// SP, LCL, ARG, THIS, THAT, R0-R15, SCREEN, KBD
+// Note: R0-R15 are both registers and memory locations (0-15).
+
+@R0               // Refers to register R0, which is also address 0.
+D=M               // D gets the value from address 0
+
+@R1               // Refers to register R1, which is also address 1.
+M=D+1             // Value at address 1 gets D + 1
+
+// User-defined symbols:
+
+// Labels:
+(LOOP_START)      // This is a user-defined label named "LOOP_START".
+@R2
+D=M
+D=D-1
+@R2
+M=D
+@END
+D;JEQ             // If D is zero, jump to the label END.
+@LOOP_START
+0;JMP             // Unconditional jump to LOOP_START
+
+(END)             // Another user-defined label named "END".
+
+// Variables:
+@myVar            // A user-defined variable named "myVar". The assembler will allocate a memory location for this.
+M=123
+
+@myVar
+D=M
+@SCREEN           // Predefined symbol referring to the base address of the screen memory map.
+M=D               // Write the value from myVar to the start of the screen (just for demonstration, doesn't achieve much visually).
