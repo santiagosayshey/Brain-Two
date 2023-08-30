@@ -2,10 +2,10 @@ The GPPi is tailored to rank release groups based on their ability to consistent
 
 ## Formula
 
-For any given resolution \( r \), the GPPi for a given release group is calculated as:
+For a given resolution \( r \), the GPPi for a given release group is calculated as:
 
 $$ 
-GPPi_r = \frac{\left( \text{GP's}_r \right)^2}{\text{Total encodes at } r} 
+GPPi_r = \frac{\left( \text{GPE}_r \right)^2}{\text{E}_r} 
 $$
 
 ## Interpretation
