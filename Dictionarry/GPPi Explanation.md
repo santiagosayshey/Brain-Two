@@ -10,12 +10,12 @@ $$
 
 Where:
 
-$$ 
-GPPi_r = Golden Popcorn Performance index at resolution \( r \) 
 $$
-- \( GPPi_r \): Golden Popcorn Performance index at resolution \( r \).
-- \( GPE_r \): Number of Golden Popcorn Encodes at resolution \( r \).
-- \( E_r \): Total encodes at resolution \( r \).
+GPPi_r &\text{: Golden Popcorn Performance index at resolution } r. \\
+GPE_r &\text{: Number of Golden Popcorn Encodes at resolution } r. \\
+E_r &\text{: Total encodes at resolution } r.
+\end{align*}
+$$
 
 ## Interpretation
 
