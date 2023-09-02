@@ -1,2 +1,0 @@
-- Release group focused
-	- Video / Audio qualities aren't consistent enough
