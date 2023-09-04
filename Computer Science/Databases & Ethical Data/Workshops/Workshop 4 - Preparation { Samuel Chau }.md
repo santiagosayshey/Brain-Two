@@ -68,4 +68,4 @@ How does the Australian Privacy Act (APA) look after the security of your person
 - To whom it applies
 - Notion of harm
 - Fines and penalties
-- Right to be forgotten (erasure)
+- Right to be forgotten (erasure) - doesn't really exist in the APA
