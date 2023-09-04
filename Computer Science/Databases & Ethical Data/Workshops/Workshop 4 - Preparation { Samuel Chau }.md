@@ -77,5 +77,5 @@ How does the Australian Privacy Act (APA) look after the security of your person
     - **GDPR**: GDPR has the potential for much larger fines, up to €20 million or 4% of the entity's global annual turnover of the previous financial year, whichever is higher.
 
 4. **Right to be Forgotten (Erasure)**:
-    - **APA**: As you mentioned, the right to erasure isn't explicit in the APA. While Australians can request their personal information to be corrected, the notion of having data completely erased isn't as clearly stipulated as it is in the GDPR.
+    - **APA**: The right to erasure isn't explicit in the APA. While Australians can request their personal information to be corrected, the notion of having data completely erased isn't as clearly stipulated as it is in the GDPR.
     - **GDPR**: Under GDPR, EU citizens have a clear "right to be forgotten," meaning they can request that their data be deleted under specific circumstances.
