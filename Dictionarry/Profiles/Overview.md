@@ -1,6 +1,6 @@
 ## Profiles:
 
-1. **Transparent**
+### Transparent
     - **Description**: A dynamic profile aiming to download the best possible release. It is data-driven, always evolving to pick the most likely release to be a 'Golden Popcorn'—balancing between resolution, quality, and potential source defects.
 
 2. **Universal**
