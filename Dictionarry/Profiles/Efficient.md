@@ -11,12 +11,8 @@
    - **Striking a Balance**: While embracing efficiency, it's crucial not to diminish the viewing experience. Hence, multi-channel audio like 5.1 is still preferred when available, ensuring an immersive experience without the heft of lossless audio formats.
 
 ### 3. Compatibility: With an Eye on the Future
-   - **Cutting-edge Compatibility**: Given its penchant for newer codecs, the "Efficient Excellence" profile might not be universally compatible like the "Universal" profile. Still, it's tailored for enthusiasts with setups capable of handling these advanced codecs.
+   - **Cutting-edge Compatibility**: Given its penchant for newer codecs, the "Efficient" profile might not be universally compatible like the "Universal" profile. Still, it's tailored for enthusiasts with setups capable of handling these advanced codecs.
    - **Fallback to x264**: Recognizing that x265 and AV-1 aren't ubiquitous yet, there's a provision to fall back to x264, ensuring that users still get a quality release even if the preferred codecs aren't available.
 
 ### 4. Special Mention: "Hawke-One" and "HUNO" Internals
-   - **Synergy with Specialized Trackers**: This profile's philosophy resonates with the goals of trackers like "Hawke-One" or "HUNO". Their internal releases, known for efficient encodes without skimping on quality, are prioritized, aligning perfectly with the "Efficient Excellence" ethos.
-
----
-
-"Efficient Excellence" caters to the modern digital connoisseur, delivering a top-notch cinematic experience while being respectful of storage constraints. It's a profile for those who believe that efficiency and quality can coexist in harmony.
+   - **Synergy with Specialized Trackers**: This profile's philosophy resonates with the goals of trackers like "Hawke-One" or "HUNO". Their internal releases, known for efficient encodes without skimping on quality, are prioritized, aligning perfectly with the "Efficient" ethos.
