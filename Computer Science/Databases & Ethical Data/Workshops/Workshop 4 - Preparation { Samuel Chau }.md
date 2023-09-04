@@ -24,7 +24,7 @@ In a University's registration system, every `COURSE OFFERING` is an offering of
 From the examples given in lecture 7-3, we know that Dependants have Names, Birthdates, and Relationships. Two children in the company, who are not related, have the same names, birthdates, and relationships as each other. Explain, with a diagram if you prefer, why we would not be confused about which child is which, although neither has an ID or Staff number.
 ```
 
-Children are weak entities. They are totally dependant on a unique parent entity. In other words, there is total participation betywe
+Children are weak entities. They are totally dependant on a unique parent entity. In other words, there is total participation between a child and a parent. 
 ## Question 4 
 
 ```
