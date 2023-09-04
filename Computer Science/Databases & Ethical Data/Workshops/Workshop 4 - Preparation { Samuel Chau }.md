@@ -48,6 +48,13 @@ What are the three schools of ethics we will be studying in this course?
 There are seven principles of the GDPR and, while many are familiar, one is new. What is it and why is it in the GDPR?
 ```
 
+- Lawfulness, fairness and transparency
+- Purpose limitation
+- Data minimisation
+- Accuracy
+- Storage limitation
+- Integrity and confidentiality
+- Accountability
 ## Question 6
 
 ```
