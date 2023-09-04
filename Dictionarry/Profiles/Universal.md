@@ -15,7 +15,19 @@ At the heart of the "Universal" profile lies its acute understanding of the rele
 
 ### 3. Quality, File Size, and Compatibility: The Delicate Balance
    - **Juggling Priorities**: The "Universal" profile acknowledges the competing priorities of quality, file size, and compatibility. However, it is engineered to find that sweet spot where all three criteria meet, ensuring viewers enjoy a quality viewing experience that plays effortlessly across devices.
+Absolutely! Let's delve deeper into the technical side of the "Universal" profile to ensure widespread compatibility.
 
----
+## Technical Foundations of the "Universal" Profile
 
-Let me know if this fits your requirements or if you'd like further adjustments!
+In order to guarantee the highest degree of playback compatibility across a vast spectrum of devices, from older hardware to the latest smart TVs, the "Universal" profile is anchored in a set of technical decisions. These decisions cater to formats and standards that are universally accepted and have stood the test of time.
+
+### 1. Video Codec: x264 – The Gold Standard
+   - **The Choice of x264**: With its widespread adoption and compatibility, x264 has become the de facto standard for video encoding in many applications. It ensures that videos are playable on virtually any device without the need for special software or hardware.
+   - **Avoiding the Cutting Edge**: While newer codecs like x265, AV-1, x266, etc., might offer better compression and quality at similar bitrates, they aren't as universally compatible. Devices, especially older ones, may struggle with playback or might not support these codecs at all. Hence, the "Universal" profile deliberately avoids these to ensure seamless playback.
+
+### 2. Audio: Embracing the Lossy
+   - **Lossy Over Lossless**: Lossy audio formats, such as AAC or MP3, are chosen over lossless alternatives like FLAC. The rationale? Wider compatibility and smaller file sizes. These formats still offer good quality audio for the vast majority of listening scenarios.
+   - **Simplifying the Audio**: Advanced audio setups like Atmos can cause compatibility issues on devices or setups that don't support them. The "Universal" profile sticks to more universally compatible audio formats like 5.1 or even stereo in some cases.
+
+### 3. Colour and Dynamic Range: No HDR
+   - **Keeping Colours Compatible**: High Dynamic Range (HDR) is undoubtedly beautiful, but not every device can interpret or display it correctly. For universal compatibility, the profile sticks to the Standard Dynamic Range (SDR), ensuring consistent colour reproduction across all screens.
