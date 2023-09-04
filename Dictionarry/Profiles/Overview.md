@@ -15,3 +15,4 @@
     - **Description**: A version of the movie or show taken directly from its source (like a Blu-Ray) without any alterations to the video or audio quality. It offers an untouched, high-fidelity experience.
 
 (Note: While "PureCut" or "DirectCut" may be more user-friendly terms, it's essential to ensure that users understand what they're getting, especially if they're accustomed to the term "remux.")
+
