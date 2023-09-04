@@ -1,0 +1,1 @@
+- **Description**: Designed for users who prioritize a one-time, optimal download. It targets a balance between quality and file size, ensuring the best ratio without the need for subsequent upgrades.
