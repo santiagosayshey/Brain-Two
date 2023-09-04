@@ -4,6 +4,8 @@ You are asked to add SUPPLY in ER, which associates a SUPPLIER, a PROJECT, and a
 
 (Hint: Relationships connect entities, if SUPPLY is an entity, what does that men if we wish it to derive its key from SUPPLIER, PROJECT, and PART?)
 
+![[Pasted image 20230905042222.png]]
+
 ## Question 2
 
 Give an example, not from the notes, of a total participation constraint in a real-world system. What would the ER of this look like?
