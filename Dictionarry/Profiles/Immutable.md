@@ -16,3 +16,13 @@
 
 ### 4. Trust in Initial Choice:
    - **Relying on First Impressions**: The underlying principle of "Immutable" is trust in the initial selection process. By adhering to the primary profile's guidelines, be it based on group reputation, compatibility, or efficiency, the "Immutable" characteristic assumes that the first choice was the right choice.
+
+## **Side Note on Combining 'Immutable' with Other Profiles**:
+
+While the "Immutable" characteristic can seamlessly integrate with most primary profiles, there's a specific caveat when it comes to "Transparent". 
+
+**Transparent's Essence**: The very core of the "Transparent" profile lies in its dynamic nature. It thrives on the ongoing evolution of releases, allowing it to select the most superior quality by leveraging historical data and group reputations. By introducing an "Immutable" aspect to "Transparent", one would be contradicting the profile's foundational goal.
+
+**Best Fits**:
+- **Efficient**: Especially for those who prioritize a balance between quality and file size. Once the best efficient release is grabbed, there's no need to reassess based on future releases.
+- **Universal**: Tailored for casual torrenters who value compatibility and hassle-free playback across devices. An "Immutable" characteristic ensures they get a universally compatible file and stick with it.
