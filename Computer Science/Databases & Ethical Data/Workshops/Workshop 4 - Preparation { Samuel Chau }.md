@@ -48,15 +48,24 @@ What are the three schools of ethics we will be studying in this course?
 There are seven principles of the GDPR and, while many are familiar, one is new. What is it and why is it in the GDPR?
 ```
 
-- Lawfulness, fairness and transparency
-- Purpose limitation
-- Data minimisation
-- Accuracy
-- Storage limitation
-- Integrity and confidentiality
-- Accountability
+- ***Accountability***
+
+This principle requires data controllers to take responsibility for complying with the GDPR and to demonstrate that compliance. Prior regulations had many of the other principles, but the emphasis on accountability was an enhancement in the GDPR.
+
+Why is it in the GDPR?
+
+- **Proactive Compliance**: The accountability principle requires organizations to be proactive in ensuring compliance rather than merely reactive. It pushes organizations to put systems and processes in place to ensure and demonstrate compliance, rather than waiting for a breach to occur.
+- **Transparency with Authorities**: Organizations may need to show evidence of compliance to supervisory authorities upon request, such as through documentation, the implementation of appropriate technical and organizational measures, or through other evidence like audits.
+- **Protection for Individuals**: By pushing organizations to be more accountable, individuals' data is better protected. The principle means that organizations cannot just claim they are compliant; they must actively show and ensure that they are.
+- **Risk Management**: Organizations are encouraged to consider risks and assess the appropriateness of the data protection measures they have in place, ensuring that these measures are continuously updated and improved upon.
 ## Question 6
 
 ```
 How does the Australian Privacy Act (APA) look after the security of your personal information? Overall, what are the key differences between the GDPR and APA?
 ```
+
+## APA Differences
+- To whom it applies
+- Notion of harm
+- Fines and penalties
+- Right to be forgotten (erasure)
