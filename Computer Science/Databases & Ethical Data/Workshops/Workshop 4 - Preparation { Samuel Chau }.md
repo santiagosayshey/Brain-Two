@@ -25,6 +25,10 @@ From the examples given in lecture 7-3, we know that Dependants have Names, Birt
 ```
 
 Children are weak entities. They are totally dependant on a unique parent entity. In other words, there is total participation between a child and a parent. 
+
+![[Pasted image 20230905045513.png]]
+
+
 ## Question 4 
 
 ```
