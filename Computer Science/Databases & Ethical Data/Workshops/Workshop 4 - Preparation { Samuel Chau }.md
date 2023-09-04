@@ -35,6 +35,9 @@ Children are weak entities. They are totally dependant on a unique parent entity
 What are the three schools of ethics we will be studying in this course?
 ```
 
+APP
+GDPR
+??
 ## Question 5
 
 ```
