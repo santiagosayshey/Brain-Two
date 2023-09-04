@@ -65,18 +65,17 @@ How does the Australian Privacy Act (APA) look after the security of your person
 ```
 
 1. **To Whom It Applies**:
-
-    - **APA**: It generally applies to Australian government agencies and private sector organizations with an annual turnover of more than $3 million. Some small businesses, like those involved in health services, may also be covered.
+    - **APA**: It generally applies to Australian government agencies and private sector organizations
     - **GDPR**: Applies to entities processing the personal data of EU citizens, regardless of where the entity is based. This global reach is more extensive than the APA's predominantly national focus.
+
 2. **Notion of Harm**:
-    
     - **APA**: The APA emphasizes "serious harm" when determining the necessity of notifying individuals about data breaches.
     - **GDPR**: GDPR has a broader view, requiring notification for any data breach that poses a risk to the rights and freedoms of individuals, which can be more encompassing than just "serious harm."
+
 3. **Fines and Penalties**:
-    
     - **APA**: Penalties under the APA, while significant, are generally lower than those under the GDPR.
     - **GDPR**: GDPR has the potential for much larger fines, up to €20 million or 4% of the entity's global annual turnover of the previous financial year, whichever is higher.
+
 4. **Right to be Forgotten (Erasure)**:
-    
     - **APA**: As you mentioned, the right to erasure isn't explicit in the APA. While Australians can request their personal information to be corrected, the notion of having data completely erased isn't as clearly stipulated as it is in the GDPR.
     - **GDPR**: Under GDPR, EU citizens have a clear "right to be forgotten," meaning they can request that their data be deleted under specific circumstances.
