@@ -37,3 +37,33 @@ $$
    - Quality isn't merely about the source. There can be instances where a 4K VOD is 'webripped' to 1080p, offering a superior source compared to a standard 1080p Blu-ray encode. To ensure the best grab, various profiles like WEBRIP, BLURAY, and WEBDL are nested under a 'transparent capable' grouping, ensuring no specific source is prioritized over another.
 
 ![](Images/Pasted%20image%2020230905012450.png)
+
+| 1080p Transparent v3.1 |                 |           |           |           |                  |                      |       |         |
+|------------------------|-----------------|-----------|-----------|-----------|------------------|----------------------|-------|---------|
+| Resolution             | Source          | Codec     | Internal  | Audio     | Extras           | Indexer Flags        | Score | Upgrade |
+|                        |                 |           | HD Tier 1 |           |                  | 1080p Golden Popcorn | 120   | 320     |
+|                        |                 |           | HD Tier 2 |           |                  |                      | 110   |         |
+|                        |                 |           | HD Tier 3 |           |                  |                      | 100   |         |
+|                        |                 |           | HD Tier 4 |           |                  |                      | 90    |         |
+|                        |                 |           | HD Tier 5 |           |                  |                      | 80    |         |
+|                        |                 |           | HD Tier 6 |           |                  | HDB Internal         | 70    |         |
+| 1080p                  | Movies Anywhere |           |           |           |                  |                      | 60    |         |
+|                        | Amazon Prime    |           |           |           |                  |                      | 50    |         |
+|                        | Apple TV+       |           |           |           |                  |                      |       |         |
+|                        | Disney+         | DVD Remux |           |           |                  |                      | 40    |         |
+|                        | Netflix         |           |           |           |                  |                      |       |         |
+|                        | HBOMax          |           |           |           |                  |                      |       |         |
+|                        | Hulu            |           | SD Tier 1 |           |                  | SD Golden Popcorn    | 30    |         |
+|                        | Peacock         |           | HD Tier 7 |           |                  |                      |       |         |
+|                        | Paramount+      |           |           |           |                  |                      |       |         |
+|                        | Roku            |           |           |           |                  |                      |       |         |
+|                        | iTunes          |           | SD Tier 2 |           | Special Edition  |                      | 20    |         |
+|                        | Blu-Ray         | x264      |           | Atmos     | IMAX             |                      | 10    |         |
+|                        | WEBRIP          |           |           |           | Criterion        |                      |       |         |
+| 480p                   | DVD             | Xvid      |           | FLAC      |                  |                      | 0     |         |
+|                        |                 |           |           | DD+       |                  |                      |       |         |
+|                        |                 |           |           | DTS       |                  |                      |       |         |
+|                        |                 |           |           | DD        |                  |                      |       |         |
+| 720p                   |                 | x265      |           | TrueHD    | Special Features |                      | -9999 |         |
+| 2160p                  |                 | BD Remux  |           | DTS-HD MA |                  |                      |       |         |
+|                        |                 | Disc      |           | DTS-X     |
