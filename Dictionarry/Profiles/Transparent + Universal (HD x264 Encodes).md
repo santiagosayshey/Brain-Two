@@ -1,15 +1,17 @@
-1. **Resolution & Codec**: Focused on either 1080p or 720p x264 encodes based on user preference, this profile champions a blend of transparency and universality. It caters to those seeking clarity tailored to their resolution of choice without being tethered by device compatibility issues.
+1. **Resolution & Codec**: Rooted in 1080p or 720p x264 encodes based on user preference, this profile balances transparency and universality. Whether it's pristine clarity or broader compatibility, this profile delivers on both fronts.
 
-2. **Codec Exclusion**: The legacy and widely accepted x264 is the codec of choice, deliberately sidelining x265. The primary motive remains broad compatibility, ensuring a universal playback experience.
+2. **Fallback Mechanism**: For newly released movies, if the preferred resolution (1080p/720p) isn't available either via WEB or Blu-ray releases, an SD version will be sought as the fallback, ensuring there’s always content to grab.
 
-3. **HDR Status**: Mindful of the HDR surge, this profile consciously opts out, paving the way for content that is universally digestible across a multitude of display devices.
+3. **Codec Exclusion**: Prioritizing broad compatibility, x264 is the preferred codec, deliberately side-lining x265.
 
-4. **Universality**: Crafted for an extensive audience, whether you opt for 1080p or 720p, the profile ensures that the content remains universally compatible, from legacy HDTVs to the latest streaming gear.
+4. **HDR Status**: With an observant eye on HDR's proliferation, this profile consciously sidesteps, ensuring content remains accessible and consistent across a broad spectrum of devices.
 
-5. **Audio**: Balancing clarity and compatibility remains at the forefront. Tracks like DTS and Dolby Digital (AC3) are predominant, with even lossy formats promising a transparent audio signature. Lossless audio remains off the table, but Atmos does make an appearance when aligned with DD+ tracks.
+5. **Universality**: Geared for expansive reach, both the 1080p and 720p choices guarantee compatibility from legacy devices to the newest streaming platforms.
 
-6. **Release Groups & GPPi**: Trust in release groups remains unwavering, with the GPPi underlining the profile's decision-making matrix. Emphasis is laid on groups that are synonymous with quality and have an impressive track record.
+6. **Audio**: Striking a balance between clarity and compatibility. While lossy formats like DTS and Dolby Digital (AC3) lead the way, the inclusion of Atmos with DD+ tracks reinforces the commitment to quality.
 
-7. **Compatibility**: The universal DNA of this profile assures minimal compatibility glitches across trackers and playback avenues, promising a seamless user experience.
+7. **Release Groups & GPPi**: Relying on established reputations, the profile leans on release groups with stellar track records, underpinned by the GPPi's insights.
 
-8. **Summary**: Perfect for those seeking optimal visual and auditory experience at their preferred HD resolution, without the confines of compatibility. It’s a blend of visual splendor and universal reach.
+8. **Compatibility**: Rooted in universality, this profile faces minimal compatibility hitches across trackers and playback mediums, ensuring a seamless experience.
+
+9. **Summary**: A blend of transparency and broad reach, tailored for those desiring quality at their preferred HD resolution without compatibility constraints.
