@@ -1,6 +1,6 @@
 1. **Resolution & Codec**: Zeroing in on SD (either 480p or 576p) x264 encodes, this profile brings together transparency, universality, and efficiency.
 
-2. **Fallback Mechanism**: For fresh movie releases, if WEB releases aren't immediately available in SD, the profile will await their arrival or move to other available SD sources, ensuring there's no void in content availability.
+2. **Fallback Mechanism**: For newly released movies, if SD WEB releases are not immediately available, the profile allows for 1080p WEB releases given their comparable size to SD Blu-ray encodes. This ensures continuous content availability.
 
 3. **Codec Exclusion**: Maintaining the standard, x265 is sidelined in favor of the more universally accepted x264, promising seamless playback.
 
@@ -12,4 +12,4 @@
 
 7. **Compatibility**: Crafted for a universal experience, this profile is nearly immune to compatibility challenges, offering a frictionless user journey.
 
-8. **Summary**: An amalgamation of quality, universality, and space efficiency, th
+8. **Summary**: A fusion of quality, universality, and space conservation, this profile is an ideal choice for those desiring a high-quality SD viewing experience without compromise.
