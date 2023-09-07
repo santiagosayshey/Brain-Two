@@ -9,7 +9,7 @@
 
 5. **Universality**: The profile is designed for the widest audience and device compatibility. Its reliance on x264 1080p guarantees that the majority of playback devices, from older HDTVs to newer streaming sticks, will handle the content flawlessly.
 
-6. **Audio**: In alignment with the profile's mantra of universality, the audio codecs are generally those that are widely supported by most devices. DTS and Dolby Digital (AC3) are the primary tracks you'd expect in these releases, ensuring maximum compatibility without a compromise in auditory experience.
+6. **Audio**: Ensuring maximum compatibility is key, but without sacrificing the clarity of the audio experience. Although DTS and Dolby Digital (AC3) are common tracks in these releases, even lossy formats can deliver a transparent audio experience. Lossless audio formats are explicitly blacklisted for two main reasons: size constraints and ensuring playability across devices that may struggle with lossless formats. However, an exception is made for Atmos in the case of DD+ tracks, enabling an enveloping auditory experience even within the constraints of this profile.
 
 7. **Release Groups**: Recognizing that not all encodes are made equal, certain release groups are known for their meticulous attention to detail and balance between quality and efficiency. While the profile is not strictly release group-centric, those that consistently deliver in this niche are given precedence.
 
