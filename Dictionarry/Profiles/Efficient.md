@@ -1,6 +1,6 @@
 ## Efficient An Overview
 
-"Efficient" seeks the sweet spot between impeccable quality and lean file sizes. As the digital landscape evolves, so too does the demand for more efficient storage solutions without compromising on the viewing experience. "Efficient Excellence" is engineered for enthusiasts who demand the best but are also mindful of the space their media collection occupies. Tailored for trackers like "Hawke-One" or "HUNO", this profile aims for releases that exemplify efficiency in encoding.
+"Efficient" seeks the sweet spot between impeccable quality and lean file sizes. As the digital landscape evolves, so too does the demand for more efficient storage solutions without compromising on the viewing experience. "Efficient" is engineered for enthusiasts who demand the best but are also mindful of the space their media collection occupies. Tailored for trackers like "Hawke-One" or "HUNO", this profile aims for releases that exemplify efficiency in encoding.
 
 ### 1. Video Codec: Embracing x265 and Beyond
    - **The x265 Revolution**: Prioritizing x265 ensures superior video quality at much smaller file sizes compared to its predecessor, x264. It's the cornerstone of the "Efficient" profile.
