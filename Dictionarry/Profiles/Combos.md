@@ -3,19 +3,21 @@
 1. **Efficient**:
 - Focus on space efficiency
 - x265 focus
-- Allows AV-1
+- Allows AV-1 encodes
+- x264 fallback
+- Remux not allowed
 
 2. **Universal**:
-   - x264 for broad compatibility
-   - x265, AV-1 not allowed
-   - Lossy audio formats (e.g., DD, DD, DTS,)
-
-3. **Transparent**:
+- Focus on compatibility
+- No new codecs
+	- x/h264 only allowed
+	- DD, DTS all
+1. **Transparent**:
    - Best available release
    - Doesn't care about space
    - Upgradeable
 
-4. **Immutable**:
+2. **Immutable**:
 - Grab once, never touch again
 
 ### Combined Categories:
