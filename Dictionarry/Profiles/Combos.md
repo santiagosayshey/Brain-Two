@@ -14,11 +14,12 @@
 	- x/h264 only allowed
 	- DD, DTS allowed
 - No HDR
-- Mid teir
+- Mid tier size focus, not overtly efficient but still focusing on smaller size
+
 1. **Transparent**:
-   - Best available release
-   - Doesn't care about space
-   - Upgradeable
+   - Focus on best available release
+   - Flexible, can grab remux, encode, hdr, lossy / lossless
+   - Release group
 
 2. **Immutable**:
 - Grab once, never touch again
