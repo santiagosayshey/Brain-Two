@@ -2,9 +2,9 @@
 
 1. **Resolution**: The central focus is on 2160p (4K), ensuring viewers are presented with maximum detail and clarity.
 
-2. **HDR Capabilities**: Prioritization is given to releases featuring both HDR10+ and Dolby Vision. These formats guarantee exceptional dynamic range, color vibrancy, and an enhanced visual experience.
+2. **HDR Capabilities**: Prioritization is given to releases featuring both HDR10+ and Dolby Vision. These formats guarantee exceptional dynamic range, colour vibrancy, and an enhanced visual experience.
 
-3. **Audio**: For a multi-dimensional auditory experience, releases embedded with DTS-X or TrueHD + Atmos are favored.
+3. **Audio**: Our preference leans toward a rich auditory experience, ideally embedded with DTS-X or TrueHD + Atmos. However, it's crucial to highlight the distinction in audio offerings between UHD remuxes and WEB releases. While UHD remuxes are characterized by their pristine audio tracks, WEB releases predominantly feature lossy audio, particularly DD+ with Atmos. To avoid unintentional acquisition of hybrid encodes — combinations of WEB video and UHD disc-derived lossless audio — the "Transparent" profile expressly blacklists lossless audio for WEB releases.
 
 4. **Selection Methodology**: The approach is A/V feature-centric, placing less emphasis on release groups. This strategy caters to trackers, notably PTP, which don’t routinely specify release groups. This ensures the selection of content for its unparalleled A/V features, irrespective of the source or tracker.
 
