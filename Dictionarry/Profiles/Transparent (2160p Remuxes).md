@@ -14,7 +14,7 @@
 
 7. **File Size Considerations**: Remuxes, being unadulterated replicas of the original UHD discs, are substantially larger in file size compared to their encoded counterparts. This is an aspect potential users should be aware of when opting for this profile.
 
-8. **Release Groups**: The term 'remux' has witnessed an evolution, with 'hybrid' remuxes now in the fray. These hybrids merge features from WEB DV, introduce external subtitles, and occasionally even custom HDR grades. Within this sphere, the release group WiLDCAT stands as the gold standard, renowned for their impeccable hybrid remuxes. Their sporadic release frequency means that other groups such as FRaMeSToR, TRiToN, and others also get a nod.
+8. **Release Groups**: The term 'remux' has witnessed an evolution, with 'hybrid' remuxes now in the fray. These hybrids merge features from WEB DV, introduce external subtitles, and occasionally even custom HDR grades. Within this sphere, the release group WiLDCAT stands as the gold standard, renowned for their impeccable hybrid remuxes. Their sporadic release frequency means that other groups such as FRaMeSToR, TRiToN, 3L and others also get a nod.
 
 9. **Indexer Priority**: Not all trackers are created equal. The unique nuances and occasional parsing errors make it imperative to rank trackers. HDBits, with their exclusive content from groups like 3L, and PTP, with its rigorous quality control and trumping systems, are prioritized. This methodology ensures the highest quality releases get the spotlight.
 
