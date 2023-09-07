@@ -23,7 +23,7 @@
    - A/V driven selection for remuxes
 
 4. **Immutable**:
-- Grab once, never touch again
+- Grab once, never upgrade
 - First grab is usually the best grab
 
 ### Combined Categories:
