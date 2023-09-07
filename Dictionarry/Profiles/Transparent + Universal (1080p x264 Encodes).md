@@ -1,17 +1,37 @@
-1. **Resolution & Codec**: The bedrock of this profile lies in its unwavering commitment to 1080p x264 encodes. These serve as the nexus between transparency and universality, striving to provide users with the optimum blend of clarity, space efficiency, and device compatibility.
+1. **Resolution & Codec**: Focused on either 1080p or 720p x264 encodes based on user preference, this profile champions a blend of transparency and universality. It caters to those seeking clarity tailored to their resolution of choice without being tethered by device compatibility issues.
 
-2. **Codec Exclusion**: The profile consciously forgoes x265, emphasizing the universal appeal of x264. This decision, rooted in broader device and software compatibility, ensures content playback across a vast array of platforms without hiccups.
+2. **Codec Exclusion**: The legacy and widely accepted x264 is the codec of choice, deliberately sidelining x265. The primary motive remains broad compatibility, ensuring a universal playback experience.
 
-3. **HDR Status**: While HDR is becoming a staple in many contemporary releases, this profile stands apart by deliberately excluding it. This approach ensures content uniformity and guarantees universal playability across various display types, from older monitors to modern screens.
+3. **HDR Status**: Mindful of the HDR surge, this profile consciously opts out, paving the way for content that is universally digestible across a multitude of display devices.
 
-4. **Efficiency**: While transparency remains a core principle, this profile doesn't shy away from embracing efficiency. By opting for x264 encodes, it strikes a laudable equilibrium between file size and visual quality. This profile resonates with those who seek dependable quality without delving into the expansive territory of UHD content.
+4. **Universality**: Crafted for an extensive audience, whether you opt for 1080p or 720p, the profile ensures that the content remains universally compatible, from legacy HDTVs to the latest streaming gear.
 
-5. **Universality**: Designed for broad appeal, this profile caters to a vast spectrum of devices. Its unwavering allegiance to x264 1080p ensures a seamless playback experience across devices, spanning from legacy HDTVs to the latest streaming gadgets.
+5. **Audio**: Balancing clarity and compatibility remains at the forefront. Tracks like DTS and Dolby Digital (AC3) are predominant, with even lossy formats promising a transparent audio signature. Lossless audio remains off the table, but Atmos does make an appearance when aligned with DD+ tracks.
 
-6. **Audio**: Audio clarity isn't sacrificed in the quest for compatibility. While DTS and Dolby Digital (AC3) remain prominent, lossy formats still manage to provide a transparent auditory experience. Lossless audio, however, is shunned not only due to size implications but also to guarantee smooth playback across devices potentially incompatible with lossless tracks. Yet, the inclusion of Atmos with DD+ tracks offers an immersive sound environment, aligning with the profile's ethos.
+6. **Release Groups & GPPi**: Trust in release groups remains unwavering, with the GPPi underlining the profile's decision-making matrix. Emphasis is laid on groups that are synonymous with quality and have an impressive track record.
 
-7. **Release Groups & GPPi**: The mantra that not all encodes are created equal reverberates through this profile. Relying on the Golden Popcorn Performance Index (GPPi), it harnesses data to spotlight release groups renowned for their precision and equilibrium between quality and efficiency. This data-centric approach ensures that esteemed groups with a consistent record of 'Golden Popcorn' quality releases receive due precedence.
+7. **Compatibility**: The universal DNA of this profile assures minimal compatibility glitches across trackers and playback avenues, promising a seamless user experience.
 
-8. **Compatibility**: Universal appeal is a cornerstone of this profile, leading to negligible compatibility issues across platforms. The specialized challenges observed with the more exclusive "Transparent" profile are notably absent, ensuring a hassle-free user experience.
+8. **Summary**: Perfect for those seeking optimal visual and auditory experience at their preferred HD resolution, without the confines of compatibility. It’s a blend of visual splendor and universal reach.
 
-9. **Summary**: Elegantly straddling multiple realms, this profile emerges as a true 'jack of all trades'. It artfully combines the visual fidelity of transparent releases, the space conservation of efficient ones, and an undiscriminating approach to compatibility, promising a flawless playback across an exhaustive array of devices.
+---
+
+## Transparent + Universal + Efficient Profile (SD Focus):
+
+1. **Resolution & Codec**: Concentrating exclusively on SD (either 480p or 576p, as the user desires) x264 encodes, this profile epitomizes the nexus between transparency, universality, and space efficiency.
+
+2. **Codec Exclusion**: As with its HD counterparts, x265 is avoided in favor of x264, ensuring universal compatibility and playback without hitches.
+
+3. **Universality**: By design, this profile aims at maximal reach, ensuring that the SD content is playable across a wide spectrum of devices, old and new alike.
+
+4. **Audio**: Despite being efficient in nature, the audio experience isn’t compromised. Predominantly, tracks like DTS and Dolby Digital (AC3) are chosen, with the understanding that even lossy formats can provide transparent sound quality. While lossless remains blacklisted, Atmos, when available with DD+ tracks, is an exception.
+
+5. **Release Groups & GPPi**: Consistency and reputation in the SD realm matter. The profile leans heavily on release groups known for their prowess, with the GPPi playing a pivotal role in guiding decisions.
+
+6. **Compatibility**: Designed with a broad focus, compatibility issues are next to nonexistent, offering users a fluid experience across various playback ecosystems.
+
+7. **Summary**: A compact marvel for the discerning user. This profile is the answer for those who prioritize storage efficiency but aren't willing to make stark compromises in quality or universality.
+
+---
+
+Does this reshaped structure align better with your vision?
