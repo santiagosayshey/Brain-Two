@@ -1,8 +1,7 @@
-**Transparent + Efficient + Universal Profile**:
 
-1. **Resolution & Codec**: Singularly rooted in 1080p x264 encodes, this profile bridges the nexus between transparency, efficiency, and universality. It's crafted to deliver optimum clarity without compromising on space or widespread device compatibility.
+1. **Resolution & Codec**: Singularly rooted in 1080p x264 encodes, this profile bridges the nexus between transparency, efficiency, and universality. It's crafted to deliver optimum clarity without compromising on space efficiency or widespread device compatibility.
 
-2. **Codec Exclusion**: x265, with its superior compression advantage, is purposely sidelined in favor of the more universally accepted x264. This ensures broader device and software compatibility.
+2. **Codec Exclusion**: x265, despite its superior compression advantage, is purposely side-lined in favour of the more universally accepted x264. This ensures broader device and software compatibility.
 
 3. **HDR Status**: Recognizing the increasing ubiquity of HDR in top-tier releases, this profile notably abstains. HDR encodes are excluded to foster greater uniformity and universal playability across an extensive array of display devices.
 
