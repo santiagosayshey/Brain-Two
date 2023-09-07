@@ -1,5 +1,3 @@
-### Universal + Efficient + Immutable
-
 A profile tailor-made for users who desire a simple, one-and-done approach. By focusing on WEB releases, this profile ensures wide compatibility with devices while being space-conscious. Given its immutable nature, once content is grabbed, users can rest assured that there won't be any future upgrades or changes, reducing the need for micromanagement.
 
 1. **Resolution & Codec**: Emphasizes on WEB releases, which often come in resolutions like 720p or 1080p, encoded in x264 for optimum compatibility and size efficiency.
