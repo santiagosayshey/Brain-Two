@@ -38,10 +38,10 @@
 | **Transparent**          | UHD              | Remux        |
 | **Transparent + Immutable** | 1080p          | Remux        |
 | **Transparent + Efficient** | 1080p             | x265           |
-| **Transparent + Universal** | HD             | x264           |
+| **Transparent + Universal** | 1080p             | x264           |
 | **Efficient**            | SD               | x265           |
-| **Efficient + Universal** | SD               | x265           |
-| **Efficient + Immutable** | SD               | x265           |
-| **Universal**            | Varies (HD/SD)   | Varies (x264/x265)|
-| **Universal + Immutable** | Varies (HD/SD)   | Varies (x264/x265)|
-| **Immutable**            | Varies           | Varies         |
+| **Efficient + Universal** | SD               | x264           |
+| **Efficient + Immutable** |                |            |
+| **Universal**            | 720p   | Varies x264|
+| **Universal + Immutable** |   ||
+| **Immutable**            |            |          |
