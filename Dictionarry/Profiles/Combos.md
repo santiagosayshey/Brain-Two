@@ -34,3 +34,14 @@
    - **Selection Assumption**: The initial choice, based on any primary profile's criteria, is deemed the best and remains final.
 
 
+Transparent
+Transparent + Immutable
+Transparent + Efficient
+Transparent + Universal
+
+Efficient
+Efficient + Universal
+Efficient + Immutable
+
+Universal
+Universal + I
