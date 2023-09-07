@@ -1,9 +1,9 @@
 ### Singular Categories:
 
 1. **Efficient**:
-   - x265 primary focus
-   - Lossy audio formats (e.g., DD, DD+, DTS, OPUS)
-   - x264 as a fallback if x265 is not available
+- Focus on space efficiency
+- x265 focus
+- Allows AV-1
 
 2. **Universal**:
    - x264 for broad compatibility
@@ -12,11 +12,11 @@
 
 3. **Transparent**:
    - Best available release
-   - Doesn't care about 
+   - Doesn't care about space
+   - Upgradeable
+
 4. **Immutable**:
-   - Stable, widely-accepted codecs like x264
-   - High enough quality for longevity, like 1080p
-   - Mainstream audio formats that won't feel outdated soon
+- Grab once, never touch again
 
 ### Combined Categories:
 
