@@ -1,7 +1,8 @@
 **Primary Objective**: To provide the most genuine viewing experience that mirrors the original intentions of the content creators, without any compromise.
 
-1. **Resolution**: The central focus is on 2160p (4K), ensuring viewers are presented with maximum detail and clarity.
-2. **Foundational Choice**: While the ideal for "Transparent" would revolve around x265 4K HDR encodes due to their balance of efficiency and quality, such releases are scarce in the current market. This shortage necessitates a shift in focus to 4K HDR remuxes, which represent raw, untouched copies of UHD Blu-Ray discs, ensuring unparalleled visual and auditory experiences.
+1. **Foundational Choice**: While the ideal for "Transparent" would revolve around x265 4K HDR encodes due to their ability to fix source defects while retaining transparent quality, such releases are scarce. This shortage necessitates a shift in focus to 4K HDR remuxes, which represent raw, untouched copies of UHD Blu-Ray discs, ensuring unparalleled visual and auditory experiences.
+   
+2. **Resolution**: The central focus is on 2160p (4K), ensuring viewers are presented with maximum detail and clarity.
 
 3. **HDR Capabilities**: Prioritization is given to releases featuring both HDR10+ and Dolby Vision. These formats guarantee exceptional dynamic range, colour vibrancy, and an enhanced visual experience.
 
