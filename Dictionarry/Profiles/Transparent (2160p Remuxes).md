@@ -18,4 +18,4 @@
 
 9. **Indexer Priority**: Not all trackers are created equal. The unique nuances and occasional parsing errors make it imperative to rank trackers. HDBits, with their exclusive content from groups like 3L, and PTP, with its rigorous quality control and trumping systems, are prioritized. This methodology ensures the highest quality releases get the spotlight.
 
-10. **Compatibility & Limitations**: While this profile is primed for universal compatibility with 4K HDR-enabled devices, it does face an operational hiccup with UHDBits due to the absence of audio tags in their API.
+10. **Compatibility & Limitations**: There's a notable limitation with UHDBits in the context of this profile. The absence of audio tags in UHDBits' API presents operational challenges. Consequently, UHDBits is excluded from the sources for this profile.
