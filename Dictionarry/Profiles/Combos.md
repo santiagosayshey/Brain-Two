@@ -11,9 +11,8 @@
    - Lossy audio formats (e.g., DD, DD, DTS,)
 
 3. **Transparent**:
-   - Best available source
-   - 
-
+   - Best available release
+   - Doesn't care about 
 4. **Immutable**:
    - Stable, widely-accepted codecs like x264
    - High enough quality for longevity, like 1080p
