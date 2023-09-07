@@ -1,30 +1,38 @@
 ### Singular Categories:
 
 1. **Efficient**:
-- Focus on space efficiency
-- x265 focus
-- Allows AV-1 encodes
-- x264 fallback
-- Remux not allowed
-- Lossy audio only
+   - **Main Focus**: Space efficiency.
+   - **Video Codec**: Strong preference for x265; also allows AV-1; fallback to x264 when others aren't available.
+   - **Audio**: Only lossy audio formats, like AAC.
+   - **Remux**: Not allowed.
+   - **Size**: Compressed, efficient encodes.
+   - **Special Mention**: Aligns with trackers like "Hawke-One" and "HUNO" for efficient encodes.
+
+---
 
 2. **Universal**:
-- Focus on compatibility
-- No new codecs
-	- x/h264 only allowed
-	- DD, DTS allowed
-- No HDR
-- Mid tier size focus, not overtly efficient but still focusing on smaller size
+   - **Main Focus**: Maximum compatibility across devices.
+   - **Video Codec**: Strictly x/h264.
+   - **Audio**: Restricted to DD and DTS; avoids complex audio formats for broader compatibility.
+   - **HDR**: Not allowed; sticks to SDR for consistent color.
+   - **Size**: Aims for middle-tier sizes; not as compressed as "Efficient", but still avoids larger files.
+   - **Release Type**: Prefers web releases for broader compatibility; uses stream-optimized Blu-ray encodes as fallback.
+
+---
 
 3. **Transparent**:
-   - Focus on best available release
-   - Flexible, can grab remux, encode, hdr, lossy / lossless
-   - Data driven selection for encodes
-   - A/V driven selection for remuxes
+   - **Main Focus**: Acquisition of the highest quality release available.
+   - **Selection Criteria**: Data-driven for encodes; A/V quality-driven for remuxes.
+   - **Flexibility**: Can grab any version (remux, encode, HDR, etc.); relies on Golden Popcorn Performance Index (GPPi) for decision-making.
+   - **Upgrade Path**: Continual upgrades based on evolving data and release quality.
+
+---
 
 4. **Immutable**:
-- Grab once, never upgrade
-- First grab is usually the best grab
+   - **Main Focus**: Stability in choices; grab once and stick with it.
+   - **Upgrade Policy**: No subsequent upgrades, regardless of potential better versions.
+   - **Selection Assumption**: The initial choice, based on any primary profile's criteria, is deemed the best and remains final.
+
 
 ### Combined Categories:
 
