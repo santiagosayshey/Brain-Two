@@ -2,12 +2,12 @@
 
 1. **Foundational Choice**: While the ideal for "Transparent" would revolve around x265 4K HDR encodes due to their ability to fix source defects while retaining transparent quality, such releases are scarce. This shortage necessitates a shift in focus to 4K HDR remuxes, which represent raw, untouched copies of UHD Blu-Ray discs, ensuring unparalleled visual and auditory experiences.
    
-2. **Resolution**: The central focus is on 2160p (4K), ensuring viewers are presented with maximum detail and clarity.
+2. **New Movie Contingency**: For newly released movies, it's a common trend to witness their debut on streaming platforms prior to their availability on physical or UHD formats. Recognizing this, the "Transparent" profile initially seeks out and acquires the best possible WEB 2160p release, with Movies Anywhere being the top-tier preference among streaming services. However, it's important to note that these WEB releases act as placeholders. Once the UHD remux versions become available, they are automatically prioritized for upgrade, ensuring that the final library consists of the highest quality content.
 
-3. **HDR Capabilities**: Prioritization is given to releases featuring both HDR10+ and Dolby Vision. These formats guarantee exceptional dynamic range, colour vibrancy, and an enhanced visual experience.
+3. **Resolution**: The central focus is on 2160p (4K), ensuring viewers are presented with maximum detail and clarity.
 
-4. **New Movie Contingency**: For newly released movies, it's a common trend to witness their debut on streaming platforms prior to their availability on physical or UHD formats. Recognizing this, the "Transparent" profile initially seeks out and acquires the best possible WEB 2160p release, with Movies Anywhere being the top-tier preference among streaming services. However, it's important to note that these WEB releases act as placeholders. Once the UHD remux versions become available, they are automatically prioritized for upgrade, ensuring that the final library consists of the highest quality content.
-
+4. **HDR Capabilities**: Prioritization is given to releases featuring both HDR10+ and Dolby Vision. These formats guarantee exceptional dynamic range, colour vibrancy, and an enhanced visual experience.
+   
 5. **Audio**: Our preference leans toward a rich auditory experience, ideally embedded with DTS-X or TrueHD + Atmos. However, it's crucial to highlight the distinction in audio offerings between UHD remuxes and WEB releases. While UHD remuxes are characterized by their pristine audio tracks, WEB releases predominantly feature lossy audio, particularly DD+ with Atmos. To avoid unintentional acquisition of hybrid encodes — combinations of WEB video and UHD disc-derived lossless audio — the "Transparent" profile expressly blacklists lossless audio for WEB releases.
 
 6. **Selection Methodology**: The approach is A/V feature-centric, placing little impactful emphasis on release groups. This strategy caters to trackers, notably PTP, which don’t routinely specify release groups. This ensures the selection of content for its unparalleled A/V features, irrespective of the source or tracker.
