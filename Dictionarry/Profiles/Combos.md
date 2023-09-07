@@ -34,14 +34,15 @@
    - **Selection Assumption**: The initial choice, based on any primary profile's criteria, is deemed the best and remains final.
 
 
-Transparent
-Transparent + Immutable
-Transparent + Efficient
-Transparent + Universal
-
-Efficient
-Efficient + Universal
-Efficient + Immutable
-
-Universal
-Universal + I
+| Profile Combination      | Description                                                  |
+|--------------------------|--------------------------------------------------------------|
+| **Transparent**          | Focuses on UHD Remuxes for the highest possible quality.     |
+| **Transparent + Immutable** | Targets 1080p Remuxes without considering future upgrades.  |
+| **Transparent + Efficient** | Prioritizes HD x265 encodes for a balance of quality and efficiency. |
+| **Transparent + Universal** | Focuses on HD x264 encodes for widespread compatibility.   |
+| **Efficient**            | Targets x265 SD content to maximize storage efficiency.     |
+| **Efficient + Universal** | Aims for x265 SD content with broader compatibility in mind.|
+| **Efficient + Immutable** | Goes for SD x265 without future upgrades.                   |
+| **Universal**            | Ensures compatibility across the board without codec or resolution specifics.|
+| **Universal + Immutable** | Maximizes compatibility but won't consider upgrades.        |
+| **Immutable**            | Selects releases without consideration for future upgrades, regardless of resolution or codec.|
