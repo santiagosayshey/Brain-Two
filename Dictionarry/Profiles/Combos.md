@@ -16,13 +16,15 @@
 - No HDR
 - Mid tier size focus, not overtly efficient but still focusing on smaller size
 
-1. **Transparent**:
+3. **Transparent**:
    - Focus on best available release
    - Flexible, can grab remux, encode, hdr, lossy / lossless
-   - Release group
+   - Data driven selection for encodes
+   - A/V driven selection for remuxes
 
-2. **Immutable**:
+4. **Immutable**:
 - Grab once, never touch again
+- First grab is usually the best grab
 
 ### Combined Categories:
 
