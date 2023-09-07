@@ -33,15 +33,15 @@
    - **Upgrade Policy**: No subsequent upgrades, regardless of potential better versions.
    - **Selection Assumption**: The initial choice, based on any primary profile's criteria, is deemed the best and remains final.
 
-| Profile Combination      | Resolution       | Codec          |
-|--------------------------|------------------|----------------|
-| **Transparent**          | UHD              | Remux        |
-| **Transparent + Immutable** | 1080p          | Remux        |
-| **Transparent + Efficient** | 1080p             | x265           |
-| **Transparent + Universal** | 1080p             | x264           |
-| **Efficient**            | SD               | x265           |
-| **Efficient + Universal** | SD               | x264           |
-| **Efficient + Immutable** |                |            |
-| **Universal**            | 720p   | Varies x264|
-| **Universal + Immutable** |   ||
-| **Immutable**            |            |          |
+| Profile Combination      | Resolution       | Codec          | Notes               |
+|--------------------------|------------------|----------------|---------------------|
+| **Transparent**          | UHD              | Remux          |Best quality                     |
+| **Transparent + Immutable** | 1080p          | Remux        | Best quality without upgrades.|
+| **Transparent + Efficient** | 1080p          | x265          | Balances quality and size.|
+| **Transparent + Universal** | 1080p          | x264          | Best quality + compatibility|
+| **Efficient**            | SD               | x265          | Size-optimized.|
+| **Efficient + Universal** | SD               | x264          | Size-optimized with broad compatibility.|
+| **Efficient + Immutable** | TBD              | TBD           | Size-optimized without upgrades.|
+| **Universal**            | 720p             | x264          | Compatible across most devices.|
+| **Universal + Immutable** | TBD              | TBD           | Compatibility without upgrades.|
+| **Immutable**            | TBD              | TBD           | No upgrades or changes after initial grab.|
