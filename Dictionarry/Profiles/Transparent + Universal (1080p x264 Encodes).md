@@ -1,4 +1,4 @@
-1. **Resolution & Codec**: The bedrock of this profile lies in its unwavering commitment to 1080p x264 encodes. These serve as the nexus between transparency, efficiency, and universality, striving to provide users with the optimum blend of clarity, space efficiency, and device compatibility.
+1. **Resolution & Codec**: The bedrock of this profile lies in its unwavering commitment to 1080p x264 encodes. These serve as the nexus between transparency and universality, striving to provide users with the optimum blend of clarity, space efficiency, and device compatibility.
 
 2. **Codec Exclusion**: The profile consciously forgoes x265, emphasizing the universal appeal of x264. This decision, rooted in broader device and software compatibility, ensures content playback across a vast array of platforms without hiccups.
 
