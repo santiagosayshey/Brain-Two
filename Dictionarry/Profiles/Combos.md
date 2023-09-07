@@ -7,13 +7,12 @@
 
 2. **Universal**:
    - x264 for broad compatibility
-   - Lossy audio formats (e.g., DD, DD, DTS, OPUS)
-   - Resolutions that are universally accepted, like 720p
+   - x265, AV-1 not allowed
+   - Lossy audio formats (e.g., DD, DD, DTS,)
 
 3. **Transparent**:
-   - High resolutions (e.g., 1080p, 4K)
-   - Lossless audio (e.g., FLAC, DTS-HD, Dolby TrueHD)
-   - Best available source, often Blu-ray or UHD Blu-ray
+   - Best available source
+   - 
 
 4. **Immutable**:
    - Stable, widely-accepted codecs like x264
