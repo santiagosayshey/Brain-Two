@@ -6,12 +6,15 @@
 - Allows AV-1 encodes
 - x264 fallback
 - Remux not allowed
+- Lossy audio only
 
 2. **Universal**:
 - Focus on compatibility
 - No new codecs
 	- x/h264 only allowed
-	- DD, DTS all
+	- DD, DTS allowed
+- No HDR
+- Mid teir
 1. **Transparent**:
    - Best available release
    - Doesn't care about space
