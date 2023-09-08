@@ -40,8 +40,8 @@
 | **Efficient + Universal** | SD               | x264          | Size-optimized with broad compatibility.|
 | **Efficient + Immutable** | SD              | x264/5           | Size-optimized without upgrades.|
 | **Efficient + Universal + Immutable** | SD | x264 | Optimized size, broad compatibility, no upgrades.|
-| **Universal**            | 1080p WEB             | x264          | Compatible across most devices.|
-| **Universal + Immutable** | 1080p WEB              | x264           | Compatibility without upgrades.|
+| **Universal**            | 1080/720p WEB             | x264          | Compatible across most devices.|
+| **Universal + Immutable** | 1080/720p WEB              | x264           | Compatibility without upgrades.|
 | **Transparent + Efficient + Universal** | 720p | x264 | Best balance of quality, size, and compatibility.|
 | **Transparent + Efficient** | 1080p          | x265          | Balances quality and size.|
 | **Transparent + Universal** | 1080p          | x264          | Best quality + compatibility|
@@ -50,4 +50,3 @@
 | **Transparent + Immutable** | 1080p          | Remux        | Best quality without upgrades.|
 | **Transparent**          | UHD              | Remux          | Best quality.|
 
-This ordering should help users better understand the relative quality of each profile combination.
