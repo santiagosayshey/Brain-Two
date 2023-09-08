@@ -43,10 +43,13 @@
 | **Universal**            | 1080/720p WEB             | x264          | Compatible across most devices.|
 | **Universal + Immutable** | 1080/720p WEB              | x264           | Compatibility without upgrades.|
 | **Transparent + Efficient + Universal** | 720p | x264 | Best balance of quality, size, and compatibility.|
-| **Transparent + Efficient** | 1080p          | x265          | Balances quality and size.|
+| **Transparent + Efficient** | 1080p HDR          | x265          | Balances quality and size.|
 | **Transparent + Universal** | 1080p          | x264          | Best quality + compatibility|
 | **Transparent + Efficient + Immutable** | 1080p | x265 | Best quality and size balance without upgrades.|
 | **Transparent + Universal + Immutable** | 1080p | x264 | Balances quality and compatibility without upgrades.|
 | **Transparent + Immutable** | 1080p          | Remux        | Best quality without upgrades.|
 | **Transparent**          | UHD              | Remux          | Best quality.|
 
+
+SD x265
+SD
