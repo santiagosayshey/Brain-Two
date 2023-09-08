@@ -33,23 +33,21 @@
    - **Upgrade Policy**: No subsequent upgrades, regardless of potential better versions.
    - **Selection Assumption**: The initial choice, based on any primary profile's criteria, is deemed the best and remains final.
 
+
 | Profile Combination      | Resolution       | Codec          | Notes               |
 |--------------------------|------------------|----------------|---------------------|
-| **Transparent**          | UHD              | Remux          |Best quality                     |
-| **Transparent + Immutable** | 1080p          | Remux        | Best quality without upgrades.|
-| **Transparent + Efficient** | 1080p          | x265          | Balances quality and size.|
-| **Transparent + Universal** | 1080p          | x264          | Best quality + compatibility|
 | **Efficient**            | SD               | x265          | Size-optimized.|
 | **Efficient + Universal** | SD               | x264          | Size-optimized with broad compatibility.|
 | **Efficient + Immutable** | SD              | x264/5           | Size-optimized without upgrades.|
+| **Efficient + Universal + Immutable** | SD | x264 | Optimized size, broad compatibility, no upgrades.|
 | **Universal**            | 1080p WEB             | x264          | Compatible across most devices.|
 | **Universal + Immutable** | 1080p WEB              | x264           | Compatibility without upgrades.|
 | **Transparent + Efficient + Universal** | 720p | x264 | Best balance of quality, size, and compatibility.|
+| **Transparent + Efficient** | 1080p          | x265          | Balances quality and size.|
+| **Transparent + Universal** | 1080p          | x264          | Best quality + compatibility|
 | **Transparent + Efficient + Immutable** | 1080p | x265 | Best quality and size balance without upgrades.|
-| **Transparent + Universal + Immutable** | 1080p | x264 | Balances quality and compatibility with without upgrades.|
-| **Efficient + Universal + Immutable** | SD | x264 | Optimized size, broad compatibility, no upgrades.|
+| **Transparent + Universal + Immutable** | 1080p | x264 | Balances quality and compatibility without upgrades.|
+| **Transparent + Immutable** | 1080p          | Remux        | Best quality without upgrades.|
+| **Transparent**          | UHD              | Remux          | Best quality.|
 
-
-
-
-The exact resolutions and codecs for each combo, especially the one incorporating all qualities, might be subjective. You can adjust based on what you believe best represents each combination.
+This ordering should help users better understand the relative quality of each profile combination.
