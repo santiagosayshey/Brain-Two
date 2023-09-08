@@ -48,7 +48,7 @@
 
 | Profile Combination      | Resolution       | Codec          | Notes               |
 |--------------------------|------------------|----------------|---------------------|
-| **Transparent + Efficient + Universal** | 720p | x265 | Best balance of quality, size, and compatibility.|
+| **Transparent + Efficient + Universal** | 720p | x264 | Best balance of quality, size, and compatibility.|
 | **Transparent + Efficient + Immutable** | 1080p | x265 | Best quality and size balance without upgrades.|
 | **Transparent + Universal + Immutable** | 1080p | x264 | Quality and compatibility without upgrades.|
 | **Efficient + Universal + Immutable** | SD | x265/x264 | Optimized size, broad compatibility, no upgrades.|
