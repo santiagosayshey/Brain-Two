@@ -38,7 +38,7 @@
 |--------------------------|------------------|----------------|---------------------|
 | **Efficient**            | 1080p              | x265          | Size-optimized.|
 | **Efficient + Universal** | SD               | x264          | Size-optimized with broad compatibility.|
-| **Efficient + Immutable** | SD              | x264/5           | Size-optimized without upgrades.|
+| **Efficient + Immutable** | HD WEB              | x264/5           | Size-optimized without upgrades.|
 | **Efficient + Universal + Immutable** | SD | x264 | Optimized size, broad compatibility, no upgrades.|
 | **Universal**            | 1080/720p WEB             | x264          | Compatible across most devices.|
 | **Universal + Immutable** | 1080/720p WEB              | x264           | Compatibility without upgrades.|
