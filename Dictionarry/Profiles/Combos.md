@@ -36,7 +36,7 @@
 
 | Profile Combination      | Resolution       | Codec          | Notes               |
 |--------------------------|------------------|----------------|---------------------|
-| **Efficient**            | SD               | x265          | Size-optimized.|
+| **Efficient**            | 1080p              | x265          | Size-optimized.|
 | **Efficient + Universal** | SD               | x264          | Size-optimized with broad compatibility.|
 | **Efficient + Immutable** | SD              | x264/5           | Size-optimized without upgrades.|
 | **Efficient + Universal + Immutable** | SD | x264 | Optimized size, broad compatibility, no upgrades.|
@@ -50,6 +50,3 @@
 | **Transparent + Immutable** | 1080p          | Remux        | Best quality without upgrades.|
 | **Transparent**          | UHD              | Remux          | Best quality.|
 
-
-SD x265
-SD
