@@ -44,14 +44,12 @@
 | **Efficient + Immutable** | SD              | x264/5           | Size-optimized without upgrades.|
 | **Universal**            | 1080p WEB             | x264          | Compatible across most devices.|
 | **Universal + Immutable** | 1080p WEB              | x264           | Compatibility without upgrades.|
-
-
-| Profile Combination      | Resolution       | Codec          | Notes               |
-|--------------------------|------------------|----------------|---------------------|
 | **Transparent + Efficient + Universal** | 720p | x264 | Best balance of quality, size, and compatibility.|
 | **Transparent + Efficient + Immutable** | 1080p | x265 | Best quality and size balance without upgrades.|
 | **Transparent + Universal + Immutable** | 1080p | x264 | Balances quality and compatibility with without upgrades.|
-| **Efficient + Universal + Immutable** | SD | x265/x264 | Optimized size, broad compatibility, no upgrades.|
-| **Transparent + Efficient + Universal + Immutable** | 1080p | Varies (x264/x265) | A balance of all qualities.|
+| **Efficient + Universal + Immutable** | SD | x264 | Optimized size, broad compatibility, no upgrades.|
+
+
+
 
 The exact resolutions and codecs for each combo, especially the one incorporating all qualities, might be subjective. You can adjust based on what you believe best represents each combination.
