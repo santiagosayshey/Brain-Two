@@ -1,6 +1,9 @@
 {
 	"nodes":[
-		{"id":"19c3753094481972","x":-125,"y":-30,"width":250,"height":60,"color":"#00b3ff","type":"text","text":"Does audio / video quality matter to you?"}
+		{"id":"19c3753094481972","type":"text","text":"Does audio / video quality matter to you?","x":-125,"y":-30,"width":250,"height":90,"color":"#00b3ff"},
+		{"id":"670c334f26892b0c","x":-480,"y":120,"width":250,"height":60,"type":"text","text":""}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"3395e69c26f7fb4e","fromNode":"19c3753094481972","fromSide":"left","toNode":"670c334f26892b0c","toSide":"right","label":"Yes"}
+	]
 }
