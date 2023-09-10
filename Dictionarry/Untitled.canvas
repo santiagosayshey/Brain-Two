@@ -10,10 +10,10 @@
 		{"id":"0e6bcb8fc63526f2","type":"text","text":"If a better version comes out, do you want to upgrade?","x":-955,"y":520,"width":250,"height":94,"color":"4"}
 	],
 	"edges":[
-		{"id":"3429abffe2312650","fromNode":"19c3753094481972","fromSide":"right","toNode":"12f47b0ec4af74ed","toSide":"left","label":"No"},
+		{"id":"3429abffe2312650","fromNode":"19c3753094481972","fromSide":"right","toNode":"12f47b0ec4af74ed","toSide":"left","label":"No, I just want to watch movies"},
 		{"id":"c2ac19f25457e370","fromNode":"12f47b0ec4af74ed","fromSide":"right","toNode":"9de4354ea105b665","toSide":"left","label":"Off a USB to my TV"},
 		{"id":"5eecc628d848b1f8","fromNode":"12f47b0ec4af74ed","fromSide":"right","toNode":"cca599bf5666d9ad","toSide":"left","label":"A modern device (< 3 years old)"},
-		{"id":"c69a38bab929b010","fromNode":"19c3753094481972","fromSide":"left","toNode":"d13842a4e44f64ff","toSide":"right","label":"Yes"},
+		{"id":"c69a38bab929b010","fromNode":"19c3753094481972","fromSide":"left","toNode":"d13842a4e44f64ff","toSide":"right","label":"Yes, I"},
 		{"id":"8b28a03aa1e819fa","fromNode":"ca11503962720679","fromSide":"left","toNode":"a9f6312aa31ba731","toSide":"right","label":"50gb is way too big"},
 		{"id":"0e9b32cc0a23e4f0","fromNode":"d13842a4e44f64ff","fromSide":"left","toNode":"0e6bcb8fc63526f2","toSide":"right","label":"It's important, but not THAT important"},
 		{"id":"a06e328931d5d352","fromNode":"d13842a4e44f64ff","fromSide":"left","toNode":"ca11503962720679","toSide":"right","label":"Best possible quality"}
