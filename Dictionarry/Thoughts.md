@@ -1,1 +1,1 @@
-- Do you want to download the best possible quality movies? Or do you want 
+- Do you want to download the best possible quality movies regardless of file size? 
