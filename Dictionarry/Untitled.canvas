@@ -3,10 +3,11 @@
 		{"id":"19c3753094481972","type":"text","text":"Does audio / video quality matter to you?","x":-125,"y":-30,"width":250,"height":90,"color":"4"},
 		{"id":"670c334f26892b0c","x":-480,"y":120,"width":250,"height":60,"type":"text","text":""},
 		{"id":"12f47b0ec4af74ed","type":"text","text":"What do you watch you content on?","x":220,"y":120,"width":250,"height":60,"color":"4"},
-		{"id":"9de4354ea105b665","type":"text","text":"","x":500,"y":0,"width":250,"height":60}
+		{"id":"9de4354ea105b665","type":"text","text":"Latest generation smartphone, tablet, or smart TV (manufactured in the last 2 years)","x":600,"y":-2,"width":250,"height":125,"color":"4"}
 	],
 	"edges":[
 		{"id":"3395e69c26f7fb4e","fromNode":"19c3753094481972","fromSide":"left","toNode":"670c334f26892b0c","toSide":"right","label":"Yes"},
-		{"id":"3429abffe2312650","fromNode":"19c3753094481972","fromSide":"right","toNode":"12f47b0ec4af74ed","toSide":"left","label":"No"}
+		{"id":"3429abffe2312650","fromNode":"19c3753094481972","fromSide":"right","toNode":"12f47b0ec4af74ed","toSide":"left","label":"No"},
+		{"id":"c2ac19f25457e370","fromNode":"12f47b0ec4af74ed","fromSide":"right","toNode":"9de4354ea105b665","toSide":"left"}
 	]
 }
