@@ -14,6 +14,6 @@
 		{"id":"5eecc628d848b1f8","fromNode":"12f47b0ec4af74ed","fromSide":"right","toNode":"cca599bf5666d9ad","toSide":"left","label":"A modern device (< 3 years old)"},
 		{"id":"c69a38bab929b010","fromNode":"19c3753094481972","fromSide":"left","toNode":"d13842a4e44f64ff","toSide":"right","label":"Yes"},
 		{"id":"9edec6deea7cf7b7","fromNode":"d13842a4e44f64ff","fromSide":"left","toNode":"ca11503962720679","toSide":"right","label":"4K OLED + Shield Pro / APTV"},
-		{"id":"8b28a03aa1e819fa","fromNode":"ca11503962720679","fromSide":"left","toNode":"a9f6312aa31ba731","toSide":"right","label":"50gb Is "}
+		{"id":"8b28a03aa1e819fa","fromNode":"ca11503962720679","fromSide":"left","toNode":"a9f6312aa31ba731","toSide":"right","label":"50gb is way too big"}
 	]
 }
