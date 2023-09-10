@@ -9,7 +9,8 @@
 		{"id":"0e6bcb8fc63526f2","type":"text","text":"If a better version comes out, do you want to upgrade?","x":-1400,"y":254,"width":250,"height":94,"color":"4"},
 		{"id":"58ef78ecd6eb1a2e","type":"text","text":"1080p Remux","x":-1760,"y":440,"width":220,"height":62,"color":"1"},
 		{"id":"68def53af168003b","type":"text","text":"1080p x264 Transparent Encode","x":-1760,"y":100,"width":220,"height":62,"color":"1"},
-		{"id":"c980677e2384b947","type":"text","text":"1080p x264 WEB ","x":-2140,"y":270,"width":220,"height":62,"color":"1"}
+		{"id":"c980677e2384b947","type":"text","text":"1080p x264 WEB ","x":-2140,"y":270,"width":220,"height":62,"color":"1"},
+		{"id":"77a7d2c6808e6575","type":"text","text":"1080p x265 ","x":-2620,"y":270,"width":220,"height":62,"color":"1"}
 	],
 	"edges":[
 		{"id":"3429abffe2312650","fromNode":"19c3753094481972","fromSide":"right","toNode":"12f47b0ec4af74ed","toSide":"left","label":"No, I just want to watch movies"},
@@ -22,6 +23,7 @@
 		{"id":"9eb08d7d48d6cf36","fromNode":"58ef78ecd6eb1a2e","fromSide":"left","toNode":"c980677e2384b947","toSide":"right","label":"30gb is too big!"},
 		{"id":"388afb720f347357","fromNode":"ca11503962720679","fromSide":"left","toNode":"0e6bcb8fc63526f2","toSide":"right","label":"50gb is way too big!"},
 		{"id":"ac99079f8aa051cf","fromNode":"0e6bcb8fc63526f2","fromSide":"left","toNode":"68def53af168003b","toSide":"right","label":"Yes"},
-		{"id":"d42957f0d0ef2219","fromNode":"68def53af168003b","fromSide":"left","toNode":"c980677e2384b947","toSide":"right","label":"20gb is too big!"}
+		{"id":"d42957f0d0ef2219","fromNode":"68def53af168003b","fromSide":"left","toNode":"c980677e2384b947","toSide":"right","label":"20gb is too big!"},
+		{"id":"f2aec43f4942c58a","fromNode":"c980677e2384b947","fromSide":"left","toNode":"77a7d2c6808e6575","toSide":"right","label":"10gb is too big!"}
 	]
 }
