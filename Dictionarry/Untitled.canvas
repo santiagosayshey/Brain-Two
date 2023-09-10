@@ -7,7 +7,7 @@
 		{"id":"d13842a4e44f64ff","type":"text","text":"How much does it matter?","x":-540,"y":270,"width":250,"height":61,"color":"4"},
 		{"id":"ca11503962720679","type":"text","text":"2160p Remux","x":-920,"y":60,"width":180,"height":62,"color":"1"},
 		{"id":"a9f6312aa31ba731","type":"text","text":"1080p x264 Encode","x":-1340,"y":268,"width":220,"height":62,"color":"1"},
-		{"id":"0e6bcb8fc63526f2","type":"text","text":"What do you watch your content on?","x":-955,"y":500,"width":250,"height":60,"color":"4"}
+		{"id":"0e6bcb8fc63526f2","type":"text","text":"What do you watch your content on?","x":-1045,"y":540,"width":250,"height":60,"color":"4"}
 	],
 	"edges":[
 		{"id":"3429abffe2312650","fromNode":"19c3753094481972","fromSide":"right","toNode":"12f47b0ec4af74ed","toSide":"left","label":"No"},
@@ -15,7 +15,7 @@
 		{"id":"5eecc628d848b1f8","fromNode":"12f47b0ec4af74ed","fromSide":"right","toNode":"cca599bf5666d9ad","toSide":"left","label":"A modern device (< 3 years old)"},
 		{"id":"c69a38bab929b010","fromNode":"19c3753094481972","fromSide":"left","toNode":"d13842a4e44f64ff","toSide":"right","label":"Yes"},
 		{"id":"8b28a03aa1e819fa","fromNode":"ca11503962720679","fromSide":"left","toNode":"a9f6312aa31ba731","toSide":"right","label":"50gb is way too big"},
-		{"id":"0e9b32cc0a23e4f0","fromNode":"d13842a4e44f64ff","fromSide":"left","toNode":"0e6bcb8fc63526f2","toSide":"right"},
+		{"id":"0e9b32cc0a23e4f0","fromNode":"d13842a4e44f64ff","fromSide":"left","toNode":"0e6bcb8fc63526f2","toSide":"right","label":"Somewhat, but I can sacrifice some quality for other things\n"},
 		{"id":"a06e328931d5d352","fromNode":"d13842a4e44f64ff","fromSide":"left","toNode":"ca11503962720679","toSide":"right","label":"Best possible quality"}
 	]
 }
