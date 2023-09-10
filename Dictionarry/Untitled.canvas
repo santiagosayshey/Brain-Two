@@ -1,12 +1,12 @@
 {
 	"nodes":[
 		{"id":"19c3753094481972","type":"text","text":"Does audio / video quality matter to you?","x":-125,"y":-30,"width":250,"height":90,"color":"2"},
-		{"id":"12f47b0ec4af74ed","type":"text","text":"What do you watch your content on?","x":220,"y":120,"width":250,"height":60,"color":"4"},
-		{"id":"cca599bf5666d9ad","type":"text","text":"SD x265","x":690,"y":300,"width":140,"height":62,"color":"1"},
-		{"id":"9de4354ea105b665","type":"text","text":"SD x264","x":690,"y":-47,"width":140,"height":62,"color":"1"},
 		{"id":"ca11503962720679","type":"text","text":"2160p Remux","x":-800,"y":-16,"width":180,"height":62,"color":"1"},
 		{"id":"a9f6312aa31ba731","type":"text","text":"2160p Remux","x":-800,"y":180,"width":180,"height":62,"color":"1"},
-		{"id":"d13842a4e44f64ff","type":"text","text":"What do you watch your content on?","x":-460,"y":120,"width":250,"height":60,"color":"4"}
+		{"id":"12f47b0ec4af74ed","type":"text","text":"What do you watch your content on?","x":300,"y":270,"width":250,"height":60,"color":"4"},
+		{"id":"9de4354ea105b665","type":"text","text":"SD x264","x":800,"y":46,"width":140,"height":62,"color":"1"},
+		{"id":"cca599bf5666d9ad","type":"text","text":"SD x265","x":800,"y":480,"width":140,"height":62,"color":"1"},
+		{"id":"d13842a4e44f64ff","type":"text","text":"What do you watch your content on?","x":-540,"y":270,"width":250,"height":60,"color":"4"}
 	],
 	"edges":[
 		{"id":"3429abffe2312650","fromNode":"19c3753094481972","fromSide":"right","toNode":"12f47b0ec4af74ed","toSide":"left","label":"No"},
