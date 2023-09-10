@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"19c3753094481972","type":"text","text":"Does audio / video quality matter to you?","x":-125,"y":-30,"width":250,"height":90,"color":"4"},
+		{"id":"19c3753094481972","type":"text","text":"Does audio / video quality matter to you?","x":-125,"y":-30,"width":250,"height":90,"color":"2"},
 		{"id":"670c334f26892b0c","type":"text","text":"How much?","x":-400,"y":120,"width":170,"height":60,"color":"4"},
 		{"id":"12f47b0ec4af74ed","type":"text","text":"What do you watch your content on?","x":220,"y":120,"width":250,"height":60,"color":"4"},
 		{"id":"cca599bf5666d9ad","type":"text","text":"SD x265","x":690,"y":300,"width":140,"height":62,"color":"1"},
