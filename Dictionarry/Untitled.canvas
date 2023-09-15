@@ -2,8 +2,8 @@
 	"nodes":[
 		{"id":"19c3753094481972","type":"text","text":"Does audio / video quality matter to you?","x":-120,"y":-440,"width":250,"height":90,"color":"2"},
 		{"id":"12f47b0ec4af74ed","type":"text","text":"What do you watch your content on?","x":500,"y":0,"width":250,"height":60,"color":"4"},
-		{"id":"9de4354ea105b665","type":"text","text":"SD x264 Immutable","x":1200,"y":0,"width":140,"height":62,"color":"1"},
-		{"id":"cca599bf5666d9ad","type":"text","text":"SD x265","x":1200,"y":320,"width":140,"height":62,"color":"1"},
+		{"id":"9de4354ea105b665","type":"text","text":"SD x264 Immutable","x":1200,"y":0,"width":160,"height":80,"color":"1"},
+		{"id":"cca599bf5666d9ad","type":"text","text":"SD x265 Immutable","x":1200,"y":320,"width":160,"height":80,"color":"1"},
 		{"id":"d13842a4e44f64ff","type":"text","text":"How much does it matter?","x":-720,"y":1,"width":250,"height":61,"color":"4"},
 		{"id":"ca11503962720679","type":"text","text":"2160p Remux","x":-1530,"y":0,"width":180,"height":62,"color":"1"},
 		{"id":"0e6bcb8fc63526f2","type":"text","text":"If a better version comes out, do you want to upgrade?","x":-1920,"y":460,"width":250,"height":94,"color":"4"},
