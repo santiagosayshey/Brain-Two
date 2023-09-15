@@ -12,7 +12,8 @@
 		{"id":"c980677e2384b947","type":"text","text":"1080p x264 WEB ","x":-3120,"y":820,"width":220,"height":62,"color":"1"},
 		{"id":"77a7d2c6808e6575","type":"text","text":"1080p x265 ","x":-3560,"y":1140,"width":220,"height":62,"color":"1"},
 		{"id":"7aa83742280ce9e3","type":"text","text":"720p x264","x":-4040,"y":1420,"width":220,"height":62,"color":"1"},
-		{"id":"4575670a3d83beaf","x":-71,"y":-600,"width":153,"height":60,"color":"4","type":"text","text":"START HERE"}
+		{"id":"4575670a3d83beaf","x":-71,"y":-600,"width":153,"height":60,"color":"4","type":"text","text":"START HERE"},
+		{"id":"881da19107ef6053","type":"text","text":"1080p x264 \nWEB Immutable","x":-3120,"y":1202,"width":220,"height":62,"color":"1"}
 	],
 	"edges":[
 		{"id":"3429abffe2312650","fromNode":"19c3753094481972","fromSide":"right","toNode":"12f47b0ec4af74ed","toSide":"left","label":"No, I just want to watch movies"},
@@ -22,12 +23,12 @@
 		{"id":"0e9b32cc0a23e4f0","fromNode":"d13842a4e44f64ff","fromSide":"left","toNode":"0e6bcb8fc63526f2","toSide":"right","label":"It's important, \nbut not THAT important"},
 		{"id":"a06e328931d5d352","fromNode":"d13842a4e44f64ff","fromSide":"left","toNode":"ca11503962720679","toSide":"right","label":"Best possible quality"},
 		{"id":"7d550a7b89678dbd","fromNode":"0e6bcb8fc63526f2","fromSide":"left","toNode":"58ef78ecd6eb1a2e","toSide":"right","label":"No, ain't nobody \ngot time for that"},
-		{"id":"9eb08d7d48d6cf36","fromNode":"58ef78ecd6eb1a2e","fromSide":"left","toNode":"c980677e2384b947","toSide":"right","label":"30gb is \ntoo big!"},
 		{"id":"388afb720f347357","fromNode":"ca11503962720679","fromSide":"left","toNode":"0e6bcb8fc63526f2","toSide":"right","label":"50gb is \ntoo big!"},
 		{"id":"ac99079f8aa051cf","fromNode":"0e6bcb8fc63526f2","fromSide":"left","toNode":"68def53af168003b","toSide":"right","label":"Yes"},
 		{"id":"d42957f0d0ef2219","fromNode":"68def53af168003b","fromSide":"left","toNode":"c980677e2384b947","toSide":"right","label":"20gb is \ntoo big!"},
 		{"id":"f2aec43f4942c58a","fromNode":"c980677e2384b947","fromSide":"left","toNode":"77a7d2c6808e6575","toSide":"right","label":"10gb is too big!"},
 		{"id":"40c8d0575aa2507d","fromNode":"77a7d2c6808e6575","fromSide":"left","toNode":"7aa83742280ce9e3","toSide":"right","label":"I have an old TV"},
-		{"id":"932872f711ec3c56","fromNode":"4575670a3d83beaf","fromSide":"bottom","toNode":"19c3753094481972","toSide":"top"}
+		{"id":"932872f711ec3c56","fromNode":"4575670a3d83beaf","fromSide":"bottom","toNode":"19c3753094481972","toSide":"top"},
+		{"id":"64d2e1a17770e04f","fromNode":"58ef78ecd6eb1a2e","fromSide":"left","toNode":"881da19107ef6053","toSide":"right","label":"30gb is \ntoo big!"}
 	]
 }
