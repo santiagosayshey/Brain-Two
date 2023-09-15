@@ -1,17 +1,18 @@
 {
 	"nodes":[
 		{"id":"19c3753094481972","type":"text","text":"Does audio / video quality matter to you?","x":-120,"y":-440,"width":250,"height":90,"color":"2"},
-		{"id":"12f47b0ec4af74ed","type":"text","text":"What do you watch your content on?","x":500,"y":140,"width":250,"height":60,"color":"4"},
-		{"id":"9de4354ea105b665","type":"text","text":"SD x264","x":1200,"y":140,"width":140,"height":62,"color":"1"},
-		{"id":"cca599bf5666d9ad","type":"text","text":"SD x265","x":1200,"y":460,"width":140,"height":62,"color":"1"},
-		{"id":"d13842a4e44f64ff","type":"text","text":"How much does it matter?","x":-720,"y":141,"width":250,"height":61,"color":"4"},
-		{"id":"ca11503962720679","type":"text","text":"2160p Remux","x":-1530,"y":140,"width":180,"height":62,"color":"1"},
-		{"id":"0e6bcb8fc63526f2","type":"text","text":"If a better version comes out, do you want to upgrade?","x":-1920,"y":600,"width":250,"height":94,"color":"4"},
-		{"id":"68def53af168003b","type":"text","text":"1080p x264 Transparent Encode","x":-2520,"y":616,"width":220,"height":62,"color":"1"},
-		{"id":"58ef78ecd6eb1a2e","type":"text","text":"1080p Remux","x":-2520,"y":960,"width":220,"height":62,"color":"1"},
-		{"id":"c980677e2384b947","type":"text","text":"1080p x264 WEB ","x":-3120,"y":960,"width":220,"height":62,"color":"1"},
-		{"id":"77a7d2c6808e6575","type":"text","text":"1080p x265 ","x":-3560,"y":1280,"width":220,"height":62,"color":"1"},
-		{"id":"7aa83742280ce9e3","type":"text","text":"720p x264","x":-4040,"y":1560,"width":220,"height":62,"color":"1"}
+		{"id":"12f47b0ec4af74ed","type":"text","text":"What do you watch your content on?","x":500,"y":0,"width":250,"height":60,"color":"4"},
+		{"id":"9de4354ea105b665","type":"text","text":"SD x264","x":1200,"y":0,"width":140,"height":62,"color":"1"},
+		{"id":"cca599bf5666d9ad","type":"text","text":"SD x265","x":1200,"y":320,"width":140,"height":62,"color":"1"},
+		{"id":"d13842a4e44f64ff","type":"text","text":"How much does it matter?","x":-720,"y":1,"width":250,"height":61,"color":"4"},
+		{"id":"ca11503962720679","type":"text","text":"2160p Remux","x":-1530,"y":0,"width":180,"height":62,"color":"1"},
+		{"id":"0e6bcb8fc63526f2","type":"text","text":"If a better version comes out, do you want to upgrade?","x":-1920,"y":460,"width":250,"height":94,"color":"4"},
+		{"id":"68def53af168003b","type":"text","text":"1080p x264 Transparent Encode","x":-2520,"y":476,"width":220,"height":62,"color":"1"},
+		{"id":"58ef78ecd6eb1a2e","type":"text","text":"1080p Remux","x":-2520,"y":820,"width":220,"height":62,"color":"1"},
+		{"id":"c980677e2384b947","type":"text","text":"1080p x264 WEB ","x":-3120,"y":820,"width":220,"height":62,"color":"1"},
+		{"id":"77a7d2c6808e6575","type":"text","text":"1080p x265 ","x":-3560,"y":1140,"width":220,"height":62,"color":"1"},
+		{"id":"7aa83742280ce9e3","type":"text","text":"720p x264","x":-4040,"y":1420,"width":220,"height":62,"color":"1"},
+		{"id":"4575670a3d83beaf","x":-101,"y":-594,"width":250,"height":60,"type":"text","text":"START HE"}
 	],
 	"edges":[
 		{"id":"3429abffe2312650","fromNode":"19c3753094481972","fromSide":"right","toNode":"12f47b0ec4af74ed","toSide":"left","label":"No, I just want to watch movies"},
