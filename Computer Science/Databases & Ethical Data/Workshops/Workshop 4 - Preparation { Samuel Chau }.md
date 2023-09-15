@@ -34,7 +34,7 @@ What are the three schools of ethics we will be studying in this course?
 ```
 
 1. **Duty-Based Ethics (Deontological Ethics)**:
-- As you mentioned, this approach is focused on the inherent "rightness" or "wrongness" of actions, irrespective of their outcomes. Moral duties, principles, or rules determine the morality of actions. A classic example might be telling the truth: even if lying might result in a better outcome in a specific situation, a deontologist would argue that one has a duty to tell the truth.
+- This approach is focused on the inherent "rightness" or "wrongness" of actions, irrespective of their outcomes. Moral duties, principles, or rules determine the morality of actions. A classic example might be telling the truth: even if lying might result in a better outcome in a specific situation, a deontologist would argue that one has a duty to tell the truth.
 
 2. **Consequence-Based Ethics (Consequentialism/Utilitarianism)**:
 - This approach evaluates the morality of actions based on their results or consequences. The "right" action is the one that produces the most overall good or happiness, or reduces suffering. The most famous form of consequentialism is utilitarianism, which aims to maximize overall happiness or pleasure.
