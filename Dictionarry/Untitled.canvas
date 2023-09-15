@@ -12,7 +12,7 @@
 		{"id":"c980677e2384b947","type":"text","text":"1080p x264 WEB ","x":-3120,"y":820,"width":220,"height":62,"color":"1"},
 		{"id":"77a7d2c6808e6575","type":"text","text":"1080p x265 ","x":-3560,"y":1140,"width":220,"height":62,"color":"1"},
 		{"id":"7aa83742280ce9e3","type":"text","text":"720p x264","x":-4040,"y":1420,"width":220,"height":62,"color":"1"},
-		{"id":"4575670a3d83beaf","x":-101,"y":-594,"width":250,"height":60,"type":"text","text":"START HE"}
+		{"id":"4575670a3d83beaf","x":-71,"y":-600,"width":153,"height":60,"color":"4","type":"text","text":"START HERE"}
 	],
 	"edges":[
 		{"id":"3429abffe2312650","fromNode":"19c3753094481972","fromSide":"right","toNode":"12f47b0ec4af74ed","toSide":"left","label":"No, I just want to watch movies"},
@@ -27,6 +27,7 @@
 		{"id":"ac99079f8aa051cf","fromNode":"0e6bcb8fc63526f2","fromSide":"left","toNode":"68def53af168003b","toSide":"right","label":"Yes"},
 		{"id":"d42957f0d0ef2219","fromNode":"68def53af168003b","fromSide":"left","toNode":"c980677e2384b947","toSide":"right","label":"20gb is \ntoo big!"},
 		{"id":"f2aec43f4942c58a","fromNode":"c980677e2384b947","fromSide":"left","toNode":"77a7d2c6808e6575","toSide":"right","label":"10gb is too big!"},
-		{"id":"40c8d0575aa2507d","fromNode":"77a7d2c6808e6575","fromSide":"left","toNode":"7aa83742280ce9e3","toSide":"right","label":"I have an old TV"}
+		{"id":"40c8d0575aa2507d","fromNode":"77a7d2c6808e6575","fromSide":"left","toNode":"7aa83742280ce9e3","toSide":"right","label":"I have an old TV"},
+		{"id":"932872f711ec3c56","fromNode":"4575670a3d83beaf","fromSide":"bottom","toNode":"19c3753094481972","toSide":"top"}
 	]
 }
