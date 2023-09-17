@@ -1,4 +1,5 @@
 3 point options
 - Quick 1 Horns Flex
-	- Hield, Mathurin
-- Quick 5 out2
+	- Hield, Mathurin, Haliburton
+- Quick 5out 2
+	- Hield, Mathurin, Haliburton
