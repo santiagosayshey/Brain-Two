@@ -1,3 +1,3 @@
-Buddy Hield
+3 point options
 - Quick 1 Horns Flex
-	- Cut
+	- Hield, Mathurin
