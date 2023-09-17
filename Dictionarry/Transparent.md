@@ -36,7 +36,7 @@ $$
 ### 4. Quality Profiles and Their Significance
    - Quality isn't merely about the source. There can be instances where a 4K VOD is 'webripped' to 1080p, offering a superior source compared to a standard 1080p Blu-ray encode. To ensure the best grab, various profiles like WEBRIP, BLURAY, and WEBDL are nested under a 'transparent capable' grouping, ensuring no specific source is prioritized over another.
 
-![](Images/Pasted%20image%2020230905012450.png)
+
 
 | 1080p Transparent v3.1 |                 |           |           |           |                  |                      |       |         |
 |------------------------|-----------------|-----------|-----------|-----------|------------------|----------------------|-------|---------|
