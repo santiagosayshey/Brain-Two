@@ -12,6 +12,12 @@ https://www.esafety.gov.au/key-topics/esafety-guide/chatgpt-and-gpt-4
 https://researchoutput.csu.edu.au/ws/portalfiles/portal/340044691/340044193_Published_article.pdf
 ```
 
+```
+- "ChatGPT is one of a number of ‘large language models’ (LLM) that are currently undergoing development and training."
+- "It has a conversational interface where a user provides a ‘prompt’ that will generate human-like text on a wide variety of topics."
+
+
+```
 2. What it does
    
 ```
