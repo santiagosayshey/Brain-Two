@@ -1,4 +1,11 @@
 1. What ChatGPT is
+
+```
+ChatGPT and GPT-4 are artificial intelligence (AI) chatbots or large language models built by [OpenAIExternal link](https://openai.com/), which allow people to interact in a conversational way
+
+https://www.esafety.gov.au/key-topics/esafety-guide/chatgpt-and-gpt-4
+```
+
 2. What it does
 3. A short history of large language models
 4. How ChatGPT was trained and where that data came from
