@@ -59,9 +59,7 @@ Give an example of a NOSQL database and its uses.
 
 MongoDB is a popular NoSQL database that is document-oriented, comprising of sets of key-value pairs. 
 
-In the context of a hospital setting, MongoDB can be highly beneficial for maintaining patient records:
-
-**Dynamic Schema:** Given the diverse range of data associated with patients (medical histories, diagnostic test results, imaging data, prescription records, etc.), MongoDB's dynamic schema allows hospitals to store a wide variety of patient data without having to define a fixed structure first. This makes it easier to incorporate new types of data as medical practices evolve.
+In the context of a hospital setting, MongoDB can be highly beneficial for maintaining patient records. Given the diverse range of data associated with patients (medical histories, diagnostic test results, imaging data, prescription records, etc.), MongoDB's dynamic schema allows hospitals to store a wide variety of patient data without having to define a fixed structure first. This makes it easier to incorporate new types of data as medical practices evolve or mould to different patients that require different information to be stored.
 ## Question 5
 
 ```
