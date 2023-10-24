@@ -48,7 +48,10 @@ List four digital threats and how you would protect from attacks on those vector
 Give an example of data inconsistency and how it could occur.
 ```
 
-- A banking transaction between two accounts. One account gives x money and the other takes x money. Inconsistency can occur when only 1 of these 
+- Consider a banking transaction involving two accounts: Account A transfers an amount of x dollars to Account B. A data inconsistency would arise if the amount is deducted from Account A but not credited to Account B.
+
+
+This inconsistency can occur due to a variety of reasons, such as system crashes or failures during the transaction process, database write errors, or a break in the transaction sequence due to network issues. If there isn't a proper mechanism in place to ensure atomicity (where the whole transaction is either completed fully or rolled back entirely), such inconsistencies can persist, leading to discrepancies in account balances and potential issues in account reconciliation.
 ## Question 4  
 
 ```
