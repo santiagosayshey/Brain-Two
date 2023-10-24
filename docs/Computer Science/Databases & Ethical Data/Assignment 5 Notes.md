@@ -52,7 +52,16 @@ https://lsbc.vic.gov.au/news-updates/news/generative-ai-and-lawyers
 
 https://researchoutput.csu.edu.au/ws/portalfiles/portal/340044691/340044193_Published_article.pdf
 ```
-   
+
+
+```
+- ChatGPT is able to generate text as it is trained on enormous amounts of data scraped from the internet."
+- "Different training sets will create different suggestions for the same prompt, and it should be noted that as the model develops and the training set expands, a greater variety of options will be generated."
+- "The training data has not been explicitly curated for accuracy or for any specific use case."
+
+https://lsbc.vic.gov.au/news-updates/news/generative-ai-and-lawyers
+```
+
 5. How ChatGPT stores its interaction data
    
    
