@@ -40,9 +40,32 @@ https://researchoutput.csu.edu.au/ws/portalfiles/portal/340044691/340044193_Publ
 https://lsbc.vic.gov.au/news-updates/news/generative-ai-and-lawyers
 ```
    
-3. A short history of large language models
+3. A short history of large language models|
+   
+   
+   
 4. How ChatGPT was trained and where that data came from
+   
+   
+```
+"Models such as ChatGPT are trained on large amounts of text data..."
+
+https://researchoutput.csu.edu.au/ws/portalfiles/portal/340044691/340044193_Published_article.pdf
+```
+   
 5. How ChatGPT stores its interaction data
+   
+   
+   
 6. What any ethical issues are
+   
+   
+   
 7. What any possible legal issues are
+   
+   
+   
 8. A short set of guidelines for best practice when using ChatGPT
+   
+   
+   
