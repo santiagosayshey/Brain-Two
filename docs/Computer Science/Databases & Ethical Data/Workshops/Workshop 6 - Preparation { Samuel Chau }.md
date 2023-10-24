@@ -66,4 +66,6 @@ In the context of a hospital setting, MongoDB can be highly beneficial for maint
 What are the overheads of NOSQL databases when compared against SQL databases? What are the benefits?
 ```
 
-**Consistency Models:** Many NoSQL databases use eventual consistency instead of the strict consistency model used in SQL databases. While this supports high availability, it may lead to temporary inconsistencies in data, which could be problematic for applications that require real-time consistent data.
+**Disadvantage - Consistency Models:** Many NoSQL databases use eventual consistency instead of the strict consistency model used in SQL databases. While this supports high availability, it may lead to temporary inconsistencies in data, which could be problematic for applications that require real-time consistent data.
+
+**Advantage - Flexibility:** NoSQL databases, especially document-oriented ones, offer a flexible schema. This is advantageous for datasets that evolve over time, allowing developers to work without stringent constraints.
