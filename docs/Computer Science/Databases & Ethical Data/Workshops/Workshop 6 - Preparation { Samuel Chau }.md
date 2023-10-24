@@ -26,6 +26,22 @@ List four physical threats and how you would protect from attacks on those vecto
 List four digital threats and how you would protect from attacks on those vectors.
 ```
 
+1. Network Attacks:
+   - **Threat**: These involve unauthorized actions targeted at disrupting, degrading, or destroying the integrity of data in transit over a network. Examples include Denial of Service (DoS) attacks, Man-in-the-Middle (MitM) attacks, and packet sniffing.
+   - **Protection**: Implement robust network security measures such as firewalls and secure network protocols like HTTPS and SSL/TLS for data transmission. Regularly update and patch network devices. Also, conduct routine network security assessments and penetration testing.
+
+2. Console Attacks:
+   - **Threat**: Console attacks are direct attacks on a system, usually gained by having physical access to a device or remote access to the system console. Once access is gained, an attacker can execute malicious commands or alter system configurations.
+   - **Protection**: Use strong access controls for system consoles, including multi-factor authentication. Regularly update and patch operating systems and applications. 
+
+1. Worms:
+   - **Threat**: Worms are malware that replicate themselves to spread to other computers over a network, often causing harm by consuming bandwidth or sending spam.
+   - **Protection**: Employ updated antivirus and antimalware software on all systems and perform regular system scans. Use firewalls to control network traffic. Conduct regular security awareness training for employees to prevent phishing attacks, which are often used to deliver worms. Also, keep all systems patched and up-to-date.
+
+2. Backdoors:
+   - **Threat**: Backdoors are typically malicious software or hardware mechanisms designed to bypass normal authentication or encryption in a system, allowing unauthorized remote access.
+   - **Protection**: Regularly perform security audits and code reviews to detect backdoors in software and hardware. Employ comprehensive endpoint security solutions and maintain updated firewalls. Utilize intrusion detection systems to monitor for unusual access patterns and potential unauthorized entry points. Implement strict control over software sources, avoiding untrusted or pirated software.
+
 ## Question 3 
 
 ```
