@@ -1,7 +1,9 @@
 1. What ChatGPT is
 
 ```
-ChatGPT and GPT-4 are artificial intelligence (AI) chatbots or large language models built by [OpenAIExternal link](https://openai.com/), which allow people to interact in a conversational way
+- "ChatGPT and GPT-4 are artificial intelligence (AI) chatbots or large language models built by OpenAI, which allow people to interact in a conversational way."
+- "They use natural language processing (NLP) to generate conversations and respond with relevant answers that mimic human speech."
+- "GPT stands for ‘Generative Pre-trained Transformer’, which refers to how these bots process requests and formulate responses."
 
 https://www.esafety.gov.au/key-topics/esafety-guide/chatgpt-and-gpt-4
 ```
@@ -23,7 +25,8 @@ https://lsbc.vic.gov.au/news-updates/news/generative-ai-and-lawyers
 2. What it does
    
 ```
-They use natural language processing (NLP) to generate conversations and respond with relevant answers that mimic human speech. Both ChatGPT and GPT-4 can chat with you, answer follow-up questions, challenge incorrect information and perform tasks such as writing text and generating code and other outputs.
+- "Both ChatGPT and GPT-4 can chat with you, answer follow-up questions, challenge incorrect information and perform tasks such as writing text and generating code and other outputs."
+- "ChatGPT can only provide answers based on the information it has been trained with and does not have the ability to search the internet for new information."
 
 https://www.esafety.gov.au/key-topics/esafety-guide/chatgpt-and-gpt-4
 ```
@@ -46,13 +49,11 @@ https://lsbc.vic.gov.au/news-updates/news/generative-ai-and-lawyers
    
 4. How ChatGPT was trained and where that data came from
    
-   
 ```
 "Models such as ChatGPT are trained on large amounts of text data..."
 
 https://researchoutput.csu.edu.au/ws/portalfiles/portal/340044691/340044193_Published_article.pdf
 ```
-
 
 ```
 - ChatGPT is able to generate text as it is trained on enormous amounts of data scraped from the internet."
@@ -60,6 +61,12 @@ https://researchoutput.csu.edu.au/ws/portalfiles/portal/340044691/340044193_Publ
 - "The training data has not been explicitly curated for accuracy or for any specific use case."
 
 https://lsbc.vic.gov.au/news-updates/news/generative-ai-and-lawyers
+```
+
+```
+"Both models have been trained with huge amounts of data and use human feedback and reward models to rank the best responses."
+
+https://www.esafety.gov.au/key-topics/esafety-guide/chatgpt-and-gpt-4
 ```
 
 5. How ChatGPT stores its interaction data
