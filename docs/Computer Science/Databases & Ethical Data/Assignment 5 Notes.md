@@ -59,13 +59,25 @@ https://researchoutput.csu.edu.au/ws/portalfiles/portal/340044691/340044193_Publ
    
 6. What any ethical issues are
    
-   
+```
+- "The use of AI and advanced technologies in health care has created ongoing ethical, moral, and legal debates."
+- "Concerns raised relevant to nursing and midwifery programs relate to potentiating the existing theory practice gap and amplifying the high tech/high touch conundrum."
+
+https://researchoutput.csu.edu.au/ws/portalfiles/portal/340044691/340044193_Published_article.pdf
+```
    
 7. What any possible legal issues are
    
-   
+```
+The use of AI and advanced technologies in health care has created ongoing ethical, moral, and legal debates."
+
+https://researchoutput.csu.edu.au/ws/portalfiles/portal/340044691/340044193_Published_article.pdf
+```
    
 8. A short set of guidelines for best practice when using ChatGPT
    
-   
-   
+```
+The implementation of ChatGPT and other advanced technologies in higher education should not be viewed as the death knell for traditional learning. With discriminate use, and albeit with its own set of challenges, by adopting ChatGPT, higher education has an opportunity to deliver content that is more evolved and learner-centred than ever before.
+
+https://researchoutput.csu.edu.au/ws/portalfiles/portal/340044691/340044193_Published_article.pdf
+```
