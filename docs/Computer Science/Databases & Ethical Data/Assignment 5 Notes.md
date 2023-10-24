@@ -16,8 +16,10 @@ https://researchoutput.csu.edu.au/ws/portalfiles/portal/340044691/340044193_Publ
 - "ChatGPT is one of a number of ‘large language models’ (LLM) that are currently undergoing development and training."
 - "It has a conversational interface where a user provides a ‘prompt’ that will generate human-like text on a wide variety of topics."
 
-
+https://lsbc.vic.gov.au/news-updates/news/generative-ai-and-lawyers
 ```
+
+
 2. What it does
    
 ```
@@ -30,6 +32,12 @@ https://www.esafety.gov.au/key-topics/esafety-guide/chatgpt-and-gpt-4
 "Models such as ChatGPT are trained on large amounts of text data and can generate human like content in response to user prompts with high levels of accuracy."
 
 https://researchoutput.csu.edu.au/ws/portalfiles/portal/340044691/340044193_Published_article.pdf
+```
+
+```
+"It can generate fluent and often highly convincing answers to many questions."
+
+https://lsbc.vic.gov.au/news-updates/news/generative-ai-and-lawyers
 ```
    
 3. A short history of large language models
