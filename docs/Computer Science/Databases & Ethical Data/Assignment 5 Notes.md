@@ -116,4 +116,6 @@ https://researchoutput.csu.edu.au/ws/portalfiles/portal/340044691/340044193_Publ
 - "Review the terms of use carefully, and note that you can opt out of your data being used for the purposes of improving and training the AI."
 - "Even if you do opt out, given the early stage of development and the evidence of AI’s emergent capabilities, you still should not submit confidential information when using it to generate text."
 
+https://lsbc.vic.gov.au/news-updates/news/generative-ai-and-lawyers
 ```
+
