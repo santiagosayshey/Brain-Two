@@ -9,7 +9,7 @@ https://www.esafety.gov.au/key-topics/esafety-guide/chatgpt-and-gpt-4
 ```
 "ChatGPT (Generative Pretrained Transformer) a natural language processing (NLP) model (OpenAI, 2023)."
 
-
+https://researchoutput.csu.edu.au/ws/portalfiles/portal/340044691/340044193_Published_article.pdf
 ```
 
 2. What it does
@@ -18,6 +18,12 @@ https://www.esafety.gov.au/key-topics/esafety-guide/chatgpt-and-gpt-4
 They use natural language processing (NLP) to generate conversations and respond with relevant answers that mimic human speech. Both ChatGPT and GPT-4 can chat with you, answer follow-up questions, challenge incorrect information and perform tasks such as writing text and generating code and other outputs.
 
 https://www.esafety.gov.au/key-topics/esafety-guide/chatgpt-and-gpt-4
+```
+
+```
+"Models such as ChatGPT are trained on large amounts of text data and can generate human like content in response to user prompts with high levels of accuracy."
+
+https://researchoutput.csu.edu.au/ws/portalfiles/portal/340044691/340044193_Published_article.pdf
 ```
    
 3. A short history of large language models
