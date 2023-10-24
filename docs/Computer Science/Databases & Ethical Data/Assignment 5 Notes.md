@@ -64,7 +64,11 @@ https://lsbc.vic.gov.au/news-updates/news/generative-ai-and-lawyers
 
 5. How ChatGPT stores its interaction data
    
-   
+```
+"ChatGPT is also continuously being trained by users inputting prompts, unless the user specifically opts out. It not only learns about the quality of the output by asking the user to rank the answers given, but it also further saves and labels the original prompt."
+
+https://lsbc.vic.gov.au/news-updates/news/generative-ai-and-lawyers
+```
    
 6. What any ethical issues are
    
