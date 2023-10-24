@@ -86,11 +86,16 @@ https://lsbc.vic.gov.au/news-updates/news/generative-ai-and-lawyers
 https://researchoutput.csu.edu.au/ws/portalfiles/portal/340044691/340044193_Published_article.pdf
 ```
 
-
 ```
 "You should also bear in mind that ChatGPT gives no guarantee that it will keep your information confidential."
 
 https://lsbc.vic.gov.au/news-updates/news/generative-ai-and-lawyers
+```
+
+```
+"ChatGPT and GPT-4 have certain limitations, as OpenAI makes clear, including sometimes writing answers that sound believable but are factually inaccurate, giving biased responses and the risk that they may action inappropriate or harmful requests."
+
+https://www.esafety.gov.au/key-topics/esafety-guide/chatgpt-and-gpt-4
 ```
    
 7. What any possible legal issues are
@@ -105,6 +110,12 @@ https://researchoutput.csu.edu.au/ws/portalfiles/portal/340044691/340044193_Publ
 "ChatGPT is a generalist tool – it is not specifically trained to work with legal resources or to provide accurate legal answers."
 
 https://lsbc.vic.gov.au/news-updates/news/generative-ai-and-lawyers
+```
+
+```
+"They may also infringe intellectual copyright by incorporating content without permission and not attributing content."
+
+https://www.esafety.gov.au/key-topics/esafety-guide/chatgpt-and-gpt-4
 ```
    
 8. A short set of guidelines for best practice when using ChatGPT
