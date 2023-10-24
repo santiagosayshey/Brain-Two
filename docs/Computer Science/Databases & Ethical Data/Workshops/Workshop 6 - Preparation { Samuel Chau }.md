@@ -57,6 +57,20 @@ Give an example of data inconsistency and how it could occur.
 Give an example of a NOSQL database and its uses.
 ```
 
+MongoDB is a popular NoSQL database that is document-oriented, comprising of sets of key-value pairs
+In the context of a hospital setting, MongoDB can be highly beneficial for maintaining patient records:
+
+1. **Dynamic Schema:** Given the diverse range of data associated with patients (medical histories, diagnostic test results, imaging data, prescription records, etc.), MongoDB's dynamic schema allows hospitals to store a wide variety of patient data without having to define a fixed structure first. This makes it easier to incorporate new types of data as medical practices evolve.
+
+2. **Scalability:** As hospitals expand and the number of patients increases, MongoDB can horizontally scale out by adding more nodes to the system. This ensures that large volumes of patient data can be handled efficiently.
+
+3. **Data Retrieval:** With its powerful querying capabilities, MongoDB can rapidly retrieve specific patient records or subsets of data, aiding healthcare professionals in making timely medical decisions.
+
+4. **Integrated Storage of Complex Data:** Medical data can often be multi-dimensional, with images, texts, and structured data. MongoDB's document model is well-suited for storing this multifaceted data in a consolidated manner.
+
+5. **Data Security:** Patient data security is paramount in a healthcare setting. MongoDB offers robust security features like authentication, authorization, and auditing, ensuring that sensitive patient data is protected and accessed only by authorized personnel.
+
+In summary, MongoDB provides an efficient, flexible, and scalable solution for managing patient records in a hospital, addressing both the complexity and the volume of medical data.
 ## Question 5
 
 ```
