@@ -48,6 +48,7 @@ List four digital threats and how you would protect from attacks on those vector
 Give an example of data inconsistency and how it could occur.
 ```
 
+- A banking transaction between two accounts. One account gives x money and the other takes x money. Inconsistency can occur when only 1 of these 
 ## Question 4  
 
 ```
