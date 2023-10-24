@@ -50,8 +50,7 @@ Give an example of data inconsistency and how it could occur.
 
 - Consider a banking transaction involving two accounts: Account A transfers an amount of x dollars to Account B. A data inconsistency would arise if the amount is deducted from Account A but not credited to Account B.
 
-
-This inconsistency can occur due to a variety of reasons, such as system crashes or failures during the transaction process, database write errors, or a break in the transaction sequence due to network issues. If there isn't a proper mechanism in place to ensure atomicity (where the whole transaction is either completed fully or rolled back entirely), such inconsistencies can persist, leading to discrepancies in account balances and potential issues in account reconciliation.
+- This inconsistency can occur due to a variety of reasons, such as system crashes or failures during the transaction process, database write errors, or a break in the transaction sequence due to network issues. If there isn't a proper mechanism in place to ensure atomicity (where the whole transaction is either completed fully or rolled back entirely), such inconsistencies can persist, leading to discrepancies in account balances and potential issues in account reconciliation.
 ## Question 4  
 
 ```
