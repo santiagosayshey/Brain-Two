@@ -6,6 +6,12 @@ ChatGPT and GPT-4 are artificial intelligence (AI) chatbots or large language mo
 https://www.esafety.gov.au/key-topics/esafety-guide/chatgpt-and-gpt-4
 ```
 
+```
+"ChatGPT (Generative Pretrained Transformer) a natural language processing (NLP) model (OpenAI, 2023)."
+
+
+```
+
 2. What it does
    
 ```
