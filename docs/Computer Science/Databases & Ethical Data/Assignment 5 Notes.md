@@ -78,6 +78,13 @@ https://lsbc.vic.gov.au/news-updates/news/generative-ai-and-lawyers
 
 https://researchoutput.csu.edu.au/ws/portalfiles/portal/340044691/340044193_Published_article.pdf
 ```
+
+
+```
+"You should also bear in mind that ChatGPT gives no guarantee that it will keep your information confidential."
+
+https://lsbc.vic.gov.au/news-updates/news/generative-ai-and-lawyers
+```
    
 7. What any possible legal issues are
    
@@ -86,6 +93,12 @@ The use of AI and advanced technologies in health care has created ongoing ethic
 
 https://researchoutput.csu.edu.au/ws/portalfiles/portal/340044691/340044193_Published_article.pdf
 ```
+
+```
+"ChatGPT is a generalist tool – it is not specifically trained to work with legal resources or to provide accurate legal answers."
+
+https://lsbc.vic.gov.au/news-updates/news/generative-ai-and-lawyers
+```
    
 8. A short set of guidelines for best practice when using ChatGPT
    
@@ -93,4 +106,14 @@ https://researchoutput.csu.edu.au/ws/portalfiles/portal/340044691/340044193_Publ
 The implementation of ChatGPT and other advanced technologies in higher education should not be viewed as the death knell for traditional learning. With discriminate use, and albeit with its own set of challenges, by adopting ChatGPT, higher education has an opportunity to deliver content that is more evolved and learner-centred than ever before.
 
 https://researchoutput.csu.edu.au/ws/portalfiles/portal/340044691/340044193_Published_article.pdf
+```
+
+```
+- "You should note that ChatGPT is a generalist tool – it is not specifically trained to work with legal resources or to provide accurate legal answers."
+- "We recommend that you take steps to gain a basic understanding of generative AI, its uses and risks."
+- "It has potential to help lawyers in many tasks involving text, content and idea generation, but it is a tool that should be used very carefully."
+- "You need a clear understanding of its inherent limitations and your responsibilities when using any generative AI tool in the course of your work."
+- "Review the terms of use carefully, and note that you can opt out of your data being used for the purposes of improving and training the AI."
+- "Even if you do opt out, given the early stage of development and the evidence of AI’s emergent capabilities, you still should not submit confidential information when using it to generate text."
+
 ```
