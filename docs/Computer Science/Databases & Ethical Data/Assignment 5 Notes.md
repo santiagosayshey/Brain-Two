@@ -31,6 +31,8 @@ conversations
 ChatGPT is a natural language processing (NLP) system developed by Open AI
 
 
+
+
 Deng, J. and Lin, Y., 2022. The benefits and challenges of ChatGPT: An overview. _Frontiers in Computing and Intelligent Systems_, _2_(2), pp.81-83.
 ```
 
@@ -50,6 +52,8 @@ https://www.esafety.gov.au/key-topics/esafety-guide/chatgpt-and-gpt-4
 ```
 It is designed to generate human-like conversations by understanding the context of a conversation and generating appropriate responses
 
+It is able to understand the context of a conversation and generate appropriate responses. It can also generate responses in multiple languages, including English, Spanish, French, and German. Additionally, ChatGPT is able to generate responses in different styles, such as formal, informal, and humorous.
+
 Deng, J. and Lin, Y., 2022. The benefits and challenges of ChatGPT: An overview. _Frontiers in Computing and Intelligent Systems_, _2_(2), pp.81-83.
 ```
    
@@ -61,6 +65,8 @@ Deng, J. and Lin, Y., 2022. The benefits and challenges of ChatGPT: An overview.
    
 ```
 Both models have been trained with huge amounts of data and use human feedback and reward models to rank the best responses.
+
+ChatGPT is based on a deep learning model called GPT-3, which is trained on a large dataset of conversations.
 
 https://www.esafety.gov.au/key-topics/esafety-guide/chatgpt-and-gpt-4
 ```
