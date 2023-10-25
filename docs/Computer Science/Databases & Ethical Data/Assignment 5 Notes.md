@@ -103,7 +103,7 @@ by people with common communication skills, significantly lowering the threshold
 be a user. And they can be used for a certain amount of versatility because of the sheer volume
 of data extraction that goes into training. ChatGPT alone contains 300 billion words, spanning
 all kinds of content available on the Internet, from personal data to policy documents, news
-reports, literary texts and ar
+reports, literary texts and art
 
 https://j-institute.org/wp-content/uploads/2023/08/Robotics-AI-Ethics8-2023.pdf
 ```
