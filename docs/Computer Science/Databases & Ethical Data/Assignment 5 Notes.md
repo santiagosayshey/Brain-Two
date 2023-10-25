@@ -90,6 +90,12 @@ They may also infringe intellectual copyright by incorporating content without p
 
 https://www.esafety.gov.au/key-topics/esafety-guide/chatgpt-and-gpt-4
 ```
+
+```
+Another concern is the potential for ChatGPT to be used to spread misinformation or propaganda, particularly if it is integrated into platforms that have a wide reach such as social media. Additionally, ChatGPT's ability to generate human-like text raises the risk of impersonation and identity theft.
+
+Deng, J. and Lin, Y., 2022. The benefits and challenges of ChatGPT: An overview. _Frontiers in Computing and Intelligent Systems_, _2_(2), pp.81-83.
+```
    
 8. A short set of guidelines for best practice when using ChatGPT
 
