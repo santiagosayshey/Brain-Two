@@ -139,6 +139,28 @@ https://openai.com/blog/chatgpt
 
 ![](docs/Images/ChatGPT_Diagram.svg)
 
+```
+Pre-training Approach:
+"Our basic pre-training approach, including model, data, and training, is similar to the process described in [RWC+19 ], with relatively straightforward scaling up of the model size, dataset size and diversity, and length of training."
+
+Learning Within the Context:
+"Our use of in-context learning is also similar to [RWC+19], but in this work we systematically explore different settings for learning within the context."
+
+Different Training Settings:
+"Specifically, we can identify at least four points on this spectrum: Fine-Tuning (FT), Few-Shot (FS), One-Shot (1S), and Zero-Shot (0S)."
+
+Model and Architecture:
+"We use the same model and architecture as GPT-2 [ RWC+19 ], including the modified initialization, pre-normalization, and reversible tokenization described therein, with the exception that we use alternating dense and locally banded sparse attention patterns in the layers of the transformer, similar to the Sparse Transformer [ CGRS19 ]."
+
+Training Dataset:
+"Datasets for language models have rapidly expanded, culminating in the Common Crawl dataset2 [RSR+19 ] constituting nearly a trillion words."
+"However, we have found that unfiltered or lightly filtered versions of Common Crawl tend to have lower quality than more curated datasets. Therefore, we took 3 steps to improve the average quality of our datasets: (1) we downloaded and filtered a version of CommonCrawl based on similarity to a range of high-quality reference corpora, (2) we performed fuzzy deduplication at the document level, within and across datasets, to prevent redundancy and preserve the integrity of our held-out validation set as an accurate measure of overfitting, and (3) we also added known high-quality reference corpora to the training mix to augment CommonCrawl and increase its diversity."
+"For the third, we added several curated high-quality datasets, including an expanded version of the WebText dataset [ RWC+19], collected by scraping links over a longer period of time, and first described in [KMH+20], two internet-based books corpora (Books1 and Books2) and English-language Wikipedia."
+
+Concerns about Data Contamination:
+"A major methodological concern with language models pretrained on a broad swath of internet data, particularly large models with the capacity to memorize vast amounts of content, is potential contamination of downstream tasks by having their test or development sets inadvertently seen during pre-training."
+```
+
 5. How ChatGPT stores its interaction data
    
 
