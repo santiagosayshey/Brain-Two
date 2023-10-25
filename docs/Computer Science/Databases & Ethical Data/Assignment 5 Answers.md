@@ -1,4 +1,4 @@
-> *What is ChatGPT?*
+> ***What is ChatGPT?***
 
 To answer this question, it's essential to first define a few key ideas related to Artificial Intelligence (AI).
 
@@ -12,8 +12,6 @@ _**Large Language Models (LLMs)**_ are a type of generative AI that are specific
 
 ***ChatGPT*** is an ***LLM*** that aims to understand and generate text in a conversational manner.
 
-
-
-
+> ***What Does ChatGPT Do?***
 
 
