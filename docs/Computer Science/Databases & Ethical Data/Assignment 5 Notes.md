@@ -63,3 +63,11 @@ Outlines ways to manage your data, including turning off your chat history and c
 
 https://www.esafety.gov.au/key-topics/esafety-guide/chatgpt-and-gpt-4
 ```
+
+```
+- Data anonymisation: Replace or alter personal information in the text using information that cannot be linked to the individual.
+- Data masking: Replace personal information in the text, such as email addresses or phone numbers, with fictional data that retains the same format.
+- Include only relevant data: Choose only information that is relevant.
+
+https://education.nsw.gov.au/teaching-and-learning/education-for-a-changing-world/guidelines-regarding-use-of-generative-ai-chatgpt
+```
