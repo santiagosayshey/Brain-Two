@@ -272,6 +272,8 @@ Deng, J. and Lin, Y., 2022. The benefits and challenges of ChatGPT: An overview.
 4. "Transparency and accountability: As AI systems become more complex, understanding their decision-making processes can be challenging. This involves the following two important aspects:  Explainable AI: Developing AI models that can provide clear explanations for their decisions can help users understand and trust the system.  Responsibility and liability: Establishing clear lines of responsibility and liability for AI systems is crucial to hold developers, organizations, and users accountable for the consequences of AI-driven decisions."
     
 5. "The future of work: AI-driven automation has the potential to displace jobs in certain sectors, raising concerns about the future of work. Throughout this book, we have seen how ChatGPT and OpenAI models are able to boost productivity for individuals and enterprises. However, it is also likely that some repetitive tasks will be definitively replaced by AI, which will impact some workers. This is part of the change and development process, and it is better to embrace change rather than combat it. Some actions in this direction could be reskilling and upskilling programs – governments, organizations, and educational institutions should invest in reskilling and upskilling programs to help workers adapt to the changing job market and acquire new skills required for emerging roles."
+
+Valentina Alto - Modern Generative AI with ChatGPT
 ```
    
 7. What any possible legal issues are
