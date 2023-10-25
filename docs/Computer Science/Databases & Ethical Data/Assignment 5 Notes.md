@@ -162,7 +162,26 @@ Brown, T., Mann, B., Ryder, N., Subbiah, M., Kaplan, J.D., Dhariwal, P., Neelaka
 
 5. How ChatGPT stores its interaction data
    
+```
+Introduction
 
+This Privacy Policy describes our practices with respect to Personal Information we collect from or about you when you use our website, applications, and services (collectively, “Services”). This Privacy Policy does not apply to content that we process on behalf of customers of our business offerings, such as our API.
+
+Information Collection
+
+Personal Information You Provide: We collect Personal Information if you create an account to use our Services or communicate with us as follows:
+
+User Content: When you use our Services, we collect Personal Information that is included in the input, file uploads, or feedback that you provide to our Services (“Content”).
+
+Use of Personal Information
+
+    We may use Personal Information for the following purposes:
+
+    To provide, administer, maintain and/or analyze the Services;
+    To improve our Services and conduct research;
+    Aggregated or De-Identified Information. We may aggregate or de-identify Personal Information so that it may no longer be used to identify you and use such information to analyze the effectiveness of our Services, to improve and add features to our Services, to conduct research and for other similar purposes. In addition, from time to time, we may analyze the general behavior and characteristics of users of our Services and share aggregated information like general user statistics with third parties, publish such aggregated information or make such aggregated information generally available.
+    As noted above, we may use Content you provide us to improve our Services, for example to train the models that power ChatGPT. See here for instructions on how you can opt out of our use of your Content to train our models.
+```
    
 6. What any ethical issues are
    
