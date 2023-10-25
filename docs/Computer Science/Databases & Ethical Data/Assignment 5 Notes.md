@@ -11,7 +11,23 @@ https://www.esafety.gov.au/key-topics/esafety-guide/chatgpt-and-gpt-4
 ```
 
 ```
-a natural language processing (NLP) system that can generate human-like conversation
+AI is a branch of computer science that focuses on creating
+intelligent machines that can think and act like humans. AI
+systems are designed to learn from their environment and
+make decisions based on the data they receive. AI can be used
+to solve complex problems, such as medical diagnosis,
+autonomous vehicles, and natural language processing.
+
+
+There are several types of AI, including machine learning,
+deep learning, and natural language processing. Machine
+learning is a type of AI that uses algorithms to learn from data
+and make predictions. Deep learning is a type of machine
+learning that uses neural networks [4] to process data. Natural
+language processing (NLP) is a type of AI that uses
+algorithms to understand and generate human-like
+conversations
+
 
 
 
