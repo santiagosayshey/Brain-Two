@@ -349,6 +349,7 @@ Valentina Alto - Modern Generative AI with ChatGPT
 13. "Second, users do not understand the information that ChatGPT generates or judge its accuracy or relevance."
 14. "Third, ChatGPT, a large-scale language model, is a statistical model, not an ethical reasoning[44]."
 
+https://j-institute.org/wp-content/uploads/2023/08/Robotics-AI-Ethics8-2023.pdf
 ```
    
 7. What any possible legal issues are
