@@ -45,6 +45,13 @@ ChatGPT and GPT-4 are used for: content sharing, encrypted, gaming, in-app purch
 
 https://www.esafety.gov.au/key-topics/esafety-guide/chatgpt-and-gpt-4
 ```
+
+
+```
+It is designed to generate human-like conversations by understanding the context of a conversation and generating appropriate responses
+
+Deng, J. and Lin, Y., 2022. The benefits and challenges of ChatGPT: An overview. _Frontiers in Computing and Intelligent Systems_, _2_(2), pp.81-83.
+```
    
 3. A short history of large language models
    
