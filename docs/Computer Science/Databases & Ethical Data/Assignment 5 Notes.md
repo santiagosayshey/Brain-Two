@@ -192,5 +192,14 @@ https://education.nsw.gov.au/teaching-and-learning/education-for-a-changing-worl
 To prevent hallucinations, some good practices should be kept in mind: 
 
 • Be specific and clear: Make sure your prompt is well-defined and clearly states what you are looking to achieve. This will help the model generate more focused and relevant responses. A prompt such as Tell me about the world would probably not generate great results. 
-• Provide sufficient context: The more context you can provide, the better the model will be able to understand what you are looking for and generate a response that is relevant to your needs. • Avoid ambiguity: Avoid using vague or ambiguous terms or phrases in your prompt, as this can make it difficult for the model to understand what you are looking for. • Use concise language: Keep your prompts as concise as possible, while still providing enough information for the model to generate a response. This will help ensure that the model generates focused and concise responses. • Be mindful of the training data: ChatGPT has been trained on a large corpus of text, and it may generate responses that are biased or inaccurate based on the patterns in that data. Be mindful of this and consider adjusting your prompts if you suspect that the model is generating responses that are not appropriate or accurate.
+
+• Provide sufficient context: The more context you can provide, the better the model will be able to understand what you are looking for and generate a response that is relevant to your needs. 
+
+• Avoid ambiguity: Avoid using vague or ambiguous terms or phrases in your prompt, as this can make it difficult for the model to understand what you are looking for. 
+
+• Use concise language: Keep your prompts as concise as possible, while still providing enough information for the model to generate a response. This will help ensure that the model generates focused and concise responses. 
+
+• Be mindful of the training data: ChatGPT has been trained on a large corpus of text, and it may generate responses that are biased or inaccurate based on the patterns in that data. Be mindful of this and consider adjusting your prompts if you suspect that the model is generating responses that are not appropriate or accurate.
+
+Valentina Alto - Modern Generative AI with ChatGPT
 ```
