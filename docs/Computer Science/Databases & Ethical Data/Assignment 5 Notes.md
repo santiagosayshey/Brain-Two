@@ -3,6 +3,8 @@
 ```
 ChatGPT and GPT-4 are artificial intelligence (AI) chatbots or large language models built by [OpenAIExternal link](https://openai.com/), which allow people to interact in a conversational way. They use natural language processing (NLP) to generate conversations and respond with relevant answers that mimic human speech
 
+GPT stands for ‘Generative Pre-trained Transformer’, which refers to how these bots process requests and formulate responses.
+
 https://www.esafety.gov.au/key-topics/esafety-guide/chatgpt-and-gpt-4
 ```
 
@@ -21,7 +23,11 @@ https://www.esafety.gov.au/key-topics/esafety-guide/chatgpt-and-gpt-4
    
 4. How ChatGPT was trained and where that data came from
    
+```
+Both models have been trained with huge amounts of data and use human feedback and reward models to rank the best responses.
 
+https://www.esafety.gov.au/key-topics/esafety-guide/chatgpt-and-gpt-4
+```
 
 5. How ChatGPT stores its interaction data
    
