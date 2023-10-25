@@ -332,6 +332,24 @@ Deng, J. and Lin, Y., 2022. The benefits and challenges of ChatGPT: An overview.
 
 Valentina Alto - Modern Generative AI with ChatGPT
 ```
+
+```
+1. "Therefore, the ethical issues of ChatGPT, a powerful conversational artificial intelligence, should be analyzed based on the moral competence of people involved in the development and use of ChatGPT."
+2. "Despite these numerous benefits, ChatGPT may have a negative impact on human life[26]. Therefore, we have a task to carefully consider and solve the ethical problems of ChatGPT technology."
+3. "Ethical issues of ChatGPT that are expected in the future can be largely classified into six categories as follows."
+4. "A problem with using ChatGPT for higher education assessment is the potential for plagiarism."
+5. "In addition, ChatGPT may generate responses that violate intellectual property rights such as copyright or patent law[29]."
+6. "ChatGPT provides easy scripting and coding access to cybercriminals, effectively reducing the barriers to entry in this space."
+7. "Third, if the data used to train the language model includes biased representations of a specific group of individuals, social stereotypes and unfair discrimination may occur."
+8. "Fourth, there are risks of data security involved in interacting with ChatGPT."
+9. "Fifth, another ethical problem with ChatGPT is that it has the potential to reduce users' critical thinking[36]."
+10. "Sixth, when people start to rely on machines to communicate, genuine human relationships can be lost[40]. So relying on ChatGPT for conversations can be ethically questionable."
+11. "Ethical evaluation of ChatGPT technology can be made based on four components of moral competence: moral identity, moral sensitivity, moral judgment, and moral practice."
+12. "First, ChatGPT provides moral advice despite its lack of morality. In other words, ChatGPT's advice affects the user's moral judgment."
+13. "Second, users do not understand the information that ChatGPT generates or judge its accuracy or relevance."
+14. "Third, ChatGPT, a large-scale language model, is a statistical model, not an ethical reasoning[44]."
+
+```
    
 7. What any possible legal issues are
    
