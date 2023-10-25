@@ -50,9 +50,6 @@ conversations
 
 ChatGPT is a natural language processing (NLP) system developed by Open AI
 
-
-
-
 Deng, J. and Lin, Y., 2022. The benefits and challenges of ChatGPT: An overview. _Frontiers in Computing and Intelligent Systems_, _2_(2), pp.81-83.
 ```
 
