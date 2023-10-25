@@ -104,6 +104,8 @@ Deng, J. and Lin, Y., 2022. The benefits and challenges of ChatGPT: An overview.
 7. **Generative AI Going Mainstream**:
 - "Not by chance, 2022 has been dubbed the year of generative AI. This was the year when powerful AI models and tools became widespread among the general public... Once generative AI models have been widespread to the public, every individual user or organization had the possibility to experiment with and appreciate its potential, even without being a data scientist or ML engineer."
 
+GPT-3: A set of models that can understand and generate natural language. GPT-3 has been trained on a large corpus of text and can perform a wide range of natural language tasks such as language translation, summarization, question-answering, and more. Here is an example:
+
 Valentina Alto - Modern Generative AI with ChatGPT
 ```
    
