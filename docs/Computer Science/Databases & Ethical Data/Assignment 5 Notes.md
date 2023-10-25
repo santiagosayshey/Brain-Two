@@ -83,27 +83,26 @@ Deng, J. and Lin, Y., 2022. The benefits and challenges of ChatGPT: An overview.
 3. A short history of large language models
    
 ```
-1. **Early Beginnings**:
-    
-    - "The research in this field can be traced back decades ago. We can mark the beginning of research in the field of generative AI in the 1960s, when Joseph Weizenbaum developed the chatbot ELIZA, one of the first examples of an NLP system."
-2. **Challenges and ANNs**:
-    
-    - "However, we know that modern generative AI is a subfield of DL and, although the first Artificial Neural Networks (ANNs) were first introduced in the 1940s, researchers faced several challenges, including limited computing power and a lack of understanding of the biological basis of the brain."
+1. **Early Beginnings**:  
+- "The research in this field can be traced back decades ago. We can mark the beginning of research in the field of generative AI in the 1960s, when Joseph Weizenbaum developed the chatbot ELIZA, one of the first examples of an NLP system."
+  
+2. **Challenges and ANNs**:   
+- "However, we know that modern generative AI is a subfield of DL and, although the first Artificial Neural Networks (ANNs) were first introduced in the 1940s, researchers faced several challenges, including limited computing power and a lack of understanding of the biological basis of the brain."
+  
 3. **Backpropagation and Training**:
+- "By the 1980s... the advent of the backpropagation algorithm facilitated the training phase of ANNs. Indeed, before the advent of backpropagation, training Neural Networks was difficult because it was not possible to efficiently calculate the gradient of the error with respect to the parameters or weights associated with each neuron, while backpropagation made it possible to automate the training process and enabled the application of ANNs."
+  
+4. **Generative Models - VAEs**:  
+- "In 2013, Kingma and Welling introduced a new model architecture in their paper Auto-Encoding Variational Bayes, called Variational Autoencoders (VAEs). VAEs are generative models that are based on the concept of variational inference... The key innovation of VAEs is the introduction of a probabilistic interpretation of the latent space."
+  
+5. **Introduction of GANs**:  
+- "Only 1 year later, GANs were introduced by Ian Goodfellow... During training, the generator tries to create data that can fool the discriminator into thinking it’s real, while the discriminator tries to become better at distinguishing between real and fake data."
+1. **Transformers and Large Language Models**:
     
-    - "By the 1980s... the advent of the backpropagation algorithm facilitated the training phase of ANNs. Indeed, before the advent of backpropagation, training Neural Networks was difficult because it was not possible to efficiently calculate the gradient of the error with respect to the parameters or weights associated with each neuron, while backpropagation made it possible to automate the training process and enabled the application of ANNs."
-4. **Generative Models - VAEs**:
+- "Another great milestone was achieved in 2017 when a new architecture, called Transformer, was introduced by Google researchers... Transformers were indeed the foundations for massive language models called Bidirectional Encoder Representations from Transformers (BERT), introduced by Google in 2018, and they soon become the baseline in NLP experiments. Transformers are also the foundations of all the Generative Pre-Trained (GPT) models introduced by OpenAI, including GPT-3, the model behind ChatGPT."
+1. **Generative AI Going Mainstream**:
     
-    - "In 2013, Kingma and Welling introduced a new model architecture in their paper Auto-Encoding Variational Bayes, called Variational Autoencoders (VAEs). VAEs are generative models that are based on the concept of variational inference... The key innovation of VAEs is the introduction of a probabilistic interpretation of the latent space."
-5. **Introduction of GANs**:
-    
-    - "Only 1 year later, GANs were introduced by Ian Goodfellow... During training, the generator tries to create data that can fool the discriminator into thinking it’s real, while the discriminator tries to become better at distinguishing between real and fake data."
-6. **Transformers and Large Language Models**:
-    
-    - "Another great milestone was achieved in 2017 when a new architecture, called Transformer, was introduced by Google researchers... Transformers were indeed the foundations for massive language models called Bidirectional Encoder Representations from Transformers (BERT), introduced by Google in 2018, and they soon become the baseline in NLP experiments. Transformers are also the foundations of all the Generative Pre-Trained (GPT) models introduced by OpenAI, including GPT-3, the model behind ChatGPT."
-7. **Generative AI Going Mainstream**:
-    
-    - "Not by chance, 2022 has been dubbed the year of generative AI. This was the year when powerful AI models and tools became widespread among the general public... Once generative AI models have been widespread to the public, every individual user or organization had the possibility to experiment with and appreciate its potential, even without being a data scientist or ML engineer."
+- "Not by chance, 2022 has been dubbed the year of generative AI. This was the year when powerful AI models and tools became widespread among the general public... Once generative AI models have been widespread to the public, every individual user or organization had the possibility to experiment with and appreciate its potential, even without being a data scientist or ML engineer."
 ```
    
 4. How ChatGPT was trained and where that data came from
