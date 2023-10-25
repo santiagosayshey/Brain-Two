@@ -159,6 +159,8 @@ Training Dataset:
 
 Concerns about Data Contamination:
 "A major methodological concern with language models pretrained on a broad swath of internet data, particularly large models with the capacity to memorize vast amounts of content, is potential contamination of downstream tasks by having their test or development sets inadvertently seen during pre-training."
+
+Brown, T., Mann, B., Ryder, N., Subbiah, M., Kaplan, J.D., Dhariwal, P., Neelakantan, A., Shyam, P., Sastry, G., Askell, A. and Agarwal, S., 2020. Language models are few-shot learners. _Advances in neural information processing systems_, _33_, pp.1877-1901.
 ```
 
 5. How ChatGPT stores its interaction data
