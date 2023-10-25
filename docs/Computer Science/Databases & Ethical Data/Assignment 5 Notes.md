@@ -11,7 +11,7 @@ https://www.esafety.gov.au/key-topics/esafety-guide/chatgpt-and-gpt-4
 ```
 
 ```
-a natural language processing (NLP) system developed by Open AI
+a natural language processing (NLP) system that can generate human-like conversation
 
 
 
