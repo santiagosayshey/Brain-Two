@@ -188,6 +188,7 @@ Moreover, the scraped data ChatGPT was trained on can be proprietary or copyrigh
 https://theconversation.com/chatgpt-is-a-data-privacy-nightmare-if-youve-ever-posted-online-you-ought-to-be-concerned-199283
 ```
 
+
 5. How ChatGPT stores its interaction data
    
 ```
@@ -247,6 +248,9 @@ It also collects information about users’ browsing activities over time and ac
 
 https://theconversation.com/chatgpt-is-a-data-privacy-nightmare-if-youve-ever-posted-online-you-ought-to-be-concerned-199283
 ```
+
+![](docs/Images/Pasted%20image%2020231026071820.png)
+
    
 6. What any ethical issues are
    
