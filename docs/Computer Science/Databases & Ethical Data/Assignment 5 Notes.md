@@ -160,6 +160,30 @@ Concerns about Data Contamination:
 Brown, T., Mann, B., Ryder, N., Subbiah, M., Kaplan, J.D., Dhariwal, P., Neelakantan, A., Shyam, P., Sastry, G., Askell, A. and Agarwal, S., 2020. Language models are few-shot learners. _Advances in neural information processing systems_, _33_, pp.1877-1901.
 ```
 
+```
+## 300 billion words. How many are yours?
+
+ChatGPT is underpinned by a large language model that requires massive amounts of data to function and improve. The more data the model is trained on, the better it gets at detecting patterns, anticipating what will come next and generating plausible text.
+
+OpenAI, the company behind ChatGPT, fed the tool some [300 billion words](https://www.sciencefocus.com/future-technology/gpt-3/) systematically scraped from the internet: books, articles, websites and posts – including personal information obtained without consent.
+
+If you’ve ever written a blog post or product review, or commented on an article online, there’s a good chance this information was consumed by ChatGPT.
+
+## So why is that an issue?
+
+The data collection used to train ChatGPT is problematic for several reasons.
+
+First, none of us were asked whether OpenAI could use our data. This is a clear violation of privacy, especially when data are sensitive and can be used to identify us, our family members, or our location.
+
+Even when data are publicly available their use can breach what we call [contextual integrity](https://digitalcommons.law.uw.edu/wlr/vol79/iss1/10/). This is a fundamental principle in legal discussions of privacy. It requires that individuals’ information is not revealed outside of the context in which it was originally produced.
+
+Also, OpenAI offers no procedures for individuals to check whether the company stores their personal information, or to request it be deleted. This is a guaranteed right in accordance with the European General Data Protection Regulation ([GDPR](https://gdpr-info.eu/art-17-gdpr/)) – although it’s still under debate whether ChatGPT is compliant [with GDPR requirements](https://blog.avast.com/chatgpt-data-use-legal).
+
+This “right to be forgotten” is particularly important in cases where the information is inaccurate or misleading, which seems to be a [regular occurrence](https://www.fastcompany.com/90833017/openai-chatgpt-accuracy-gpt-4) with ChatGPT.
+
+Moreover, the scraped data ChatGPT was trained on can be proprietary or copyrighted. For instance, when I prompted it, the tool produced the first few passages from Joseph Heller’s book Catch-22 – a copyrighted text.
+```
+
 5. How ChatGPT stores its interaction data
    
 ```
