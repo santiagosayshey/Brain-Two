@@ -137,7 +137,7 @@ ChatGPT is fine-tuned from a model in the GPT-3.5 series, which finished trainin
 https://openai.com/blog/chatgpt
 ```
 
-![](docs/Images/Pasted%20image%2020231026043005.png)
+![](docs/Images/ChatGPT_Diagram.svg)
 
 5. How ChatGPT stores its interaction data
    
