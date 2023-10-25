@@ -56,6 +56,9 @@ ChatGPT is a natural language processing (NLP) system developed by Open AI
 Deng, J. and Lin, Y., 2022. The benefits and challenges of ChatGPT: An overview. _Frontiers in Computing and Intelligent Systems_, _2_(2), pp.81-83.
 ```
 
+![](docs/Images/Pasted%20image%2020231026034402.png)
+
+
 2. What it does
    
 ```
@@ -89,6 +92,10 @@ Both models have been trained with huge amounts of data and use human feedback a
 ChatGPT is based on a deep learning model called GPT-3, which is trained on a large dataset of conversations.
 
 https://www.esafety.gov.au/key-topics/esafety-guide/chatgpt-and-gpt-4
+```
+
+```
+For example, a language model such as GPT-3, developed by OpenAI, can be trained on large amounts of text data and then used to generate new, coherent, and grammatically correct text in different languages (both in terms of input and output), as well as extracting relevant features from text such as keywords, topics, or full summaries.
 ```
 
 5. How ChatGPT stores its interaction data
