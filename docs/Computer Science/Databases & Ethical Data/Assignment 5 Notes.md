@@ -23,7 +23,7 @@ ChatGPT and GPT-4 are used for: content sharing, encrypted, gaming, in-app purch
 https://www.esafety.gov.au/key-topics/esafety-guide/chatgpt-and-gpt-4
 ```
    
-3. A short history of large language models|
+3. A short history of large language models
    
    
    
@@ -56,3 +56,10 @@ https://www.esafety.gov.au/key-topics/esafety-guide/chatgpt-and-gpt-4
 ```
    
 8. A short set of guidelines for best practice when using ChatGPT
+
+```
+Manage your data
+Outlines ways to manage your data, including turning off your chat history and choosing which conversations can be used to train AI models.
+
+https://www.esafety.gov.au/key-topics/esafety-guide/chatgpt-and-gpt-4
+```
