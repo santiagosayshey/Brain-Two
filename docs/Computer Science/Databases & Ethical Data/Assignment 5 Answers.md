@@ -2,7 +2,7 @@
 
 To answer this question, it's essential to first define a few key ideas related to Artificial Intelligence (AI).
 
-***Artificial Intelligence*** is a subset of Computer Science that focuses on replicating human intelligence in machines. This is achieved through some sort of engineered system that is designed to learn from various inputs and make decisions based on their interpretation of these inputs.
+***Artificial Intelligence*** is a subset of Computer Science that focuses on replicating human intelligence in machines. This is achieved through an engineered system that is designed to learn from various inputs and make decisions based on their interpretation of these inputs.
 
 _**Machine Learning**_, a branch of AI, uses algorithms to learn from data and make predictions based on that data.
 
