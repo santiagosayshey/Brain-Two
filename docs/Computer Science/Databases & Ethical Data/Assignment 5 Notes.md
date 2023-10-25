@@ -18,6 +18,8 @@ Both ChatGPT and GPT-4 can chat with you, answer follow-up questions, challenge 
 
 ChatGPT can only provide answers based on the information it has been trained with and does not have the ability to search the internet for new information. However, GPT-4 (the latest language model from OpenAI) can be connected to the internet via plugins, giving it the power to search for information and datasets online
 
+ChatGPT and GPT-4 are used for: content sharing, encrypted, gaming, in-app purchasing, location sharing, messaging/online chat, screen capture and voice chat.
+
 https://www.esafety.gov.au/key-topics/esafety-guide/chatgpt-and-gpt-4
 ```
    
