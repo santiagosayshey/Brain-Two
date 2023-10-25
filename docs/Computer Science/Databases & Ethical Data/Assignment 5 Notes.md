@@ -370,6 +370,16 @@ Misinformation & Propaganda:
 
 Deng, J. and Lin, Y., 2022. The benefits and challenges of ChatGPT: An overview. _Frontiers in Computing and Intelligent Systems_, _2_(2), pp.81-83.
 ```
+
+```
+1. **Data Privacy and User Information**: Concerns have been raised about the extent to which ChatGPT and similar models store or recall personal data. This has implications for data privacy laws such as the General Data Protection Regulation (GDPR) in the EU.
+    
+2. **Misinformation**: Given that ChatGPT can generate text based on its training data, there's potential for it to spread misinformation, either intentionally or unintentionally. This can have legal ramifications, especially if it leads to real-world harm.
+    
+3. **Intellectual Property**: As AI-generated content becomes more commonplace, there will be questions about who owns the rights to this content. Can an AI model infringe on copyright? Who owns the rights to AI-generated content: the user, the developers, or no one?
+    
+4. **Impersonation and Identity**: Advanced AI models can, in theory, impersonate a certain writing style or generate text that seems like it's coming from a specific individual. This brings up legal concerns about impersonation, fraud, and identity theft.
+```
    
 8. A short set of guidelines for best practice when using ChatGPT
 
