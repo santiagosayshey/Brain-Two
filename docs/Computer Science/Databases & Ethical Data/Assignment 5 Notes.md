@@ -106,6 +106,8 @@ Deng, J. and Lin, Y., 2022. The benefits and challenges of ChatGPT: An overview.
 
 GPT-3: A set of models that can understand and generate natural language. GPT-3 has been trained on a large corpus of text and can perform a wide range of natural language tasks such as language translation, summarization, question-answering, and more. Here is an example:
 
+GPT-3.5: This is a newer set of models that build upon GPT-3 and aim to improve its natural language understanding and generation abilities. GPT-3.5 models can perform complex natural language tasks such as composing coherent paragraphs or essays, generating poetry, and even creating computer programs in natural language. GPT-3.5 is the model behind ChatGPT and, on top of its API, it is also consumable within the Playground with a dedicated UI:
+
 Valentina Alto - Modern Generative AI with ChatGPT
 ```
    
