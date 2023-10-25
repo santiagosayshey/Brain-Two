@@ -20,7 +20,14 @@ Machine learning are the patterns derived from training data using machine
 learning algorithms, which can be applied to new data for prediction or
 decision-making purposes.
 
+Generative AI models produce novel content such as text, images, audio, video
+and code in response to prompts.
+A large language model (LLM) is a type of generative AI that specialises in the
+generation of human-like text.
+Multimodal Foundation Model (MfM) is a type of generative AI that can
+process and output multiple data types (e.g. text, images, audio)
 
+https://www.esafety.gov.au/sites/default/files/2023-08/Generative%20AI%20-%20Position%20Statement%20-%20August%202023%20.pdf
 ```
 
 ```
