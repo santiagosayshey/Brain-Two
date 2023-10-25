@@ -11,6 +11,19 @@ https://www.esafety.gov.au/key-topics/esafety-guide/chatgpt-and-gpt-4
 ```
 
 ```
+Artificial intelligence (AI) refers to an engineered system that generates
+predictive outputs such as content, forecasts, recommendations, or decisions
+for a given set of human-defined objectives or parameters without explicit
+programming. AI systems are designed to operate with varying levels of
+automation.
+Machine learning are the patterns derived from training data using machine
+learning algorithms, which can be applied to new data for prediction or
+decision-making purposes.
+
+
+```
+
+```
 AI is a branch of computer science that focuses on creating
 intelligent machines that can think and act like humans. AI
 systems are designed to learn from their environment and
