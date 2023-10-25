@@ -1,3 +1,3 @@
 > *What is ChatGPT?*
 
-ChatGPT is a large language model built by OpenAI to approach Natural Language Processing tasks. 
+To answer this question, it's important to first define a few key ideas in the realm of Artificial Intelligence (AI). AI 
