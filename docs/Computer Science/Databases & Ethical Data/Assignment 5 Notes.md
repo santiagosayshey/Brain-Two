@@ -175,12 +175,14 @@ User Content: When you use our Services, we collect Personal Information that is
 
 Use of Personal Information
 
-    We may use Personal Information for the following purposes:
+We may use Personal Information for the following purposes:
 
-    To provide, administer, maintain and/or analyze the Services;
-    To improve our Services and conduct research;
-    Aggregated or De-Identified Information. We may aggregate or de-identify Personal Information so that it may no longer be used to identify you and use such information to analyze the effectiveness of our Services, to improve and add features to our Services, to conduct research and for other similar purposes. In addition, from time to time, we may analyze the general behavior and characteristics of users of our Services and share aggregated information like general user statistics with third parties, publish such aggregated information or make such aggregated information generally available.
-    As noted above, we may use Content you provide us to improve our Services, for example to train the models that power ChatGPT. See here for instructions on how you can opt out of our use of your Content to train our models.
+To provide, administer, maintain and/or analyze the Services;
+To improve our Services and conduct research;
+Aggregated or De-Identified Information. We may aggregate or de-identify Personal Information so that it may no longer be used to identify you and use such information to analyze the effectiveness of our Services, to improve and add features to our Services, to conduct research and for other similar purposes. In addition, from time to time, we may analyze the general behavior and characteristics of users of our Services and share aggregated information like general user statistics with third parties, publish such aggregated information or make such aggregated information generally available.
+As noted above, we may use Content you provide us to improve our Services, for example to train the models that power ChatGPT. See here for instructions on how you can opt out of our use of your Content to train our models.
+
+https://openai.com/policies/privacy-policy
 ```
    
 6. What any ethical issues are
