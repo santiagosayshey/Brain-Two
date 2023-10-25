@@ -6,7 +6,7 @@ To answer this question, it's important to first define a few key ideas related 
 
 ***Machine Learning*** is a subset of AI that specifically utilises algorithms to learn from data and make predictions based on that data.
 
-_**Natural Language Processing (NLP)**_ is a branch of AI that focuses on the interaction between computers and human language. It plays a crucial role in tasks like language understanding and generation.
+_**Natural Language Processing (NLP)**_ is a subset of Machine Learning that focuses on the interaction between computers and human language. It plays a crucial role in tasks like language understanding and generation.
 
 _**Large Language Models (LLMs)**_ are a type of generative AI that are specifically designed to process and generate human-like text to solve NLP problems. 
 
