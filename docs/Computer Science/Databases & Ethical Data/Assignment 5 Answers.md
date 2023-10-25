@@ -15,4 +15,5 @@ _**Large Language Models (LLMs)**_ are a type of generative AI that are specific
 
 
 
-![](docs/Images/Image%201.1.png)
+
+
