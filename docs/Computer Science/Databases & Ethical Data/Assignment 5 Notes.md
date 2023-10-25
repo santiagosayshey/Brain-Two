@@ -55,7 +55,58 @@ Deng, J. and Lin, Y., 2022. The benefits and challenges of ChatGPT: An overview.
 
 ![](docs/Images/Pasted%20image%2020231026034402.png)
 
+```
+AI is an umbrella term and broad field that refers to the creation of intelligent systems
+capable of performing tasks that normally require human intelligence, such as learning, problem
+solving, and decision making[8]. Artificial intelligence is the intelligence exhibited by artificial
+entities to solve complex problems, and these systems are generally considered computers or
+machines. Intelligence is the ability to think, imagine, remember, understand, recognize
+patterns, make choices to adapt to change, and learn from experience. Artificial intelligence
+that makes computers behave more like humans and in much less time than humans. That is
+why it is called artificial intelligence[9]. AI algorithms are used in various fields because they
+can process vast amounts of data, identify patterns, and make predictions beyond the
+capabilities of human thinking[10].
+ChatGPT is a powerful conversational AI system using deep learning [11]. It is one of the AI-
+based conversational programs that can generate human-like responses[10]. Until now,
+conversational AI has often misunderstood what people say. Humans do not have perfect
+command of grammar and spelling, and due to the nature of language, the difference in
+interpretation is very wide, so there are many cases in which a person gives a written answer
+or cannot answer at all, so its utilization is extremely limited except for short answers [12].
+3
+J-INSTITUTE.com
+However, ChatGPT did a lot of learning in the language part, applied the best AI, memorized
+the context of the speech and previous conversations, and reached the level of understanding
+even if it was spoken roughly like a conversation. It has the ability to not only generate natural
+language responses from questions posed in natural language, but also predict the direction of
+the current conversation[13]. In particular, it has the ability to provide personalized dialogue
+and language responses based on the different conversation styles of individual users [14].
+ChatGPT can learn and analyze massive amounts of linguistic data from various sourc es and
+generate output in a human-like way. Unlike conventional AI, which simply analyzes objects and
+identifies patterns, ChatGPT can create new and unique objects and effects, making it a
+powerful generative AI[15].
+The working process of ChatGPT can be divided into two types, query and response, as shown
+in <Figure 1>[16]. The device behind ChatGPT is an artificial intelligence supercomputer. The
+computer is trained on a large data set with numerous parameters. This supercomputer is
+trained unsupervised to identify patterns in input data by determining the statistical structure
+within the data. In general, users can write queries to ChatGPT. This query is sent directly to the
+supercomputer. Queries are now processed on supercomputers. The output generatio n circuitry
+generates possible outputs and then fine-tunes the output data. Then instruct ChatGPT to
+respond. Finally, ChatGPT, a conversational interface, interacts with humans by providing
+human-like responses.
+Helberger(2023) argues that ChatGPT, a generative AI system, differs from ‘traditional’ AI
+systems in at least two important ways: dynamic context and scale of use[17]. Generative AI
+systems are not built for specific situations or conditions of use, and their openness and ease
+of control allow them to be used on an unprecedented scale. The output of generative AI
+systems is virtually indistinguishable from human-generated content, as they are trained using
+almost anything available on the web[18]. It can also be interpreted as media(text, audio, video)
+by people with common communication skills, significantly lowering the threshold for who can
+be a user. And they can be used for a certain amount of versatility because of the sheer volume
+of data extraction that goes into training. ChatGPT alone contains 300 billion words, spanning
+all kinds of content available on the Internet, from personal data to policy documents, news
+reports, literary texts and ar
 
+https://j-institute.org/wp-content/uploads/2023/08/Robotics-AI-Ethics8-2023.pdf
+```
 2. What it does
    
 ```
