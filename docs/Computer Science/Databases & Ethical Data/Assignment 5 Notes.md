@@ -82,6 +82,14 @@ ChatGPT and GPT-4 have certain limitations, as OpenAI makes clear, including som
 
 https://www.esafety.gov.au/key-topics/esafety-guide/chatgpt-and-gpt-4
 ```
+
+```
+Biases & Limitations:
+"Another limitation is that ChatGPT is trained on a large dataset of human language, and as a result it may produce responses that contain biased or offensive language."
+"One major limitation is that it is only able to generate text based on the input provided to it, and it does not have access to external information or the ability to browse the internet."
+
+Deng, J. and Lin, Y., 2022. The benefits and challenges of ChatGPT: An overview. _Frontiers in Computing and Intelligent Systems_, _2_(2), pp.81-83.
+```
    
 7. What any possible legal issues are
    
