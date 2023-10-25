@@ -69,5 +69,9 @@ https://www.esafety.gov.au/key-topics/esafety-guide/chatgpt-and-gpt-4
 - Data masking: Replace personal information in the text, such as email addresses or phone numbers, with fictional data that retains the same format.
 - Include only relevant data: Choose only information that is relevant.
 
+verify and edit AI generated content to ensure accuracy and suitability of the output
+
+Writing a clear and effective prompt can greatly improve the quality of output from generative AI tools, while also reducing errors or irrelevant responses. Provide clear roles and examples when creating a prompt, which involves defining a character and role for the AI tool, giving a clear task, providing examples and additional guidelines, specifying the type of output required, and including any extra phrases to improve the prompt. These steps help the AI model understand the task more accurately and produce results that meet the required specifications.
+
 https://education.nsw.gov.au/teaching-and-learning/education-for-a-changing-world/guidelines-regarding-use-of-generative-ai-chatgpt
 ```
