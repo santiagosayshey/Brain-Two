@@ -182,6 +182,8 @@ Also, OpenAI offers no procedures for individuals to check whether the company s
 This “right to be forgotten” is particularly important in cases where the information is inaccurate or misleading, which seems to be a [regular occurrence](https://www.fastcompany.com/90833017/openai-chatgpt-accuracy-gpt-4) with ChatGPT.
 
 Moreover, the scraped data ChatGPT was trained on can be proprietary or copyrighted. For instance, when I prompted it, the tool produced the first few passages from Joseph Heller’s book Catch-22 – a copyrighted text.
+
+https://theconversation.com/chatgpt-is-a-data-privacy-nightmare-if-youve-ever-posted-online-you-ought-to-be-concerned-199283
 ```
 
 5. How ChatGPT stores its interaction data
@@ -222,6 +224,26 @@ We may use Personal Information for the following purposes:
 
 As noted above, we may use Content you provide us to improve our Services, for example to train the models that power ChatGPT. See [here](https://help.openai.com/en/articles/5722486-how-your-data-is-used-to-improve-model-performance) for instructions on how you can opt out of our use of your Content to train our models.
 https://openai.com/policies/privacy-policy
+```
+
+```
+Finally, OpenAI did not pay for the data it scraped from the internet. The individuals, website owners and companies that produced it were not compensated. This is particularly noteworthy considering OpenAI was recently [valued at US$29 billion](https://www.nasdaq.com/articles/microsofts-%2410-billion-investment-in-openai%3A-how-it-could-impact-the-ai-industry-and-stock), more than double its [value in 2021](https://www.forbes.com/sites/nicholasreimann/2023/01/05/chatgpt-creator-openai-discussing-offer-valuing-company-at-29-billion-report-says/?sh=f2ca73b11e04).
+
+OpenAI has also just [announced ChatGPT Plus](https://openai.com/blog/chatgpt-plus/), a paid subscription plan that will offer customers ongoing access to the tool, faster response times and priority access to new features. This plan will contribute to expected [revenue of $1 billion by 2024](https://www.reuters.com/business/chatgpt-owner-openai-projects-1-billion-revenue-by-2024-sources-2022-12-15/).
+
+None of this would have been possible without data – our data – collected and used without our permission.
+
+## A flimsy privacy policy
+
+Another privacy risk involves the data provided to ChatGPT in the form of user prompts. When we ask the tool to answer questions or perform tasks, we may inadvertently hand over [sensitive information](https://www.forbes.com/sites/lanceeliot/2023/01/27/generative-ai-chatgpt-can-disturbingly-gobble-up-your-private-and-confidential-data-forewarns-ai-ethics-and-ai-law/?sh=5d7dd7ce7fdb) and put it in the public domain.
+
+For instance, an attorney may prompt the tool to review a draft divorce agreement, or a programmer may ask it to check a piece of code. The agreement and code, in addition to the outputted essays, are now part of ChatGPT’s database. This means they can be used to further train the tool, and be included in responses to other people’s prompts.
+
+Beyond this, OpenAI gathers a broad scope of other user information. According to the company’s [privacy policy](https://openai.com/privacy/), it collects users’ IP address, browser type and settings, and data on users’ interactions with the site – including the type of content users engage with, features they use and actions they take.
+
+It also collects information about users’ browsing activities over time and across websites. Alarmingly, OpenAI states it may [share users’ personal information](https://openai.com/privacy/) with unspecified third parties, without informing them, to meet their business objectives.
+
+https://theconversation.com/chatgpt-is-a-data-privacy-nightmare-if-youve-ever-posted-online-you-ought-to-be-concerned-199283
 ```
    
 6. What any ethical issues are
