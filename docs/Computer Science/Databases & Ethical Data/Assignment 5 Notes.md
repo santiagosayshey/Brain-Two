@@ -132,8 +132,12 @@ We trained this model using Reinforcement Learning from Human Feedback (RLHF), u
 
 To create a reward model for reinforcement learning, we needed to collect comparison data, which consisted of two or more model responses ranked by quality. To collect this data, we took conversations that AI trainers had with the chatbot. We randomly selected a model-written message, sampled several alternative completions, and had AI trainers rank them. Using these reward models, we can fine-tune the model using Proximal Policy Optimization. We performed several iterations of this process.
 
+ChatGPT is fine-tuned from a model in the GPT-3.5 series, which finished training in early 2022. You can learn more about the 3.5 series [here](https://beta.openai.com/docs/model-index-for-researchers). ChatGPT and GPT-3.5 were trained on an Azure AI supercomputing infrastructure.
+
 https://openai.com/blog/chatgpt
 ```
+
+![](docs/Images/Pasted%20image%2020231026043005.png)
 
 5. How ChatGPT stores its interaction data
    
