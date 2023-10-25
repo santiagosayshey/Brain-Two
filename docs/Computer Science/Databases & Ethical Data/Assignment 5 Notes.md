@@ -10,6 +10,9 @@ ChatGPT and GPT-4 are also available as APIs or application programming interfac
 https://www.esafety.gov.au/key-topics/esafety-guide/chatgpt-and-gpt-4
 ```
 
+```
+Deng J, Lin Y. The Benefits and Challenges of ChatGPT: An Overview. Front Comput Intelligent Syst. 2022;2(2):81–3. [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Front+Comput+Intelligent+Syst&title=The+Benefits+and+Challenges+of+ChatGPT:+An+Overview&author=J+Deng&author=Y+Lin&volume=2&issue=2&publication_year=2022&pages=81-3&)]
+```
 
 2. What it does
    
