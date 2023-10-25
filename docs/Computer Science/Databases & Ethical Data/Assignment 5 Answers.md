@@ -13,3 +13,6 @@ _**Large Language Models (LLMs)**_ are a type of generative AI that are specific
 ***ChatGPT*** is an ***LLM*** that aims to understand and generate text in a conversational manner.
 
 
+
+
+![](docs/Images/Image%201.1.png)
