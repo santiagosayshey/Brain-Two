@@ -14,6 +14,8 @@ https://www.esafety.gov.au/key-topics/esafety-guide/chatgpt-and-gpt-4
 ```
 Both ChatGPT and GPT-4 can chat with you, answer follow-up questions, challenge incorrect information and perform tasks such as writing text and generating code and other outputs.
 
+ChatGPT can only provide answers based on the information it has been trained with and does not have the ability to search the internet for new information. However, GPT-4 (the latest language model from OpenAI) can be connected to the internet via plugins, giving it the power to search for information and datasets online
+
 https://www.esafety.gov.au/key-topics/esafety-guide/chatgpt-and-gpt-4
 ```
    
@@ -39,6 +41,10 @@ https://www.esafety.gov.au/key-topics/esafety-guide/chatgpt-and-gpt-4
    
 7. What any possible legal issues are
    
+```
+They may also infringe intellectual copyright by incorporating content without permission and not attributing content.
 
+https://www.esafety.gov.au/key-topics/esafety-guide/chatgpt-and-gpt-4
+```
    
 8. A short set of guidelines for best practice when using ChatGPT
