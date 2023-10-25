@@ -97,12 +97,14 @@ Deng, J. and Lin, Y., 2022. The benefits and challenges of ChatGPT: An overview.
   
 5. **Introduction of GANs**:  
 - "Only 1 year later, GANs were introduced by Ian Goodfellow... During training, the generator tries to create data that can fool the discriminator into thinking it’s real, while the discriminator tries to become better at distinguishing between real and fake data."
-1. **Transformers and Large Language Models**:
-    
+  
+6. **Transformers and Large Language Models**:   
 - "Another great milestone was achieved in 2017 when a new architecture, called Transformer, was introduced by Google researchers... Transformers were indeed the foundations for massive language models called Bidirectional Encoder Representations from Transformers (BERT), introduced by Google in 2018, and they soon become the baseline in NLP experiments. Transformers are also the foundations of all the Generative Pre-Trained (GPT) models introduced by OpenAI, including GPT-3, the model behind ChatGPT."
-1. **Generative AI Going Mainstream**:
-    
+  
+7. **Generative AI Going Mainstream**:
 - "Not by chance, 2022 has been dubbed the year of generative AI. This was the year when powerful AI models and tools became widespread among the general public... Once generative AI models have been widespread to the public, every individual user or organization had the possibility to experiment with and appreciate its potential, even without being a data scientist or ML engineer."
+
+Valentina Alto - Modern Generative AI with ChatGPT
 ```
    
 4. How ChatGPT was trained and where that data came from
