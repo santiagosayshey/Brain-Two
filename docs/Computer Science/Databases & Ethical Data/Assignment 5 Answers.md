@@ -2,9 +2,9 @@
 
 To answer this question, it's essential to first define a few key ideas related to Artificial Intelligence (AI).
 
-***Artificial Intelligence*** is a branch of Computer Science focused on replicating human intelligence in machines. This is achieved through some sort of engineered system that is designed to learn from various inputs and make decisions based on their interpretation of these inputs.
+***Artificial Intelligence*** is a subset of Computer Science that focuses on replicating human intelligence in machines. This is achieved through some sort of engineered system that is designed to learn from various inputs and make decisions based on their interpretation of these inputs.
 
-_**Machine Learning**_, another branch of AI, uses algorithms to learn from data and make predictions based on that data.
+_**Machine Learning**_, a branch of AI, uses algorithms to learn from data and make predictions based on that data.
 
 _**Natural Language Processing (NLP)**_ is another branch of AI that focuses on the interaction between computers and human language. Many of its tasks, such as language comprehension and generation, often harness machine learning techniques to enhance their capabilities.
 
