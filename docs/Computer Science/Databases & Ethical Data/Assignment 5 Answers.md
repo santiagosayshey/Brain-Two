@@ -10,5 +10,5 @@ _**Natural Language Processing (NLP)**_ is a branch of AI that focuses on the in
 
 _**Large Language Models (LLMs)**_ are a type of generative AI that are specifically designed to process and generate human-like text to solve NLP problems. 
 
-***ChatGPT*** is an 
+***ChatGPT*** is an ***LLM*** that uses ***Machine Learning*** to ...
 
