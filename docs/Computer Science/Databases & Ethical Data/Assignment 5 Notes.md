@@ -5,6 +5,8 @@ ChatGPT and GPT-4 are artificial intelligence (AI) chatbots or large language mo
 
 GPT stands for ‘Generative Pre-trained Transformer’, which refers to how these bots process requests and formulate responses.
 
+ChatGPT and GPT-4 are also available as APIs or application programming interfaces that can be integrated into other apps and online services.
+
 https://www.esafety.gov.au/key-topics/esafety-guide/chatgpt-and-gpt-4
 ```
 
@@ -37,7 +39,11 @@ https://www.esafety.gov.au/key-topics/esafety-guide/chatgpt-and-gpt-4
    
 6. What any ethical issues are
    
+```
+ChatGPT and GPT-4 have certain limitations, as OpenAI makes clear, including sometimes writing answers that sound believable but are factually inaccurate, giving biased responses and the risk that they may action inappropriate or harmful requests.
 
+https://www.esafety.gov.au/key-topics/esafety-guide/chatgpt-and-gpt-4
+```
    
 7. What any possible legal issues are
    
