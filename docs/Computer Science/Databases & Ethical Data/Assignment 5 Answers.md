@@ -49,8 +49,12 @@ ChatGPT's training followed a two-step process: pre-training and fine-tuning.
 
 **1. Pre-training**:
 
-- ChatGPT's foundational knowledge is derived from a vast and varied dataset during its pre-training phase. This process is described in detail in "Language models are few-shot learners" by Brown et al.
-- Major datasets include the expansive Common Crawl, supplemented with high-quality sources like an extended version of the WebText, Books1 and Books2 corpora, and English Wikipedia. This phase aimed to imbue the model with a broad understanding of language and world knowledge.
+- ChatGPT's foundational knowledge is built from a large and diverse collection of texts. Key among these sources is the Common Crawl dataset, which holds close to a trillion words.
+- This data was further refined by:
+    - Filtering it to match high-quality reference materials.
+    - Removing redundant information to ensure the model didn't over-learn from repeated content.
+    - Incorporating additional top-tier datasets to enhance the richness of the training material.
+- Specifically, OpenAI added data scraped from various internet sources over extended periods, like the expanded WebText dataset, as well as content from two large internet-based book collections (Books1 and Books2) and the English Wikipedia.
 
 **2. Fine-tuning**:
 
