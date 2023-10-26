@@ -92,7 +92,7 @@ OpenAI's approach to storing ChatGPT interaction data has raised concerns in the
 
 **2. Biases and Discrimination:**
 - ChatGPT can produce biased or offensive responses based on its training data.
-- AI models like ChatGPT can inadvertently learn from and propagate historical biases, leading to potential discrimination or reinforcement of societal stereotypes.
+- ChatGPT can inadvertently learn from and propagate historical biases, leading to potential discrimination or reinforcement of stereotypes.
 
 **3. Intellectual and Academic Integrity:**
 - There's a potential for plagiarism, especially in higher education assessments.
