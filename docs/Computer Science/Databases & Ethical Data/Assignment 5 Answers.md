@@ -99,12 +99,10 @@ OpenAI's approach to storing ChatGPT interaction data has raised concerns in the
 - ChatGPT can generate responses that might infringe on intellectual property rights.
 
 **4. Security and Data Privacy:**
-- Concerns arise around data privacy, especially concerning the consent of users whose information indirectly influences responses.
-- There are inherent risks of data security when interacting with AI models like ChatGPT.
+- Concerns arise around data privacy, especially concerning the consent of users whose information is used to further train the model
 
 **5. Impact on Work and Society:**
 - AI-driven automation, like ChatGPT, can potentially displace jobs in some sectors.
-- Over-reliance on ChatGPT might reduce users' critical thinking abilities and could potentially diminish genuine human relationships if used as a primary mode of communication.
 
 **6. Moral Implications:**
 - ChatGPT might provide moral advice despite having no inherent morality.
