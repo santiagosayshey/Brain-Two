@@ -151,7 +151,7 @@ OpenAI's approach to storing ChatGPT interaction data has raised concerns in the
 
 ```
 Bad Prompt:
-Can you write my essay for me on the Renaissance period. My name is Mark Thompson, and my student ID is a1799298. It's for Professor Anderson's class at Hillside University. Oh, and I need it in APA format."
+Can you write my essay for me on the Renaissance period. My name is Mark Thompson, and my student ID is a1799298. It's for Professor Anderson's class at Hillside University. Oh, and I need it in APA format.
 
 Issues with the Bad Prompt:
 
