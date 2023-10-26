@@ -91,24 +91,19 @@ OpenAI's approach to storing ChatGPT interaction data has raised concerns in the
 - ChatGPT can produce biased or offensive responses based on its training data. For instance, it might produce responses that unintentionally align with criminal intent.
 - ChatGPT can inadvertently learn from and propagate historical biases, leading to potential discrimination or reinforcement of stereotypes when addressing issues related to crime and psychology.
 
-**3. Intellectual and Academic Integrity:**
+**3. Academic Integrity:**
 - There's a potential for plagiarism, especially in higher education assessments.
-- ChatGPT can inadvertently generate responses that might infringe on intellectual property rights
 
 **4. Security and Data Privacy:**
-- Concerns about how ChatGPT handles personal data, with implications for data privacy laws worldwide. For instance, the Italian Data Protection Authority has taken serious note of escalating privacy concerns.
+- Concerns about how ChatGPT handles personal data, with implications for data privacy laws worldwide. For instance, the Italian Data Protection Authority has taken serious note of escalating privacy concerns and have outright banned the use of it
 
 **5. Impact on Work and Society:**
 - AI-driven automation, like ChatGPT, can potentially displace jobs in some sectors. However, it's also a tool that criminals might leverage to their advantage, impacting society's safety.
 
-**6. Moral Implications:**
-- ChatGPT might provide moral advice related to crime or criminal psychology, despite having no inherent morality.
-- The ethical evaluation of AI technologies like ChatGPT is influenced by the moral competence of the developers and users, especially when addressing delicate issues like criminal intent.
-
 > ***Legal Issues with ChatGPT***
 
 **1. Intellectual Property:**
-- ChatGPT might incorporate content without permission, potentially infringing on intellectual copyrights. For example, referencing articles or books without accurate citations or direct access to the actual content.
+- ChatGPT might incorporate content without permission, potentially infringing on intellectual copyrights.
 
 **2. Security Concerns:**
 - The potential risk of adversarial attacks where malicious actors manipulate the model to produce harmful outputs, which might be a concern for law enforcement agencies.
