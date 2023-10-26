@@ -49,8 +49,7 @@ ChatGPT's training followed a two-step process: pre-training and fine-tuning.
 
 **1. Pre-training**:
 
-- ChatGPT's foundational knowledge comes from pre-training on a diverse and large dataset, mirroring the methods outlined in "Language models are few-shot learners" by Brown et al. ([RWC+19]).
-- The architecture and model are similar to GPT-2, featuring modifications for more effective processing, like alternating attention patterns in the transformer layers.
+- ChatGPT's foundational knowledge is derived from a vast and varied dataset during its pre-training phase. This process is described in detail in "Language models are few-shot learners" by Brown et al.
 - Major datasets include the expansive Common Crawl, supplemented with high-quality sources like an extended version of the WebText, Books1 and Books2 corpora, and English Wikipedia. This phase aimed to imbue the model with a broad understanding of language and world knowledge.
 
 **2. Fine-tuning**:
