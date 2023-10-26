@@ -145,12 +145,11 @@ OpenAI's approach to storing ChatGPT interaction data has raised concerns in the
     - Always verify and edit AI-generated content to ensure the accuracy and suitability of the output.
     - **Cross-Verification**: Always cross-check the information provided by ChatGPT with reputable sources like research articles, government fact sheets, or other authoritative references to ensure its validity.
 
-#### **Ensuring Privacy and Safety**
-
+- **Ensuring Privacy and Safety**
 1. **Understanding Data Usage**:
-    - OpenAI utilizes the content users provide to enhance its services, particularly to train the models behind ChatGPT.
+    - OpenAI utilises the content users provide to enhance its services, particularly to train the models behind ChatGPT.
     - Users should be aware of their rights and choices in this context. Specifically, OpenAI provides an option to opt out of allowing your content to be used for model training.
-    - **Action Step**: Review OpenAI's Privacy Policy and familiarize yourself with the details. For direct instructions on how to opt out of OpenAI using your content for training purposes, refer to [this link](https://help.openai.com/en/articles/5722486-how-your-data-is-used-to-improve-model-performance).
+
 2. **Data Anonymization**:
     - Before inputting any text, alter personal details in a manner that they can't be linked back to an individual.
 
