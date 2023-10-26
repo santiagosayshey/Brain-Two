@@ -81,8 +81,6 @@ OpenAI's approach to storing ChatGPT interaction data has raised concerns in the
 
 - **Content Use Risk**: Interactions, like reviewing legal documents or code, could unintentionally be added to ChatGPT’s database. As OpenAI mentions, content users provide can be used to improve their services, potentially influencing other users' experiences. However, they do offer an [opt-out](https://help.openai.com/en/articles/5722486-how-your-data-is-used-to-improve-model-performance) for those who don't want their content used to train the model.
 
-**Apologies for the oversight. Let me restructure the information without including source references.
-
 > ***Ethical Issues with ChatGPT***
 
 **1. Accuracy and Trustworthiness:**
