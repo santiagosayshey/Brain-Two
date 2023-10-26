@@ -81,3 +81,4 @@ OpenAI's approach to storing ChatGPT interaction data has raised concerns in the
 - **Ambiguous Use of Data**: OpenAI's policy isn't clear in some areas, such as what exactly "business transfers" and "legal obligations" mean. There's also uncertainty about sharing data with "unspecified third parties" without clearly informing users.
 
 - **Content Use Risk**: Interactions, like reviewing legal documents or code, could unintentionally be added to ChatGPT’s database. As OpenAI mentions, content users provide can be used to improve their services, potentially influencing other users' experiences. However, they do offer an [opt-out](https://help.openai.com/en/articles/5722486-how-your-data-is-used-to-improve-model-performance) for those who don't want their content used to train the model.
+
