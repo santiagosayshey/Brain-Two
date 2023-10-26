@@ -157,4 +157,12 @@ Issues with the Bad Prompt:
 - Vague on specific essay requirements (length, key points to cover, etc.).
 - Might tempt users to submit AI-generated content as their own, which is academically dishonest.
 
+![](docs/Images/Pasted%20image%2020231027080635.png)
+
+Strengths of the Good Prompt:
+
+- Doesn't disclose any personal or identifiable information.
+- Seeks guidance rather than the entire essay, promoting academic integrity.
+- Clearly specifies the kind of help needed (outline, key points, references).
+- Maximizes output quality by seeking guidance on a specific topic and format.
 
