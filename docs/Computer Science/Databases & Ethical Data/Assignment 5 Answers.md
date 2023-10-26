@@ -149,13 +149,12 @@ OpenAI's approach to storing ChatGPT interaction data has raised concerns in the
 4. **Relevancy Over Quantity**:
     - Include only data that is necessary for the AI to generate a relevant response.
 
-```
-Bad Prompt:
-Can you write my essay for me on the Renaissance period. My name is Mark Thompson, and my student ID is a1799298. It's for Professor Anderson's class at Hillside University. Oh, and I need it in APA format.
+![](docs/Images/Pasted%20image%2020231027080613.png)
 
 Issues with the Bad Prompt:
 
-Reveals personal details like name and student ID.
-Vague on specific essay requirements (length, key points to cover, etc.).
-Might tempt users to submit AI-generated content as their own, which is academically dishonest.
-```
+- Reveals personal details like name and student ID.
+- Vague on specific essay requirements (length, key points to cover, etc.).
+- Might tempt users to submit AI-generated content as their own, which is academically dishonest.
+
+
