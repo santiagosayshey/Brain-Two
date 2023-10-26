@@ -120,5 +120,6 @@ OpenAI's approach to storing ChatGPT interaction data has raised concerns in the
 - There's potential for ChatGPT to be used to spread misinformation or propaganda, especially if integrated into widely-used platforms.
 
 **4. Impersonation and Identity:**
-- Advanced AI models like ChatGPT could, in theory, impersonate specific writing styles or generate text resembling specific individuals, leading to legal issues around fraud and identity theft. 
+- Impersonation of specific writing styles or the ability to generate text resembling specific individuals is possible, leading to legal issues around fraud and identity theft.
+- With the integration of DALL-E recently, image generation could lead to 
 
