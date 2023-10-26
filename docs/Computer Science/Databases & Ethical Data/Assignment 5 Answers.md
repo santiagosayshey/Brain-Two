@@ -78,6 +78,6 @@ OpenAI's approach to storing interaction data for ChatGPT has raised eyebrows in
 	- **Device Information**: Details like device name, operating system, and browser type.
 	- **Cookies and Analytics**: OpenAI uses cookies for its services and may deploy various online analytics products to assess user activity.
 
-- **Ambiguous Use of Personal Information**: The privacy policy's language is vague in areas. For instance, while OpenAI states the collection of data to improve services and prevent misuse, the breadth of "business transfers" or what constitutes "legal obligations" remains undefined. This lack of clarity can be problematic as the policy also notes the potential sharing of users' personal information with "unspecified third parties" without explicit user notification.
+- **Ambiguous Use of Data**: OpenAI's policy is unclear on some data usage aspects, such as the scope of "business transfers" and "legal obligations." There's also ambiguity regarding sharing data with "unspecified third parties" without clear user notification.
 
-- **Content Use Concern**: A considerable concern is the potential for user-generated content to become part of ChatGPT’s database. For instance, if an attorney used the tool to review a legal document or a programmer sought feedback on code, those interactions could inadvertently contribute to further training the model and might even appear in future user prompts.
+- **Content Use Risk**: User interactions, like reviewing legal documents or code, could unintentionally be added to ChatGPT’s database, possibly influencing future user interactions.
