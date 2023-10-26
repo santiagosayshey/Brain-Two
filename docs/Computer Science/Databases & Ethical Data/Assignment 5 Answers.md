@@ -42,3 +42,7 @@ A landmark achievement came in 2017 with the unveiling of the Transformer archit
 
 - **Generative AI in the Limelight**:  
 By 2022, generative AI had captured mainstream attention, democratizing powerful AI models for the masses. This shift allowed individuals and entities alike to tap into the potential of generative AI without necessitating expertise as a data scientist or machine learning engineer.
+
+
+
+ChatGPT's training follows a two-step process: pre-training and fine-tuning.
