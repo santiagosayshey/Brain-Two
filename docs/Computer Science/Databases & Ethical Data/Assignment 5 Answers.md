@@ -114,7 +114,6 @@ OpenAI's approach to storing ChatGPT interaction data has raised concerns in the
 - ChatGPT might incorporate content without permission, potentially infringing on intellectual copyrights.
 
 **2. Security Concerns:**
-
 - The potential risk of adversarial attacks where malicious actors manipulate the model to produce harmful outputs.
 
 **3. Misinformation and Propaganda:**
