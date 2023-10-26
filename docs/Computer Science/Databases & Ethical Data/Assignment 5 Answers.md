@@ -72,6 +72,10 @@ OpenAI's approach to storing interaction data for ChatGPT has raised eyebrows in
 	- **Communication Information**: Details shared during communications, like name and the content of messages.
 	- **Social Media Information**: Personal details shared while interacting with OpenAI's social media pages on platforms like Facebook, Twitter, and LinkedIn.
 
+```
+As noted above, we may use Content you provide us to improve our Services, for example to train the models that power ChatGPT
+```
+
 - **Automatically Collected Information**:
 	- **Log Data**: This includes information like IP address, browser type, and user interactions with the website.
 	- **Usage Data**: Metrics about content viewed, features used, and general user behavior.
