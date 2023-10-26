@@ -27,7 +27,7 @@ The journey into generative AI began as early as the 1960s, with Joseph Weizenba
 
 - **Challenges and ANNs**:  
 Though the first Artificial Neural Networks (ANNs) emerged in the 1940s, they were stymied by hurdles such as computational limitations and gaps in comprehending the brain's biological intricacies.
-    
+
 - **Backpropagation and Training**:  
 The 1980s heralded a significant shift with the introduction of the backpropagation algorithm. Prior to its advent, training Neural Networks was an intricate endeavor. However, backpropagation revolutionized this, streamlining the training process by efficiently calculating the gradient of the error in relation to the neuron-associated parameters.
 
