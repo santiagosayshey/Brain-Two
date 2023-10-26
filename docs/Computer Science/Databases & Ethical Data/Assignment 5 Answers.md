@@ -121,5 +121,5 @@ OpenAI's approach to storing ChatGPT interaction data has raised concerns in the
 
 **4. Impersonation and Identity:**
 - Impersonation of specific writing styles or the ability to generate text resembling specific individuals is possible, leading to legal issues around fraud and identity theft.
-- With the integration of DALL-E recently, image generation could lead to 
+- With the integration of DALL-E recently, image generation could lead to things like forgery 
 
