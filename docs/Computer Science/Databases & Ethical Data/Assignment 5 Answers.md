@@ -66,18 +66,18 @@ ChatGPT's training followed a two-step process: pre-training and fine-tuning.
 
 OpenAI's approach to storing interaction data for ChatGPT has raised eyebrows in the realm of data privacy. A close examination of the company's [privacy policy](https://openai.com/privacy/) unveils the extent of information that ChatGPT gathers and how it might use this data:
 
-1. **Types of Personal Information Collected**:
-    
-    - **Account Information**: This includes name, contact details, payment card data, and transaction history.
-    - **User Content**: Any information included in user input, file uploads, or feedback to the services.
-    - **Communication Information**: Details shared during communications, like name and the content of messages.
-    - **Social Media Information**: Personal details shared while interacting with OpenAI's social media pages on platforms like Facebook, Twitter, and LinkedIn.
-2. **Automatically Collected Information**:
-    
-    - **Log Data**: This includes information like IP address, browser type, and user interactions with the website.
-    - **Usage Data**: Metrics about content viewed, features used, and general user behavior.
-    - **Device Information**: Details like device name, operating system, and browser type.
-    - **Cookies and Analytics**: OpenAI uses cookies for its services and may deploy various online analytics products to assess user activity.
-3. **Ambiguous Use of Personal Information**: The privacy policy's language is vague in areas. For instance, while OpenAI states the collection of data to improve services and prevent misuse, the breadth of "business transfers" or what constitutes "legal obligations" remains undefined. This lack of clarity can be problematic as the policy also notes the potential sharing of users' personal information with "unspecified third parties" without explicit user notification.
-    
-4. **Content Use Concern**: A considerable concern is the potential for user-generated content to become part of ChatGPT’s database. For instance, if an attorney used the tool to review a legal document or a programmer sought feedback on code, those interactions could inadvertently contribute to further training the model and might even appear in future user prompts.
+- **Types of Personal Information Collected**:
+	- **Account Information**: This includes name, contact details, payment information, and transaction history.
+	- **User Content**: Any information included in user input, file uploads, or feedback to the services.
+	- **Communication Information**: Details shared during communications, like name and the content of messages.
+	- **Social Media Information**: Personal details shared while interacting with OpenAI's social media pages on platforms like Facebook, Twitter, and LinkedIn.
+
+- **Automatically Collected Information**:
+	- **Log Data**: This includes information like IP address, browser type, and user interactions with the website.
+	- **Usage Data**: Metrics about content viewed, features used, and general user behavior.
+	- **Device Information**: Details like device name, operating system, and browser type.
+	- **Cookies and Analytics**: OpenAI uses cookies for its services and may deploy various online analytics products to assess user activity.
+
+- **Ambiguous Use of Personal Information**: The privacy policy's language is vague in areas. For instance, while OpenAI states the collection of data to improve services and prevent misuse, the breadth of "business transfers" or what constitutes "legal obligations" remains undefined. This lack of clarity can be problematic as the policy also notes the potential sharing of users' personal information with "unspecified third parties" without explicit user notification.
+
+- **Content Use Concern**: A considerable concern is the potential for user-generated content to become part of ChatGPT’s database. For instance, if an attorney used the tool to review a legal document or a programmer sought feedback on code, those interactions could inadvertently contribute to further training the model and might even appear in future user prompts.
