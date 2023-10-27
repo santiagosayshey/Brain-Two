@@ -6,7 +6,9 @@ Has OpenAI's **latest** version of ChatGPT sourced all of its training data ethi
 
 This question is impossible to definitively answer. At best, it can be said that there exists undeniable evidence that highlights issues with the way in which the data used to train GPT-3 and 4 was sourced, but this evidence lacks the context of intent. 
 
-According to Brown et al. (2020), GPT-3 was primarily trained through the web scraping of the Common Crawl and WebText datasets, as well as online book collections Books1 & Books2 & Wikipedia. Furthermore, according to OpenAI's own privacy policy, user conversations and additional data is further used to train the models. This data is then refined through undisclosed methods to remove bias and redundant information. While the specifics of the sources in which GPT-4 was trained is not currently known, it can be assumed that the existing data set was used in addition with new
+According to Brown et al. (2020), GPT-3 was primarily trained through the web scraping of the Common Crawl and WebText datasets, as well as online book collections Books1 & Books2 & Wikipedia. Furthermore, according to OpenAI's own privacy policy, user conversations and additional data is further used to train the models. This data is then refined through undisclosed methods to remove bias and redundant information. While the specifics of the sources in which GPT-4 was trained is not currently known, it can be assumed that the existing data set was used in addition with newer sources. According to this article, GPT-4 has a staggering 100 trillion parameters compared to GPT-3's 175 billion. https://simplified.com/blog/ai-writing/chatgpt-vs-gpt-3/
+
+
 
 
 **References**
