@@ -4,7 +4,7 @@
 Has OpenAI's **latest** version of ChatGPT sourced all of its training data ethically? You must support your answer with clear explanations, sound logic, and referenced evidence. (Also, make sure you identify which version you're talking about. You will be using 3.5, as noted below, but is this the latest version?)
 ```
 
-This question is impossible to definitively answer. At best, there exists 
+This question is impossible to definitively answer. At best, there exists undeniable evidence that the way in which 
 ### Question 2 (5 marks)
 
 You should create an account and connect to ChatGPT. The free access plan allows you to use ChatGPT 3.5, which is the version that we wish you to use for this assignment. Find a short poem in the public domain, 8 lines long, and type/paste the first 6 lines into ChatGPT. What does ChatGPT do when you do this? 
