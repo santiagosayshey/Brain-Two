@@ -4,7 +4,7 @@
 Has OpenAI's **latest** version of ChatGPT sourced all of its training data ethically? You must support your answer with clear explanations, sound logic, and referenced evidence. (Also, make sure you identify which version you're talking about. You will be using 3.5, as noted below, but is this the latest version?)
 ```
 
-This question is impossible to definitively answer. At best, there exists undeniable evidence that the way in which 
+This question is impossible to definitively answer. At best, there exis
 ### Question 2 (5 marks)
 
 ```
