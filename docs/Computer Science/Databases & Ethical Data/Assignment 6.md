@@ -45,6 +45,18 @@ Analyse the two lines you have been given and propose an explanation for why tho
 
 You should include either an image or the text of your interaction with ChatGPT.
 ```
+
+> **"Masks" by Shel Silverstein**
+
+*She had blue skin,
+And so did he.
+He kept it hid
+And so did she.
+They searched for blue
+Their whole life through.
+Then passed right by–
+And never knew.*
+
 ### Question 3 (5 marks)
 
 ```
