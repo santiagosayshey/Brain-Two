@@ -126,3 +126,5 @@ The Disagreement Level Scale (DLS) employs an _Ordinal Scale_ as it orders level
 - **3**: Split views; the field is divided, with multiple valid perspectives.
 - **4**: Major disagreement; no clear prevailing view exists, and debates are ongoing.
 - **5**: Total contention; the topic is highly controversial with no signs of reaching consensus.
+
+![](docs/Images/Pasted%20image%2020231029081531.png)
