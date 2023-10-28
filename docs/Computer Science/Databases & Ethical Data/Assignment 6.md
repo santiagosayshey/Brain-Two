@@ -24,6 +24,7 @@ But it begs the question: Is the potential compromise on data privacy a price wo
 
 In the grand scheme, these ethical debates aren't merely black or white. They prompt us to reassess our values, determine our priorities, and decide what we're willing to sacrifice for the larger good. The balance between individual privacy and collective benefit remains a tightrope walk, one that we, as a society, are still learning to navigate.
 
+Drawing from the evidence and discussions presented, it can be concluded that the method in which data is sourced for these models is *not* ethical. Yet, this conclusion propels us into an even more fundamental territory: Does it matter if it's ethical or not? If the advancements derived from such technologies dramatically benefit humanity as a whole, should we reconsider our traditional ethical boundaries? Or should we adhere to a strict moral code, even if it means potentially hindering progress? These questions, rooted in the essence of what it means to progress responsibly, will undoubtedly shape the trajectory of future technological developments.
 
 
 **References**
