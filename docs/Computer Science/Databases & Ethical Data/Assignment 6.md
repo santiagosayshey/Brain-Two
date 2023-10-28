@@ -59,6 +59,7 @@ And never knew.*
 
 ![](docs/Images/Pasted%20image%2020231028111536.png)
 
+- The two lines were generated based on the context and theme of the original poem. They offer a contrasting resolution that emphasises discovery and the celebration of diversity. The production of these lines is influenced by the model's understanding of poetic structure and its ability to continue a narrative in a complementary manner.
 ### Question 3 (5 marks)
 
 ```
