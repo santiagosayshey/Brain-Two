@@ -83,8 +83,8 @@ Find out from ChatGPT 3.5 how current its information is. List at least two thin
 
 - Another interesting answer. I think it shows that there can exist unaccounted for ambiguity when answering more complex questions that struggles to account for any possible future change.
 
-
-
+![](docs/Images/Pasted%20image%2020231029065803.png)
+- A more 
 ### Question 4 (10 marks)
 
 ```
