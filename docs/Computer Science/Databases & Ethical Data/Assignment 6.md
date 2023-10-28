@@ -16,7 +16,7 @@ The process of refining training data to remove bias is an intricate endeavor. N
 
 Furthermore, according to OpenAI 's own privacy policy, user interactions are too, used to train the model and improve it further. An opt-out for users who don't want their data to be used is provided, however, it's worth noting that while this opt-out option exists, many users might not be aware of it. OpenAI's proactive approach could be questioned here: if they genuinely prioritise ethical considerations, should they not actively inform users of their right to opt-out? Is simply having an opt-out clause buried somewhere in the terms and conditions sufficient?
 
-Regardless, we must question the value of intent for such
+Regardless, we must question the value of intent for such a complex debate. Does any of this matter in the context of OpenAI's goal? 
 
 
 
