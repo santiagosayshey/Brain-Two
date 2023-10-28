@@ -14,11 +14,9 @@ As these datasets are massive compilations of online content, there are inherent
 
 The process of refining training data to remove bias is an intricate endeavor. No matter how advanced the refining methods are, there will always be nuances, subtleties, and cultural contexts that can introduce biases in the results. It's akin to filtering water: while larger contaminants can be removed, microscopic elements may still permeate. This raises a critical question: Can a model ever truly be unbiased, given the vast and diverse nature of the data it's trained on?
 
-Furthermore, according to OpenAI 's own privacy policy, user interactions are too, used to train the model and improve it further. an opt-out for users who don't want their data to be used. However, it's worth noting that while this opt-out option exists, many users might not be aware of it. OpenAI's proactive approach could be questioned here: if they genuinely prioritise ethical considerations, should they not actively inform users of their right to opt-out? Is simply having an opt-out clause buried somewhere in the terms and conditions sufficient?
+Furthermore, according to OpenAI 's own privacy policy, user interactions are too, used to train the model and improve it further. An opt-out for users who don't want their data to be used is provided, however, it's worth noting that while this opt-out option exists, many users might not be aware of it. OpenAI's proactive approach could be questioned here: if they genuinely prioritise ethical considerations, should they not actively inform users of their right to opt-out? Is simply having an opt-out clause buried somewhere in the terms and conditions sufficient?
 
-
-
-Is it ethical for a company to leverage such vast data without complete transparency about its sources and without actively informing users of their rights? The question remains open for debate.
+Regardless, we must question the value of intent for such
 
 
 
