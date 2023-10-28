@@ -4,11 +4,11 @@
 Has OpenAI's **latest** version of ChatGPT sourced all of its training data ethically? You must support your answer with clear explanations, sound logic, and referenced evidence. (Also, make sure you identify which version you're talking about. You will be using 3.5, as noted below, but is this the latest version?)
 ```
 
-This question is impossible to definitively answer. At best, it can be said that there exists undeniable evidence that highlights issues with the way in which the data used to train GPT-3 and 4 was sourced, but this evidence lacks the context of intent.
+It's impossible to provide a definitive answer to this question. At most, one can argue that there is compelling evidence pointing to issues with how the data for training GPT-3 and 4 was sourced. However, this evidence doesn't necessarily reflect intent.
 
-According to Brown et al. (2020), GPT-3 was primarily trained through the web scraping of the Common Crawl, WebText datasets, as well as online book collections Books1 & Books2 & Wikipedia. 
+As per Brown et al. (2020), GPT-3's primary training sources included web scraping from the Common Crawl & WebText datasets, and online book collections such as Books1, Books2, and Wikipedia.
 
-Moving on to GPT-4, although specific details regarding its training sources remain undisclosed, given the massive increase in parameters from GPT-3's 175 billion to GPT-4's 100 trillion, as noted in [this article](https://simplified.com/blog/ai-writing/chatgpt-vs-gpt-3/), it can be inferred that it may have incorporated a broader range of sources. 
+As for GPT-4, while exact details about its training sources are not publicly disclosed, the significant jump in parameters from GPT-3's 175 billion to GPT-4's 100 trillion, as highlighted in [this article](https://simplified.com/blog/ai-writing/chatgpt-vs-gpt-3/), suggests it might have utilized a more diverse range of sources.
 
 Furthermore, OpenAI's own privacy policy reveals that user interactions also play a role in refining the model. An opt-out for users who don't want their data to be used is provided, however, it's worth noting that while this opt-out option exists, many users might not be aware of it. OpenAI's proactive approach could be questioned here: if they genuinely prioritise ethical considerations, should they not actively inform users of their right to opt-out? Is simply having an opt-out clause buried somewhere in the terms and conditions sufficient?
 
