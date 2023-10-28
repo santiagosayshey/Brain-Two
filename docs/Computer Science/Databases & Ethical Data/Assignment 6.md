@@ -91,7 +91,8 @@ Find out from ChatGPT 3.5 how current its information is. List at least two thin
 ![](docs/Images/Pasted%20image%2020231029071011.png)
 - A really interesting response. It says "Indie Cindy (2014) was indeed a Pixies album released after my cut-off date in January 2022", which is pretty hilarious.
 - It mentions *Beneath the Eyrie* in the explanation, despite me not mentioning it in the follow up response.
-- *Doggerel* (2022) is left out and was clearly accounted for when mentioning that it was possible for more albums to be released aft 
+- *Doggerel* (2022) is left out and was clearly accounted for when mentioning that it was possible for more albums to be released after it's cut-off date
+- There is some clear incorrect information for *Come On Pilgrim*. It's widely accepted that it is indeed an EP, and not an album but the Pixies themselves consider it to be their debut album and not just an EP. 
 ### Question 4 (10 marks)
 
 ```
