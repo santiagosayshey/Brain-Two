@@ -73,7 +73,7 @@ Find out from ChatGPT 3.5 how current its information is. List at least two thin
 
 ![](docs/Images/Pasted%20image%2020231029064653.png)
 
-- This information varies. According to some Reddit threads online, this cutoff date has been extended to April 2023
+- This information varies. According to some OpenAI help threads online, this cut-off date has been extended to April 2023 in some regions. The original cut-off date was January 2021 (When ChatGPT first released in November 2022)
 
 ![](docs/Images/Pasted%20image%2020231028112849.png)
 - This is really interesting. It comprehends that it's cut-off date is January 2022, yet still provides an (incorrect) answer for the 2022 Champion but not the 2023 Champion. 
