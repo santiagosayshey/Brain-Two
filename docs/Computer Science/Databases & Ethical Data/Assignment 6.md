@@ -12,26 +12,6 @@ As for the latest model GPT-4, while exact details about its training sources ar
 
 Furthermore, OpenAI's own privacy policy reveals that user interactions also play a role in refining the model. An opt-out for users who don't want their data to be used is provided, however, it's worth noting that while this opt-out option exists, many users might not be aware of it. 
 
-```
-Types of Personal Information Collected:
-
-- Account Information: This includes names, contact details, payment data, and transaction records.
-- User Content: Information from user inputs, uploaded files, or feedback given to the services.
-- Communication Information: Details from interactions with OpenAI, such as names and the content of messages.
-- Social Media Information: Personal data shared during interactions with OpenAI's social media pages on platforms like Facebook and LinkedIn.
-
-Automatically Collected Information:
-
-- Log Data: Information like IP addresses, browser types, and user interactions with the website.
-- Usage Data: Details about the content viewed, features used, and overall user behaviour.
-- Device Information: Specifics about the user's device, operating system, and browser type.
-- Cookies and Analytics: OpenAI uses cookies and may use online analytics tools to assess user activity.
-```
-
-```
-As noted above, we may use Content you provide us to improve our Services, for example to train the models that power ChatGPT. See [here](https://help.openai.com/en/articles/5722486-how-your-data-is-used-to-improve-model-performance) for instructions on how you can opt out of our use of your Content to train our models.
-```
-
 OpenAI's proactive approach could be questioned here: if they genuinely prioritise ethical considerations, should they not actively inform users of their right to opt-out? Is simply having an opt-out clause buried somewhere in the terms and conditions sufficient?
 
 As these datasets are massive compilations of online content, there are inherent challenges in ensuring every piece of information is ethically sourced, free of bias, or completely accurate.
