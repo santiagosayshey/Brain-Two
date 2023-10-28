@@ -6,13 +6,17 @@ Has OpenAI's **latest** version of ChatGPT sourced all of its training data ethi
 
 This question is impossible to definitively answer. At best, it can be said that there exists undeniable evidence that highlights issues with the way in which the data used to train GPT-3 and 4 was sourced, but this evidence lacks the context of intent.
 
-According to Brown et al. (2020), GPT-3 was primarily trained through the web scraping of the Common Crawl, WebText datasets, as well as online book collections Books1 & Books2 & Wikipedia. As these datasets are massive compilations of online content, there are inherent challenges in ensuring every piece of information is ethically sourced, free of bias, or completely accurate.
+According to Brown et al. (2020), GPT-3 was primarily trained through the web scraping of the Common Crawl, WebText datasets, as well as online book collections Books1 & Books2 & Wikipedia. 
+
+Moving on to GPT-4, although specific details regarding its training sources remain undisclosed, given the massive increase in parameters from GPT-3's 175 billion to GPT-4's 100 trillion, as noted in [this article](https://simplified.com/blog/ai-writing/chatgpt-vs-gpt-3/), it can be inferred that it may have incorporated a broader range of sources. 
+
+As these datasets are massive compilations of online content, there are inherent challenges in ensuring every piece of information is ethically sourced, free of bias, or completely accurate.
 
 The process of refining training data to remove bias is an intricate endeavor. No matter how advanced the refining methods are, there will always be nuances, subtleties, and cultural contexts that can introduce biases in the results. It's akin to filtering water: while larger contaminants can be removed, microscopic elements may still permeate. This raises a critical question: Can a model ever truly be unbiased, given the vast and diverse nature of the data it's trained on?
 
-Furthermore, while OpenAI uses user interactions to improve its models, it also offers an opt-out for users who don't want their data to be used. However, it's worth noting that while this opt-out option exists, many users might not be aware of it. OpenAI's proactive approach could be questioned here: if they genuinely prioritize ethical considerations, should they not actively inform users of their right to opt-out? Is simply having an opt-out clause buried somewhere in the terms and conditions sufficient?
+Furthermore, while OpenAI uses user interactions to improve its models, it also offers an opt-out for users who don't want their data to be used. However, it's worth noting that while this opt-out option exists, many users might not be aware of it. OpenAI's proactive approach could be questioned here: if they genuinely prioritise ethical considerations, should they not actively inform users of their right to opt-out? Is simply having an opt-out clause buried somewhere in the terms and conditions sufficient?
 
-Moving on to GPT-4, although specific details regarding its training sources remain undisclosed, given the massive increase in parameters from GPT-3's 175 billion to GPT-4's 100 trillion, as noted in [this article](https://simplified.com/blog/ai-writing/chatgpt-vs-gpt-3/), it can be inferred that it may have incorporated a broader range of sources. This amplifies the aforementioned concerns about data sourcing and potential biases.
+
 
 Is it ethical for a company to leverage such vast data without complete transparency about its sources and without actively informing users of their rights? The question remains open for debate.
 
