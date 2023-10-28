@@ -73,7 +73,7 @@ Find out from ChatGPT 3.5 how current its information is. List at least two thin
 ![](docs/Images/Pasted%20image%2020231028112629.png)
 
 ![](docs/Images/Pasted%20image%2020231028112849.png)
-- This is really interesting. It comprehends that it's cut-off data is January 2022, yet still provides an (incorrect) answer for the 2022 Champion but not the 2023 Champion. 
+- This is really interesting. It comprehends that it's cut-off date is January 2022, yet still provides an (incorrect) answer for the 2022 Champion but not the 2023 Champion. 
  
 ### Question 4 (10 marks)
 
