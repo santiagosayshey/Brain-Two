@@ -57,7 +57,7 @@ Their whole life through.
 Then passed right by–
 And never knew.*
 
-
+![](docs/Images/Pasted%20image%2020231028111536.png)
 
 ### Question 3 (5 marks)
 
