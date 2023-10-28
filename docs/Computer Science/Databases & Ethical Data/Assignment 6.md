@@ -16,8 +16,6 @@ As these datasets are massive compilations of online content, there are inherent
 
 The process of refining training data to remove bias is an intricate endeavour. No matter how advanced the refining methods are, there will always be nuances, subtleties, and cultural contexts that can introduce biases in the results. It's akin to filtering water: while larger contaminants can be removed, microscopic elements may still permeate. This raises a critical question: Can a model ever truly be unbiased, given the vast and diverse nature of the data it's trained on?
 
-
-
 Regardless, we must question the value of intent for such a complex debate. Does any of this matter in the context of OpenAI's goal? 
 
 
