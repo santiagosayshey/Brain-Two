@@ -72,7 +72,9 @@ Find out from ChatGPT 3.5 how current its information is. List at least two thin
 
 ![](docs/Images/Pasted%20image%2020231028112629.png)
 
-
+![](docs/Images/Pasted%20image%2020231028112849.png)
+- This is really interesting. It kno
+ 
 ### Question 4 (10 marks)
 
 ```
