@@ -90,7 +90,7 @@ Find out from ChatGPT 3.5 how current its information is. List at least two thin
 
 ![](docs/Images/Pasted%20image%2020231029070628.png)
 - I tried to trick ChatGPT into making the answer a bit more focused on the object ranking, rather than listing all the albums but it does a good job of realising that its possible that more albums have been made (*Doggerel* came out September 2022)
-- For some reason, it did miss another album though - *Indie Cindy* (2014). This album originally released as 3 separate EP's so perhaps there was some conflicting information in it's training data. 
+- For some reason, it did miss 2 whole other albums though - *Indie Cindy* (2014), and *Trompe Le Monde* (1991). This album originally released as 3 separate EP's so perhaps there was some conflicting information in it's training data. 
 ### Question 4 (10 marks)
 
 ```
