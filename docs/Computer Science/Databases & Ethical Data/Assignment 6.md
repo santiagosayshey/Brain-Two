@@ -89,7 +89,9 @@ Find out from ChatGPT 3.5 how current its information is. List at least two thin
 - A more straightforward answer that actually acknowledges the possibility of any games made after it's cut off date.
 
 ![](docs/Images/Pasted%20image%2020231029071011.png)
-- A really interesting response. It says "Indie Cindy (2014) was indeed a Pixies album released after my cut-off date in January 2022", which is pretty hilarious
+- A really interesting response. It says "Indie Cindy (2014) was indeed a Pixies album released after my cut-off date in January 2022", which is pretty hilarious.
+- It mentions Beneath the Eyrie in the explanation, despite me not mentioning it in the follow up response.
+- Doggerel is left out
 ### Question 4 (10 marks)
 
 ```
