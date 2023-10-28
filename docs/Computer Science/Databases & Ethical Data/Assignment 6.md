@@ -118,3 +118,11 @@ This scale can be based on the _Interval Scale_ since we want to denote meaningf
 - **4**: Overwhelming evidence; consensus in the field and robust peer-reviewed research support the claim.
 
 1. **Disagreement Level Scale (DLS)**: How much disagreement there is over a particular claim.
+
+For the level of disagreement, an _Ordinal Scale_ is apt since it orders the levels without assuming consistent differences between levels.
+
+- **1**: Consensus; virtually no disagreement in the field.
+- **2**: Minor disagreement; a small minority questions the prevailing view.
+- **3**: Split views; the field is divided, with multiple valid perspectives.
+- **4**: Major disagreement; no clear prevailing view exists, and debates are ongoing.
+- **5**: Total contention; the topic is highly controversial with no signs of reaching consensus.
