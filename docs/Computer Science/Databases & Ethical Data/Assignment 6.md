@@ -59,7 +59,11 @@ And never knew.*
 
 ![](docs/Images/Pasted%20image%2020231028111536.png)
 
-- The two lines were generated based on the context and theme of the original poem. They offer a contrasting resolution that emphasises discovery and the celebration of diversity. The production of these lines is influenced by the model's understanding of poetic structure and its ability to continue a narrative in a complementary manner.
+The two lines were generated based on the context and theme of the original poem. They offer a contrasting resolution that emphasises discovery and the celebration of diversity. The production of these lines is influenced by the model's understanding of poetic structure and its ability to continue a narrative in a complementary manner. 
+
+This capability stems from LLMs' proficiency in predicting the next most likely word by analysing vast amounts of text data. Given a series of words, the model references the patterns it's learned to produce a coherent continuation. While it doesn't truly "understand" like humans, it mimics understanding by leveraging these patterns in context. 
+
+This scenario is intriguing as it beckons us to question the essence of understanding itself. Can the billions or trillions of parameters used by such a model, drawing upon myriad patterns and data, be equated to a human brain forming conclusions based on understanding and personal experiences?
 ### Question 3 (5 marks)
 
 ```
