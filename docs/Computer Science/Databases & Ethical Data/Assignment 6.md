@@ -70,6 +70,9 @@ This scenario is intriguing as it beckons us to question the essence of understa
 Find out from ChatGPT 3.5 how current its information is. List at least two things that might be incorrect or incomplete. You may need to ask it several questions to get these answers.
 ```
 
+![](docs/Images/Pasted%20image%2020231028112629.png)
+
+
 ### Question 4 (10 marks)
 
 ```
