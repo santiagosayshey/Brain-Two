@@ -32,6 +32,8 @@ Drawing from the evidence and discussions presented, it can be concluded that th
 **[Brown, T, Mann, B, Ryder, N, Subbiah, M, Kaplan, JD, Dhariwal, P, Neelakantan, A, Shyam, P, Sastry, G, Askell, A & Agarwal, S 2020]**, ‘Language models are few-shot learners’, Advances in neural information processing systems, 33, pp. 1877–1901.
 
 **[OpenAI OpCo, LLC 2023]**, Privacy policy, OpenAI, viewed 23 October 2023, [https://openai.com/policies/privacy-policy](https://openai.com/policies/privacy-policy).
+
+Yadav, A 2023, 'A Complete Comparison of ChatGPT, GPT-3, and GPT-4: What’s the Real Difference?', _AI Writing_, blog post, 21 May, viewed 28 October 2023, [https://simplified.com/blog/ai-writing/chatgpt-vs-gpt-3/](https://simplified.com/blog/ai-writing/chatgpt-vs-gpt-3/).
 ### Question 2 (5 marks)
 
 ```
