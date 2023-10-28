@@ -24,6 +24,8 @@ But it begs the question: Is the potential compromise on data privacy a price wo
 
 In the grand scheme, these ethical debates aren't merely black or white. They prompt us to reassess our values, determine our priorities, and decide what we're willing to sacrifice for the larger good. The balance between individual privacy and collective benefit remains a tightrope walk, one that we, as a society, are still learning to navigate.
 
+
+
 **References**
 **[Brown, T, Mann, B, Ryder, N, Subbiah, M, Kaplan, JD, Dhariwal, P, Neelakantan, A, Shyam, P, Sastry, G, Askell, A & Agarwal, S 2020]**, ‘Language models are few-shot learners’, Advances in neural information processing systems, 33, pp. 1877–1901.
 
