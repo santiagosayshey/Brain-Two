@@ -129,4 +129,5 @@ The Disagreement Level Scale (DLS) employs an _Ordinal Scale_ as it orders level
 
 ![](docs/Images/Pasted%20image%2020231029082029.png)
 
+![](docs/Images/Pasted%20image%2020231029082428.png)
 
