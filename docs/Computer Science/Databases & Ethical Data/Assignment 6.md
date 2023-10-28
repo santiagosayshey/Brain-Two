@@ -4,7 +4,7 @@
 Has OpenAI's **latest** version of ChatGPT sourced all of its training data ethically? You must support your answer with clear explanations, sound logic, and referenced evidence. (Also, make sure you identify which version you're talking about. You will be using 3.5, as noted below, but is this the latest version?)
 ```
 
-It's impossible to provide a definitive answer to this question. At most, one can argue that there is compelling evidence pointing to issues with how the data for training GPT-3 and 4 was sourced. However, this evidence doesn't necessarily reflect intent.
+While the advancements made by AI models such as GPT-3 and GPT-4 undeniably bring numerous benefits, drawing from the evidence available, it can be argued that the method in which data is sourced for these models is not entirely ethical. However, understanding the full scope of this assertion requires an exploration of both the sourcing methods and the broader implications of their deployment. This involves grappling with the intricate relationship between intent, impact, and the inherent challenges tied to the vast and diverse data on which these models are trained.
 
 As per Brown et al. (2020), GPT-3's primary training sources included web scraping from the Common Crawl & WebText datasets, and online book collections such as Books1, Books2, and Wikipedia.
 
