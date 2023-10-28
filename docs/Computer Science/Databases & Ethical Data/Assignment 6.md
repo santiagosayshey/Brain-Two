@@ -12,6 +12,19 @@ As for the latest model GPT-4, while exact details about its training sources ar
 
 Furthermore, OpenAI's own privacy policy reveals that user interactions also play a role in refining the model. An opt-out for users who don't want their data to be used is provided, however, it's worth noting that while this opt-out option exists, many users might not be aware of it. 
 
+```
+•	Types of Personal Information Collected:
+o	Account Information: This includes names, contact details, payment data, and transaction records.
+o	User Content: Information from user inputs, uploaded files, or feedback given to the services.
+o	Communication Information: Details from interactions with OpenAI, such as names and the content of messages.
+o	Social Media Information: Personal data shared during interactions with OpenAI's social media pages on platforms like Facebook and LinkedIn.
+•	Automatically Collected Information:
+o	Log Data: Information like IP addresses, browser types, and user interactions with the website.
+o	Usage Data: Details about the content viewed, features used, and overall user behaviour.
+o	Device Information: Specifics about the user's device, operating system, and browser type.
+o	Cookies and Analytics: OpenAI uses cookies and may use online analytics tools to assess user activity.
+
+```
 
 OpenAI's proactive approach could be questioned here: if they genuinely prioritise ethical considerations, should they not actively inform users of their right to opt-out? Is simply having an opt-out clause buried somewhere in the terms and conditions sufficient?
 
