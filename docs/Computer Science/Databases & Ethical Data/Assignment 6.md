@@ -106,3 +106,15 @@ Your submitted answer should include a clear statement of both scales, why you h
 
 [Links to an external site.](https://www.cuemath.com/measurement/scales-of-measurement/) useful for a quick introduction to statistical scales of measurement. Think carefully about how you would use this scale, and even how detailed it has to be.
 ```
+
+1. **Evidence Support Scale (ESS)**: How much a claim is supported by evidence.
+
+This scale can be based on the _Interval Scale_ since we want to denote meaningful divisions between levels of evidence support, with each point on the scale having a specific, consistent meaning.
+
+- **0**: No evidence available or claim is based on speculation.
+- **1**: Limited evidence; some anecdotal or non-peer-reviewed sources might support the claim.
+- **2**: Moderate evidence; a mix of peer-reviewed and non-peer-reviewed sources support the claim.
+- **3**: Strong evidence; predominantly peer-reviewed sources support the claim.
+- **4**: Overwhelming evidence; consensus in the field and robust peer-reviewed research support the claim.
+
+1. **Disagreement Level Scale (DLS)**: How much disagreement there is over a particular claim.
