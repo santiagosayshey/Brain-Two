@@ -81,10 +81,10 @@ Find out from ChatGPT 3.5 how current its information is. List at least two thin
 
 ![](docs/Images/Pasted%20image%2020231029065540.png)
 
-- Another interesting answer. I think it shows that there can exist unaccounted for ambiguity when answering more complex questions that struggles to account for any possible future change.
+- Another interesting answer. I think it shows that there can exist unaccounted for ambiguity when answering more complex questions that struggles to account for any possible future change. I've found that ChatGPT often prioritises more recent events when there is some sort of duplicity, and of course it fails to know that I was actually talking
 
 ![](docs/Images/Pasted%20image%2020231029065803.png)
-- A more 
+- A more straightforward
 ### Question 4 (10 marks)
 
 ```
