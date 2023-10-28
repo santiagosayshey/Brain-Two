@@ -88,7 +88,8 @@ Find out from ChatGPT 3.5 how current its information is. List at least two thin
 ![](docs/Images/Pasted%20image%2020231029065803.png)
 - A more straightforward answer that actually acknowledges the possibility of any games made after it's cut off date.
 
-
+![](docs/Images/Pasted%20image%2020231029070411.png)
+- I tried to trick ChatGPT into making the answer a bit more focused on the object ranking, rather than listing all the albums but it does a good job of realising that its possible that more albums have been made (*Doggerel* came out September 2022)
 ### Question 4 (10 marks)
 
 ```
