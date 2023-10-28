@@ -109,7 +109,7 @@ Your submitted answer should include a clear statement of both scales, why you h
 
 1. **Evidence Support Scale (ESS)**: How much a claim is supported by evidence.
 
-This scale can be based on the _Interval Scale_ since we want to denote meaningful divisions between levels of evidence support, with each point on the scale having a specific, consistent meaning.
+The Evidence Support Scale (ESS) is based on the _Interval Scale_, as it denotes meaningful divisions between levels of evidence support, with each point on the scale having a specific, consistent meaning. This allows for a systematic and interpretable evaluation of the strength of evidence backing a claim.
 
 - **0**: No evidence available or claim is based on speculation.
 - **1**: Limited evidence; some anecdotal or non-peer-reviewed sources might support the claim.
@@ -119,7 +119,7 @@ This scale can be based on the _Interval Scale_ since we want to denote meaningf
 
 1. **Disagreement Level Scale (DLS)**: How much disagreement there is over a particular claim.
 
-For the level of disagreement, an _Ordinal Scale_ is apt since it orders the levels without assuming consistent differences between levels.
+The Disagreement Level Scale (DLS) employs an _Ordinal Scale_ as it orders levels of disagreement without assuming consistent differences between levels. This captures the nature of disagreements in a nuanced manner, reflecting how contentious a topic might be without insisting on equidistant divisions.
 
 - **1**: Consensus; virtually no disagreement in the field.
 - **2**: Minor disagreement; a small minority questions the prevailing view.
